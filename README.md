@@ -19,7 +19,7 @@ Relación de Integrantes:
 - Garcia Rodriguez, Gabriel Stefano - U202018627
 - Rentería Puga, Héctor Marcelo - U202216558
 - Flores Avalos, Diego - U20221B394
-- 
+- Bryan Ronald Espejo Gamarra - U202213278
 
 ## Historial de Versiones
 
@@ -183,12 +183,12 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
  </tr>
  <tr>
     <td colspan="2">Comunica oralmente con efectividad a diferentes rangos de audiencia.</th>
-    <td colspan="10"><b>Héctor Marcelo Rentería Puga</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Gabriel Stefano Garcia Rodriguez</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Diego Flores Avalos</b> <br>TB1:<br><br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>Salvador Edward Chamorro Acero</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b> </b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
+    <td colspan="10"><b>Héctor Marcelo Rentería Puga</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Gabriel Stefano Garcia Rodriguez</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Diego Flores Avalos</b> <br>TB1:<br><br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>Salvador Edward Chamorro Acero</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>  Bryan Ronald Espejo Gamarra </b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
     <td colspan="2"></td>
  </tr>
  <tr>
     <td colspan="2">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
-    <td colspan="10"><b>Héctor Marcelo Rentería Puga</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Gabriel Stefano Garcia Rodriguez</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Diego Flores Avalos</b> <br>TB1:<br><br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>Salvador Edward Chamorro Acero</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b> </b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
+    <td colspan="10"><b>Héctor Marcelo Rentería Puga</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Gabriel Stefano Garcia Rodriguez</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Diego Flores Avalos</b> <br>TB1:<br><br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>Salvador Edward Chamorro Acero</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br>Bryan Ronald Espejo Gamarra<b> </b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
     <td colspan="2"></td>
  </tr>
   </table>
