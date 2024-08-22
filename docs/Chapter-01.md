@@ -4,31 +4,25 @@
 
 ### 1.1.1. Descripción de la StartUp
 
-
-
 ### 1.1.2. Perfiles de Integrantes del equipo
 
-| Nombre Completo del integrante       | Descripcion de Carrera                                                                           | Fotografía                                      | Conocimientos y Habilidades a apuntar                                                                                                                                                                                                                                               |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | Ingeniería de Software<br> <br>2024-2<br>Universidad Peruana de Ciencias Aplicadas      | ![alt text](../assets/img/) |   |
-|      | Ingeniería de Software<br> <br>2024-2<br>Universidad Peruana de Ciencias Aplicadas      | ![alt text](../assets/img/)  |  |
-| Garcia Rodriguez Gabriel Stefano     | Ingeniería de Software<br> 6to Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas      | ![Gabriel García](../assets/img/Gabo.png)   | - Conocimientos de lenguajes de programación c++, typeScript, python, html y css.<br>- Habilidades de liderazgo y contribución en equipo.                                                                                                                                                       |
-|  | Ingeniería de Software<br>  <br> 2024-02 <br> Universidad Peruana de Ciencias aplicadas | ![alt text](../assets/imgs/)  |  |
-|   | Ingeniería de Software<br> <br>2024-2<br>Universidad Peruana de Ciencias Aplicadas      | ![alt text](../assets/img/) |  |
-
+| Nombre Completo del integrante   | Descripcion de Carrera                                                                      | Fotografía                                | Conocimientos y Habilidades a apuntar                                                                                                                                                               |
+| -------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                  | Ingeniería de Software<br> <br>2024-2<br>Universidad Peruana de Ciencias Aplicadas          | ![alt text](../assets/img/)               |                                                                                                                                                                                                     |
+|                                  | Ingeniería de Software<br> <br>2024-2<br>Universidad Peruana de Ciencias Aplicadas          | ![alt text](../assets/img/)               |                                                                                                                                                                                                     |
+| Garcia Rodriguez Gabriel Stefano | Ingeniería de Software<br> 6to Ciclo<br>2024-2<br>Universidad Peruana de Ciencias Aplicadas | ![Gabriel García](../assets/img/Gabo.png) | - Conocimientos de lenguajes de programación c++, typeScript, python, html y css.<br>- Habilidades de liderazgo y contribución en equipo.                                                           |
+| Flores Avalos Diego              | Ingeniería de Software<br> <br> 2024-02 <br> Universidad Peruana de Ciencias aplicadas      | ![Diego Flores](../assets/img/diego.png)  | - Conocimientos de programación en los lenguajes C++, Python, y JavaScript.<br> - Considero que soy una persona responsable y que se esfuerza en lograr un buen desempeño en los trabajos grupales. |
+|                                  | Ingeniería de Software<br> <br>2024-2<br>Universidad Peruana de Ciencias Aplicadas          | ![alt text](../assets/img/)               |                                                                                                                                                                                                     |
 
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y Problemática
 
-
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-
 #### 1.2.2.2. Lean UX Assumptions
-
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
@@ -43,6 +37,5 @@
 5. **Creemos que** aumentaremos la satisfacción del usuario y reduciremos la tasa de cancelación **si** los artesanos sienten que tienen control total sobre sus operaciones diarias. **Al proporcionar** herramientas de gestión personalizables y reportes detallados que los ayuden a tomar decisiones informadas, con la implementación de dashboards personalizados y la opción de crear reportes a medida según las necesidades de cada taller.
 
 #### 1.2.2.4. Lean UX Canvas
-
 
 ## 1.3. Segmento Objetivo
