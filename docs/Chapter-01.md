@@ -4,6 +4,16 @@
 
 ### 1.1.1. Descripción de la StartUp
 
+Nuestra plataforma ofrece herramientas tecnológicas para que artesanos gestionen eficientemente sus talleres de artesanía y bisutería. Permite organizar materiales, controlar inventarios, planificar la producción y gestionar pedidos personalizados. Además, fomenta la preservación de técnicas tradicionales a través de un espacio colaborativo para la comunidad artesanal. Los niveles de suscripción están diseñados para ajustarse al tamaño del taller, facilitando la optimización del trabajo con distribuidores.
+
+### Misión
+
+Brindar a los artesanos soluciones tecnológicas que mejoren la gestión de sus talleres y preserven las técnicas tradicionales, fortaleciendo sus vínculos con distribuidores.
+
+### Visión
+
+Ser la plataforma líder en gestión artesanal, destacando por promover la productividad y la preservación del patrimonio cultural artesanal.
+
 ### 1.1.2. Perfiles de Integrantes del equipo
 
 | Nombre Completo del integrante   | Descripcion de Carrera                                                                      | Fotografía                                | Conocimientos y Habilidades a apuntar                                                                                                                                                                              |
@@ -17,6 +27,47 @@
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y Problemática
+
+Para comprender mejor la problemática que enfrentan los artesanos en la gestión de sus talleres, hemos aplicado la técnica de las "5W 2H":
+
+**What (Qué):**
+
+- ¿Qué dificultades enfrentan los artesanos al organizar y gestionar sus materiales?
+- ¿Qué desafíos surgen al controlar los inventarios de insumos y piezas producidas?
+- ¿Qué aspectos de la planificación de la producción resultan complicados para los artesanos?
+
+**Where (Dónde):**
+
+- ¿Dónde suelen presentarse estos problemas de gestión dentro de los talleres artesanales (en el almacenamiento, producción, distribución, etc.)?
+- ¿Dónde podrían los artesanos encontrar recursos o soluciones tecnológicas para mejorar la organización de sus talleres?
+
+**When (Cuándo):**
+
+- ¿Cuándo los artesanos suelen experimentar problemas de gestión que afectan la producción y la entrega de pedidos?
+- ¿Cuándo se hace evidente la necesidad de una planificación más eficiente en el flujo de trabajo artesanal?
+
+**Who (Quién):**
+
+- ¿Quiénes son los artesanos más afectados por la falta de herramientas de gestión eficaces (pequeños talleres, colectivos, artesanos individuales, etc.)?
+- ¿Quiénes se beneficiarían de un sistema que facilite la gestión de pedidos personalizados y la planificación de la producción?
+
+**Why (Por qué):**
+
+- ¿Por qué los artesanos suelen tener dificultades para organizar sus materiales y llevar un control preciso de sus inventarios?
+- ¿Por qué es importante preservar y compartir técnicas tradicionales dentro de la comunidad artesanal?
+- ¿Por qué una plataforma tecnológica puede marcar una diferencia en la productividad de los talleres artesanales?
+
+**How (Cómo):**
+
+- ¿Cómo puede una plataforma digital ayudar a los artesanos a mejorar la gestión de sus materiales y optimizar la producción?
+- ¿Cómo se pueden integrar herramientas de planificación y control de inventarios en la vida diaria de los artesanos para facilitar su trabajo?
+- ¿Cómo puede una comunidad colaborativa en línea apoyar la preservación y difusión de técnicas tradicionales?
+
+**How Much (Cuánto):**
+
+- ¿Cuánto tiempo y esfuerzo podrían ahorrar los artesanos con la implementación de un sistema eficiente de gestión de talleres?
+- ¿Cuánto impacto económico tendría una mejor organización de los talleres en la rentabilidad y sostenibilidad del negocio artesanal?
+- ¿Cuántos artesanos podrían verse beneficiados a través de la adopción de un sistema que optimice la planificación de la producción y el control de inventarios?
 
 ### 1.2.2. Lean UX Process
 
