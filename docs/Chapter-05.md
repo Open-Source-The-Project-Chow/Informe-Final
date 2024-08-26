@@ -20,3 +20,41 @@ En la siguiente sección se describe la ruta de referencia de cada uno de los pr
 - **CSS3:** Tecnología para darle estilos a nuestra página web.
 - **JavaScript:** Lenguaje de programación orientado a objetos que nos sirvió para implementar funcionalidades en nuestra Landing Page.
 
+### 5.1.2. Source Code Management
+
+Para gestionar las modificaciones en nuestro proyecto, emplearemos GitHub como plataforma y sistema de control de versiones. A continuación, se detallan los repositorios de GitHub para cada uno de nuestros productos:
+
+- Organización del Equipo: https://github.com/Open-Source-The-Project-Chow
+- Repositorio del Informe: https://github.com/Open-Source-The-Project-Chow/Informe-Final
+- Repositorio del Landing Page: https://github.com/Open-Source-The-Project-Chow/Landing-page
+- Enlace del Landing Page: 
+
+Para estructurar nuestro control de versiones, implementaremos el modelo GitFlow como nuestro flujo de trabajo estándar. Este modelo se basa en dos ramas principales: main (rama principal) y develop (rama de desarrollo), y varias ramas auxiliares, incluyendo feature, release, y hotfix, cada una con un propósito específico:
+
+#### Ramas Principales:
+
+- Main Branch (Rama Principal): Esta rama contiene siempre el código en producción, es decir, el código que ha sido liberado y que es estable. No se realizan cambios directos en esta rama, excepto para la integración de release branches o hotfix branches.
+
+- Develop Branch (Rama de Desarrollo): Esta rama sirve como base para el desarrollo continuo. Aquí se integran los cambios provenientes de las feature branches. La rama develop contiene la última versión del código con nuevas funcionalidades que aún no han sido liberadas.
+
+- Release Branches: Antes de lanzar una nueva versión, crearemos una rama de release para realizar pruebas finales y correcciones.
+- Hotfix Branches: En caso de surgir problemas en el desarrollo, se crearán branches de hotfix para poder solucionarlos sin afectar la rama principal.
+
+#### Ramas Auxiliares:
+
+- Feature Branches: Estas ramas se utilizan para desarrollar nuevas funcionalidades o mejoras específicas. Cada funcionalidad se desarrolla en su propia rama, que se deriva de develop y se fusiona de nuevo en develop una vez que la funcionalidad ha sido completada y probada.
+
+- Release Branches: Estas ramas se utilizan para preparar una nueva versión de producción. Una vez que develop ha alcanzado un estado estable, se crea una release branch para realizar ajustes finales y pruebas antes de fusionarla en main.
+
+- Hotfix Branches: Estas ramas se utilizan para corregir rápidamente problemas en producción. Se derivan de main y, una vez corregido el problema, se fusionan tanto en main como en develop para asegurar que la corrección se mantenga en el desarrollo futuro.
+
+Además, los mensajes de commit seguirán el formato de Conventional Commits, que estandariza los mensajes para que sean claros y útiles. Este formato sigue la estructura:
+
+tipo(<área opcional>): <descripción>
+
+Ejemplos de tipos comunes:
+
+- feat: para nuevas funcionalidades.
+- fix: para corrección de errores.
+- docs: para cambios en la documentación.
+- style: para cambios que no afectan la lógica del código (espacios, formateo, etc.).
