@@ -113,4 +113,67 @@ De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y
 
 Enlace del Landing Page: 
 
+## 5.2. Landing Page, Services & Applications Implementation
+
+En esta sección se explicará y evidenciará el proceso de implementación, pruebas,
+documentación y despliegue del Landing Page.
+
+### 5.2.1. Sprint 1
+
+### 5.2.1.1. Sprint Planning 1
+
+Para este primer sprint nos enfocaremos en los tasks para la
+elaboración del Landing Page. Nos dividiremos entre nosotros cada
+una de las tareas identificadas para el sprint.
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-08-25</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">10:38 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord y Google Meet</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Gabriel Garcia</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Gabriel Garcia, Diego Flores, Salvador Chamorro, Héctor Rentería, Bryan Espejo</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 1 Review Summary</td>
+    <td colspan="8">En esta seccion se planteo el desarrollo del landing page para nuestro proyecto llamado CraftSync</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 1 Retrospective Summary</td>
+    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando landing pages</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Culminar el landing Page</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">6 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">9 Story Points</td>
+</tr>
+</table>
 
