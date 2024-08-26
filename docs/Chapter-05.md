@@ -82,3 +82,35 @@ Utilizaremos las siguientes referencias para establecer nuestras convenciones.
 
 Es importante destacar que todas las convenciones y referencias mencionadas están en inglés, siguiendo las prácticas comunes en el desarrollo de software. De tal modo que, al seguir estas referencias nos ayudará a mantener un código claro, coherente y fácilmente comprensible para todo el equipo de desarrollo.
 
+### 5.1.4. Software Deployment Configuration
+
+Para desplegar nuestra landing page en la plataforma de GitHub, seguimos los siguientes pasos:
+
+1. Creación del Repositorio Remoto en GitHub:
+
+- Creamos un nuevo repositorio en GitHub de nuestro proyecto, el cual se utilizará para el desarrollo y deployment.
+
+2. Inicialización del Repositorio:
+
+- Se utilza el comando "*git init*" para inicializar el repositorio.
+
+3. Subida de Archivos al Repositorio Remoto:
+
+- Añadimos los archivos de nuestra landing page al repositorio local.
+- Subimos los archivos al repositorio de GitHub con el comando "*git push -u origin master*" o sino utilizando Github Desktop.
+
+4. Configuración de GitHub Pages:
+
+- Accedemos a la sección de configuración del repositorio en GitHub y entramos a la sección de Github Pages.
+
+- Seleccionamos la rama de GitHub Pages (main) como fuente para el deployment de nuestra Landing Page
+
+5. Despliegue:
+
+- Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra landing page se haya desplegado correctamente.
+
+De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y podrá ser visible para cualquier usuario que tenga el enlace.
+
+Enlace del Landing Page: 
+
+
