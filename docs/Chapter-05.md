@@ -58,3 +58,27 @@ Ejemplos de tipos comunes:
 - fix: para corrección de errores.
 - docs: para cambios en la documentación.
 - style: para cambios que no afectan la lógica del código (espacios, formateo, etc.).
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+A continuación, se detallan las referencias y convenciones que adoptaremos para programar en los diferentes lenguajes utilizados en nuestro proyecto:
+
+Utilizaremos las siguientes referencias para establecer nuestras convenciones.
+1. **HTML**:
+- "HTML Style Guide and Coding Conventions"
+- "Google HTML/CSS Style Guide"
+
+2. **CSS**:
+- "Google HTML/CSS Style Guide"
+
+3. **JavaScript**:
+- "Google JavaScript Style Guide"
+- "MDN JavaScript guidelines"
+- "W3C JavaScript Style Guide"
+- "Angular coding style guide".
+
+4. **Gherkin**:
+- "Gherkin Conventions for Readable Specifications".
+
+Es importante destacar que todas las convenciones y referencias mencionadas están en inglés, siguiendo las prácticas comunes en el desarrollo de software. De tal modo que, al seguir estas referencias nos ayudará a mantener un código claro, coherente y fácilmente comprensible para todo el equipo de desarrollo.
+
