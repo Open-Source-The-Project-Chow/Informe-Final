@@ -1,0 +1,95 @@
+# Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1. Competidores
+
+Nuestros competidores principales seran los siguientes:
+
+| Comp1 <br> link: |  a  |
+| :--------------: | :-: |
+| Comp2 <br> link: |  a  |
+| Comp3 <br> link: |  a  |
+
+### 2.1.1 Análisis Competitivo
+
+| Competitive Analysis Landscape |
+| :----------------------------: |
+
+| ¿Por qué llevar a cabo el análisis? | Este análisis nos ayuda a entender las particularidades de cada sitio web o aplicación, identificar la competencia en el mercado y planificar cómo abordar las oportunidades. También nos permite trabajar en la mejora continua de nuestras áreas de desarrollo. |
+| :---------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+|                         |                                                           | Img | Img | Img | Img |
+| ----------------------- | --------------------------------------------------------- | --- | --- | --- | --- |
+| **Perfil**              | **Overview**                                              | a   | a   | a   | a   |
+|                         | **Ventaja competitiva ¿Qué valor ofrece a los clientes?** | a   | a   | a   | a   |
+| **Perfil de marketing** | **Mercado objetivo**                                      | a   | a   | a   | a   |
+|                         | **Estrategias de marketing**                              | a   | a   | a   | a   |
+| **Perfil de producto**  | **Productos & servicios**                                 | a   | a   | a   | a   |
+|                         | **Precios y Costos**                                      | a   | a   | a   |
+|                         | **Canales de distribución (Web y/o Móvil)**               | a   | a   | a   | a   |
+| **Análisis SWOT**       | **Fortalezas**                                            | a   | a   | a   | a   |
+|                         | **Debilidades**                                           | a   | a   | a   | a   |
+|                         | **Oportunidades**                                         | a   | a   | a   | a   |
+|                         | **Amenazas**                                              | a   | a   | a   | a   |
+
+### 2.1.2. Estrategias y tácticas frente a competidores.
+
+## 2.2. Entrevistas
+
+### 2.2.1 Diseño de entrevistas
+
+**Preguntas Generales**
+
+- ¿Cuál es su nombre?
+- ¿Qué edad tiene?
+- ¿En qué distrito vive?
+- ¿Estado civil?
+- ¿Cuál es su ocupación? ¿Estudia y/o trabaja?
+- Vamos relacionandonos un poco mas al tema tecnologico ¿Cuál es la herramienta tecnologica que mas usa? Entre PC y/o Celular, especificar si es Windows, Mac, Android o Iphone.
+- ¿Cuales son los navegadores de internet que mas usa a dia de hoy? (Edge, Chrome, Firefox, Opera o Safari)
+- ¿Qué canal de comunicación prefiere usar: Reuniones presenciales, llamadas telefónicas o mensajes de texto (WhatsApp, SMS, Redes Sociales)? -¿Qué marcas y/o influencias han tenido mayor impacto en usted?
+
+**Preguntas para Doctores**
+
+**Preguntas para Seg1**
+
+### 2.2.2. Registro de entrevistas
+
+**Entrevista 1: (Seg1)**
+
+**Nombre y Apellido:**
+
+**Edad:**
+
+**Distrito:**
+
+**Screenshot de la Entrevista:**
+
+**URL del Video:**
+
+**Timing de Inicio y Duración:** [Inicio: 00:00, Duración: 00:00]
+
+**Resumen de la Entrevista:**
+
+### 2.2.3. Análisis de entrevistas
+
+**Segmento 1:**
+
+**Segmento 2:**
+
+## 2.3. Needfinding
+
+### 2.3.1. User Persona
+
+### 2.3.2. User Task Matrix
+
+| Tareas | Seg1 <br>Importancia | Seg1<br>Frecuencia | Seg2 <br>Importancia | Seg2 <br>Frecuencia |
+| ------ | -------------------- | ------------------ | -------------------- | ------------------- |
+| Tarea  | Alta                 | Siempre            | Media                | Casi siempre        |
+
+#### **Explicación y análisis**
+
+### 2.3.3. User Journey Mapping
+
+### 2.3.4. Empathy Mapping
+
+### 2.3.5. As-is Scenario Mapping
