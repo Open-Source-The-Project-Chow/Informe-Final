@@ -134,9 +134,25 @@ Innovación Continua en la Plataforma:
 - ¿Cuales son los navegadores de internet que mas usa a dia de hoy? (Edge, Chrome, Firefox, Opera o Safari)
 - ¿Qué canal de comunicación prefiere usar: Reuniones presenciales, llamadas telefónicas o mensajes de texto (WhatsApp, SMS, Redes Sociales)? -¿Qué marcas y/o influencias han tenido mayor impacto en usted?
 
-**Preguntas para Doctores**
+**Preguntas para Artesanos**
 
-**Preguntas para Seg1**
+- ¿Cómo organizas actualmente los materiales y el inventario en tu taller?
+- ¿Qué desafíos enfrentas al planificar la producción y cumplir con los pedidos personalizados?
+- ¿Utilizas alguna herramienta digital para gestionar tu taller? ¿Cuáles son sus ventajas y desventajas?
+- ¿Te gustaría tener un espacio para compartir tus conocimientos y aprender de otros artesanos? ¿Cómo debería ser ese espacio?
+- ¿Con qué frecuencia necesitas actualizar el estado de un pedido? ¿Cómo lo haces actualmente?
+- ¿Qué aspectos de la gestión de tu taller te resultan más frustrantes?
+- ¿Qué mejorarías en tu proceso de trabajo diario si tuvieras acceso a mejores herramientas?
+- ¿Qué temores tienes respecto al uso de tecnología en tu trabajo?
+
+**Preguntas para distribuidores**
+
+- ¿Cómo prefieres hacer el seguimiento del progreso de los pedidos que realizas a los artesanos?
+- ¿Qué tan importante es para ti recibir actualizaciones en tiempo real sobre el estado de un pedido?
+- ¿Qué desafíos enfrentas al coordinar la producción y entrega con los artesanos?
+- ¿Te gustaría tener un sistema donde puedas ver y comentar sobre el progreso de un pedido? ¿Qué características debería tener?
+- ¿Qué mejorarías en tu relación de trabajo con los artesanos?
+- ¿Cómo crees que la tecnología puede mejorar la cadena de suministro entre distribuidores y artesanos?
 
 ### 2.2.2. Registro de entrevistas
 
