@@ -2,36 +2,122 @@
 
 ## 2.1. Competidores
 
-Nuestros competidores principales seran los siguientes:
-
-| Comp1 <br> link: |  a  |
-| :--------------: | :-: |
-| Comp2 <br> link: |  a  |
-| Comp3 <br> link: |  a  |
+En esta sección realizaremos la identificación y descripción de los principales
+competidores directos.
 
 ### 2.1.1 Análisis Competitivo
 
-| Competitive Analysis Landscape |
-| :----------------------------: |
+<table>
+    <tr> 
+     <th colspan="22">Competitive Analysis Landscape</th> 
+    </tr> 
+    <tr> 
+     <td colspan="1">¿Por qué llevar a cabo el análisis?</td> 
+     <td colspan="17">Este análisis nos ayuda a entender las particularidades de cada sitio web o aplicación, identificar la competencia en el mercado y planificar cómo abordar las oportunidades. También nos permite trabajar en la mejora continua de nuestras áreas de desarrollo.</td> 
+    </tr> 
+    <tr> 
+     <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td> <td>Etsy<br><img src="../assets/img/etsy.png" alt="Etsy"></td> 
+     <td>Craftybase<br><img src="../assets/img/craftybase.png" alt="Craftybase"></td> 
+     <td>Katana MRP<br><img src="../assets/img/katana.png" alt="Katana MRP"></td>
+     <td>CraftSync<br><img src="" alt="CraftSync"></td>
+     </tr> 
+     <tr> 
+        <td rowspan="2">Perfil</td> 
+        <td>Overview</td> 
+        <td>Una plataforma global que permite a artesanos y pequeños empresarios vender sus productos a una audiencia internacional.</td> 
+        <td>Un software de gestión de inventarios diseñado específicamente para artesanos y fabricantes de productos hechos a mano.</td> 
+        <td>Un software de planificación de recursos de manufactura (MRP) para pequeñas y medianas empresas, enfocado en la gestión de producción e inventarios.</td> 
+        <td>Nuestra plataforma ofrece herramientas tecnológicas para que artesanos gestionen eficientemente sus talleres de artesanía y bisutería, facilitando la preservación de técnicas tradicionales a través de un espacio colaborativo.</td> 
+        </tr> 
+    <tr> 
+        <td>Ventaja Competitiva</td> 
+        <td>Gran visibilidad y acceso a un amplio mercado global, lo que facilita a los artesanos vender sus productos en todo el mundo.</td> 
+        <td>Especialización en las necesidades de los artesanos, con herramientas precisas para la gestión de materiales y costos de producción.</td> 
+        <td>Funcionalidades avanzadas de MRP adaptadas a pequeñas empresas, con integración de inventarios, producción y órdenes de trabajo en una sola plataforma.</td> <td>Integración de la gestión de producción, inventarios, y pedidos personalizados, con un enfoque en la preservación de técnicas tradicionales y la colaboración dentro de la comunidad artesanal.</td> 
+        </tr> 
+    <tr> 
+        <td rowspan="2">Perfil de Marketing</td> 
+        <td>Mercado Objetivo</td> 
+        <td>Artesanos, creativos y pequeños empresarios que buscan vender productos hechos a mano en un mercado global.</td> 
+        <td>Artesanos y fabricantes de productos manuales que necesitan una herramienta para gestionar inventarios y costos.</td> 
+        <td>Pequeñas y medianas empresas manufactureras que necesitan optimizar su producción e inventarios.</td> 
+        <td>Artesanos y bisuteros que buscan una solución integral para gestionar su taller, preservar técnicas tradicionales y colaborar con distribuidores y otros artesanos.</td> 
+        </tr> 
+    <tr> 
+        <td>Estrategias de Marketing</td> 
+        <td>Marketing digital enfocado en la comunidad creativa y el comercio global, con un fuerte énfasis en la visibilidad en línea.</td> 
+        <td>Marketing dirigido a artesanos a través de blogs, tutoriales y asociaciones con la comunidad artesanal.</td> 
+        <td>Marketing orientado a pequeñas y medianas empresas a través de demostraciones de productos, webinars y contenido educativo.</td> 
+        <td>Marketing enfocado en la preservación de técnicas artesanales, colaboración comunitaria y eficiencia operativa, dirigido a artesanos en crecimiento y distribuidores.</td> 
+        </tr> 
+    <tr> 
+        <td rowspan="3">Perfil de Producto</td> 
+        <td>Productos y Servicios</td> 
+        <td>Marketplace en línea, herramientas de marketing, soluciones de pago y envíos.</td> 
+        <td>Gestión de inventarios, seguimiento de costos de producción, informes de ventas.</td> 
+        <td>MRP, gestión de inventarios, planificación de producción, órdenes de trabajo.</td> 
+        <td>Gestión de inventarios, planificación de producción, gestión de pedidos personalizados, espacio colaborativo para la comunidad artesanal.</td> 
+        </tr> 
+    <tr> 
+        <td>Precios y Costos</td> 
+        <td>Tarifas de listado de productos, comisiones por venta, tarifas de procesamiento de pagos.</td> 
+        <td>Planes de suscripción mensual con precios que varían según las características y tamaño del negocio.</td> 
+        <td>Precios basados en suscripción mensual o anual, con planes escalables según el tamaño de la empresa.</td> 
+        <td>Modelos de suscripción escalables adaptados al tamaño del taller artesanal, con opciones de precios accesibles para pequeños artesanos.</td> 
+        </tr> 
+    <tr> 
+        <td>Canales de distribución (Web y/o Móvil)</td> 
+        <td>Plataforma web y aplicaciones móviles (iOS y Android).</td> 
+        <td>Plataforma web, sin aplicación móvil dedicada.</td> 
+        <td>Plataforma web, sin aplicación móvil dedicada.</td> 
+        <td>Plataforma web y aplicación móvil (proyectada).</td> 
+        </tr> 
+    <tr> 
+        <td rowspan="4">Análisis SWOT</td> 
+        <td>Fortalezas</td> 
+        <td>Acceso a un mercado global y herramientas de comercio electrónico bien desarrolladas.</td> 
+        <td>Especialización en la gestión artesanal con un enfoque profundo en inventarios y costos.</td> 
+        <td>Funcionalidades avanzadas de MRP con integración completa de procesos de manufactura.</td> 
+        <td>Solución integral diseñada específicamente para artesanos, con un fuerte enfoque en la comunidad y la preservación de técnicas tradicionales.</td> 
+        </tr> 
+    <tr> 
+        <td>Debilidades</td> 
+        <td>Altas comisiones y tarifas pueden ser una barrera para algunos artesanos.</td> <td>No tiene una aplicación móvil, lo que puede limitar su accesibilidad.</td> <td>Orientado principalmente a manufactura, no específicamente a artesanía, lo que puede limitar su atractivo para artesanos.</td> 
+        <td>Es una plataforma nueva que aún está construyendo su base de usuarios y reputación en el mercado.</td> 
+        </tr> 
+    <tr> 
+        <td>Oportunidades</td> 
+        <td>Expansión en mercados emergentes y aumento de la demanda de productos artesanales únicos.</td> 
+        <td>Posibilidad de expansión de funcionalidades para abarcar más aspectos del negocio artesanal.</td> 
+        <td>Crecimiento en mercados emergentes donde las empresas buscan digitalizar sus operaciones.</td> 
+        <td>Penetración en mercados donde la artesanía es una parte importante de la cultura y la economía, ofreciendo una solución única.</td> 
+        </tr> 
+    <tr> 
+        <td>Amenazas</td> 
+        <td>Creciente competencia de otras plataformas globales de comercio electrónico.</td> 
+        <td>Competencia de plataformas más generales de gestión empresarial con más funcionalidades.</td> 
+        <td>Competencia de software más especializado o personalizado para ciertos tipos de manufactura.</td> 
+        <td>La competencia de plataformas establecidas que ofrecen soluciones parciales pero con una mayor base de usuarios.</td> 
+        </tr> 
+    </table>
+    
+### 2.1.2. Estrategias y tácticas frente a competidores
 
-| ¿Por qué llevar a cabo el análisis? | Este análisis nos ayuda a entender las particularidades de cada sitio web o aplicación, identificar la competencia en el mercado y planificar cómo abordar las oportunidades. También nos permite trabajar en la mejora continua de nuestras áreas de desarrollo. |
-| :---------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+**Diferenciación en la Preservación Cultural:**
 
-|                         |                                                           | Img | Img | Img | Img |
-| ----------------------- | --------------------------------------------------------- | --- | --- | --- | --- |
-| **Perfil**              | **Overview**                                              | a   | a   | a   | a   |
-|                         | **Ventaja competitiva ¿Qué valor ofrece a los clientes?** | a   | a   | a   | a   |
-| **Perfil de marketing** | **Mercado objetivo**                                      | a   | a   | a   | a   |
-|                         | **Estrategias de marketing**                              | a   | a   | a   | a   |
-| **Perfil de producto**  | **Productos & servicios**                                 | a   | a   | a   | a   |
-|                         | **Precios y Costos**                                      | a   | a   | a   |
-|                         | **Canales de distribución (Web y/o Móvil)**               | a   | a   | a   | a   |
-| **Análisis SWOT**       | **Fortalezas**                                            | a   | a   | a   | a   |
-|                         | **Debilidades**                                           | a   | a   | a   | a   |
-|                         | **Oportunidades**                                         | a   | a   | a   | a   |
-|                         | **Amenazas**                                              | a   | a   | a   | a   |
+**Táctica:** Posiciona la plataforma como defensora de las técnicas tradicionales de artesanía, ofreciendo talleres en línea y contenido educativo que enseñe y preserve estas prácticas. Esto atraerá a artesanos interesados en mantener su patrimonio cultural.
+Personalización y Flexibilidad en las Herramientas:
 
-### 2.1.2. Estrategias y tácticas frente a competidores.
+**Táctica:** Ofrece opciones de personalización en los flujos de trabajo y paneles de control, permitiendo que cada artesano adapte la plataforma a sus necesidades específicas. Implementa módulos específicos para diferentes tipos de artesanía, aumentando la relevancia y usabilidad de la plataforma.
+Fortalecimiento de la Comunidad Artesanal:
+
+**Táctica:** Crea un espacio dentro de la plataforma para el intercambio de conocimientos, experiencias y colaboración entre artesanos. Organiza eventos virtuales y desafíos de proyectos conjuntos, promoviendo una comunidad activa y comprometida.
+Integración con Marketplaces de Comercio Electrónico:
+
+**Táctica:** Desarrolla integraciones con grandes marketplaces como Etsy y Shopify, permitiendo a los usuarios gestionar sus inventarios y pedidos de forma centralizada. Ofrece guías y soporte técnico para que los artesanos puedan aprovechar al máximo estas integraciones.
+Innovación Continua en la Plataforma:
+
+**Táctica:** Implementa un sistema de retroalimentación donde los usuarios puedan sugerir mejoras y nuevas funcionalidades. Mantén una hoja de ruta pública que muestre las próximas actualizaciones y mejoras planeadas, garantizando que la plataforma evolucione constantemente según las necesidades del usuario.
 
 ## 2.2. Entrevistas
 
@@ -81,10 +167,6 @@ Nuestros competidores principales seran los siguientes:
 ### 2.3.1. User Persona
 
 ### 2.3.2. User Task Matrix
-
-| Tareas | Seg1 <br>Importancia | Seg1<br>Frecuencia | Seg2 <br>Importancia | Seg2 <br>Frecuencia |
-| ------ | -------------------- | ------------------ | -------------------- | ------------------- |
-| Tarea  | Alta                 | Siempre            | Media                | Casi siempre        |
 
 #### **Explicación y análisis**
 
