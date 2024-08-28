@@ -92,3 +92,8 @@ Para comprender mejor la problemática que enfrentan los artesanos en la gestió
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmento Objetivo
+Nuestra plataforma se dirige hacia personas, tanto hombre como mujeres, sin importar el nivel socioeconómico, residentes en Lima, de entre 18 y 60 años, y que posean acceso a algún dispositivo móvil e internet.
+
+**Segmento 1:** Nuestro primer segmento objetivo incluye a artesanos, estudiantes o cualquier persona dentro del mundo de la artesanía. En este grupo se considera a todas las personas activas en el rubro, tanto a aquellos que tengan una amplia experiencia como a quienes están en proceso de formación, y que buscan de alguna herramienta que los ayude a mejorar tanto la eficacia como la eficiencia en su espacio de trabajo.
+
+**Segmento 2:** Nuestro segundo segmento objetivo son distribuidores que trabajen directamente con artesanos. En este grupo se considera a todas aquellas personas con experiencia en el rubro, ya que es necesario encontrar distribuidores confiables y reconocidos en el mercado para ofrecer la mayor seguridad posible a nuestro primer segmento objetivo.
