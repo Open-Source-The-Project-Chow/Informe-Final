@@ -191,3 +191,31 @@ Innovación Continua en la Plataforma:
 ### 2.3.4. Empathy Mapping
 
 ### 2.3.5. As-is Scenario Mapping
+
+## 2.4. Ubiquitous Language
+- **Workshop (Taller)**
+Espacio donde el artesano realiza sus actividades.
+
+- **Inventory (Inventario)**
+Conjunto de materiales y productos que el artesano gestiona.
+
+- **Raw Materials (Materias Primas)**
+Insumos naturales o básicos que los artesanos utilizan para crear sus productos, como madera, arcilla, metales, telas, entre otros.
+
+- **Bespoke Craft (Artesanía a Medida)**
+Producto artesanal creado específicamente según las preferencias o necesidades del cliente.
+
+- **Conceptualization (Conceptualización)**
+Primera etapa, donde el artesano diseña el producto.
+
+- **Material Preparation (Preparación de Materiales)**
+Etapa en la que se seleccionan, preparan y acondicionan los materiales para la creación del producto.
+
+- **Crafting (Elaboración)**
+Etapa principal, donde el artesano trabaja manualmente la pieza de artesania.
+
+- **Detailing (Detalles)**
+Fase donde se añaden elementos específicos como adornos o acabados planteados en la conceptualizacion.
+
+- **Finishing (Acabado)**
+Última etapa del proceso, donde se aplican técnicas como pulir, lijar, o aplicar un barniz para mejorar la apariencia y calidad del producto.
