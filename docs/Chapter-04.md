@@ -68,7 +68,15 @@ Web Application: "gestión de talleres, panel de control, inventarios, producci�
 
 ### 4.2.4. Searching Systems
 
+Para guiar a los usuarios a través de nuestra plataforma de manera efectiva, se implementarán los siguientes sistemas de navegación:
 
+**Navegación por menús:** Se utilizará un menú de navegación principal ubicado en la parte superior de la pantalla, que permitirá a los usuarios acceder rápidamente a las secciones principales como "Inventarios", "Pedidos", "Producción", y "Configuración".
+
+**Breadcrumbs:** Implementaremos breadcrumbs en las subpáginas para que los usuarios puedan rastrear fácilmente su ubicación dentro de la plataforma y navegar de regreso a secciones anteriores sin perderse.
+
+**Botones de acción rápida:** En el tablero principal, los usuarios tendrán acceso a botones de acción rápida para realizar tareas frecuentes, como "Agregar Pedido Nuevo", "Actualizar Inventario", o "Ver Reportes". Estos botones estarán siempre visibles en el dashboard.
+
+**Navegación contextual:** En secciones específicas, como la gestión de pedidos, se ofrecerán opciones de navegación relacionadas directamente con la tarea en curso, permitiendo a los usuarios acceder a funciones adicionales sin abandonar su flujo de trabajo.
 
 ### 4.2.5. Navigation Systems
 
