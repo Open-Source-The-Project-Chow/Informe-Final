@@ -15,13 +15,38 @@ Tags and Meta Tags, Searching Systems y Navigation Systems.
 
 ### 4.2.1. Organization Systems
 
+En nuestra plataforma para la gestión de talleres de artesanos, utilizaremos varios sistemas de organización para optimizar la experiencia del usuario:
+
+**Jerarquía visual (Visual Hierarchy):** Se aplicará en la organización del tablero principal (dashboard), donde se presentarán los elementos más importantes de manera destacada, como el estado de los pedidos, inventarios críticos, y notificaciones urgentes. Los elementos de mayor relevancia se colocarán en la parte superior o con tamaños y colores que los diferencien claramente.
+
+**Organización secuencial (Step-by-Step):** Se utilizará en los procesos de planificación de producción y gestión de pedidos. Los usuarios seguirán pasos claramente definidos, desde la entrada de un nuevo pedido hasta su finalización y entrega. Este enfoque ayudará a los artesanos a seguir un flujo de trabajo lógico y ordenado, minimizando errores.
+
+**Organización matricial (Matrix Organization):** Se aplicará en la visualización de datos como inventarios y materiales, donde los usuarios podrán cruzar diferentes categorías, como tipo de material y estado del inventario. Esto permitirá a los usuarios ver las relaciones entre diferentes aspectos de su inventario de manera clara y funcional.
+
+**Categorización alfabética:** Se utilizará en el listado de materiales y herramientas, facilitando la búsqueda rápida de ítems específicos.
+
+**Categorización por tópicos:** Se aplicará en la sección de tutoriales y recursos educativos, organizando el contenido en función de temas específicos como "Técnicas de bisutería", "Gestión de pedidos", etc.
+
+**Categorización cronológica:** Se usará para organizar el historial de pedidos, permitiendo a los usuarios ver y gestionar pedidos pasados en orden de fecha.
+
+**Categorización según audiencia:** En la sección de configuración de la plataforma, los artesanos y distribuidores tendrán opciones y vistas personalizadas según su rol, asegurando que cada tipo de usuario vea solo la información relevante para ellos.
+
+
 ### 4.2.2. Labeling Systems
+
+
 
 ### 4.2.3. SEO Tags and Meta
 
+
+
 ### 4.2.4. Searching Systems
 
+
+
 ### 4.2.5. Navigation Systems
+
+
 
 ## 4.3. Landing Page UI Design
 
