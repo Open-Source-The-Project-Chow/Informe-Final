@@ -45,7 +45,26 @@ Para asegurar claridad y simplicidad en la representación de datos dentro de nu
 
 ### 4.2.3. SEO Tags and Meta
 
+Para mejorar la visibilidad y accesibilidad de nuestra plataforma tanto en el sitio web estático como en la aplicación web, se aplicarán los siguientes SEO Tags y Meta Tags:
 
+**Title Tags:**
+
+Landing Page: "Plataforma Integral para Artesanos - Gestiona tu Taller con Eficiencia"
+Web Application: "Gestión de Talleres de Artesanos - Panel de Control"
+
+**Meta Tags Description:**
+
+Landing Page: "Optimiza la gestión de tu taller de artesanía con nuestra plataforma integral. Organiza materiales, controla inventarios, y gestiona pedidos personalizados de forma eficiente."
+Web Application: "Accede al panel de control de tu taller de artesanía. Gestiona inventarios, pedidos, y producción desde un solo lugar."
+
+**Keywords:**
+
+Landing Page: "plataforma artesanos, gestión de talleres, control de inventarios, planificación de producción, pedidos personalizados"
+Web Application: "gestión de talleres, panel de control, inventarios, producción artesanía, pedidos personalizados"
+
+**Author:**
+
+"Equipo de Desarrollo de la Plataforma para Artesanos"
 
 ### 4.2.4. Searching Systems
 
