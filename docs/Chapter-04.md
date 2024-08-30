@@ -80,7 +80,15 @@ Para guiar a los usuarios a través de nuestra plataforma de manera efectiva, se
 
 ### 4.2.5. Navigation Systems
 
+Para facilitar la búsqueda de información dentro de nuestra plataforma, se implementarán los siguientes sistemas de búsqueda:
 
+**Barra de búsqueda global:** Una barra de búsqueda estará disponible en la parte superior de todas las páginas de la aplicación, permitiendo a los usuarios buscar materiales, pedidos, y otros datos clave rápidamente.
+
+**Filtros de búsqueda:** Los usuarios podrán aplicar filtros avanzados como "Fecha", "Estado", "Categoría", y "Prioridad" para refinar los resultados de búsqueda y encontrar exactamente lo que necesitan.
+
+**Autocompletado:** La barra de búsqueda incluirá una función de autocompletado que sugerirá opciones relevantes a medida que el usuario escribe, agilizando el proceso de búsqueda.
+
+**Resultados visuales:** Los resultados de búsqueda se mostrarán en un formato claro y visual, con opciones para agrupar o destacar resultados relevantes, facilitando la identificación rápida de la información deseada.
 
 ## 4.3. Landing Page UI Design
 
