@@ -31,10 +31,17 @@ En nuestra plataforma para la gestión de talleres de artesanos, utilizaremos va
 
 **Categorización según audiencia:** En la sección de configuración de la plataforma, los artesanos y distribuidores tendrán opciones y vistas personalizadas según su rol, asegurando que cada tipo de usuario vea solo la información relevante para ellos.
 
-
 ### 4.2.2. Labeling Systems
 
+Para asegurar claridad y simplicidad en la representación de datos dentro de nuestra plataforma, adoptaremos los siguientes sistemas de etiquetado:
 
+**Etiquetas de inventario:** Usaremos etiquetas simples como "Bajo Stock", "En Proceso", y "Finalizado" para categorizar el estado de los materiales y pedidos. Estas etiquetas serán visibles en la pantalla de gestión de inventarios y en el panel principal.
+
+**Etiquetas de planificación:** Para la planificación de la producción, utilizaremos etiquetas como "Pendiente", "En Producción", y "Listo para Enviar". Esto permitirá a los usuarios identificar rápidamente en qué etapa se encuentra cada pedido.
+
+**Etiquetas de usuario:** Los diferentes roles de usuario, como "Artesano" y "Distribuidor", se representarán claramente en las interfaces de usuario para garantizar que cada grupo acceda a la información adecuada sin confusión.
+
+**Asociaciones de etiquetas:** Las etiquetas relacionadas se agruparán para ofrecer contexto. Por ejemplo, un pedido etiquetado como "En Producción" también mostrará la etiqueta de "Materiales Listos", si todos los materiales necesarios están en inventario.
 
 ### 4.2.3. SEO Tags and Meta
 
