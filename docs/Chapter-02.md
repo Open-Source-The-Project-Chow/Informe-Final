@@ -132,7 +132,8 @@ Innovación Continua en la Plataforma:
 - ¿Cuál es su ocupación? ¿Estudia y/o trabaja?
 - Vamos relacionandonos un poco mas al tema tecnologico ¿Cuál es la herramienta tecnologica que mas usa? Entre PC y/o Celular, especificar si es Windows, Mac, Android o Iphone.
 - ¿Cuales son los navegadores de internet que mas usa a dia de hoy? (Edge, Chrome, Firefox, Opera o Safari)
-- ¿Qué canal de comunicación prefiere usar: Reuniones presenciales, llamadas telefónicas o mensajes de texto (WhatsApp, SMS, Redes Sociales)? -¿Qué marcas y/o influencias han tenido mayor impacto en usted?
+- ¿Qué canal de comunicación prefiere usar: Reuniones presenciales, llamadas telefónicas o mensajes de texto (WhatsApp, SMS, Redes Sociales)?
+-¿Qué marcas y/o influencias han tenido mayor impacto en usted?
 
 **Preguntas para Artesanos**
 
@@ -174,7 +175,63 @@ Innovación Continua en la Plataforma:
 
 ### 2.2.3. Análisis de entrevistas
 
-**Segmento 1:**
+**Segmento 1: Artesanos**
+Para la elaboración del arquetipo del Artesano, se usa como referencia las respuestas de las 3 primeras entrevistas. Empecemos analizando la frecuencia de cada tipo de respuesta:
+
+*Edad:*
+- 30 años: 2, 66.6%
+- 28 años: 1, 33.3%
+De esto, se puede notar que todos los entrevistados tienen edad entre 28 a 30 años. Sin embargo, el 66.6% tiene 30 años.
+
+*Distrito:*
+- Rimac: 1, 33.3%
+- San Isidro: 1, 33.3%
+- Surquillo: 1, 33.3%
+De esto, se puede ver que todos viven en distritos distintos. Sin embargo, San Isidro y Surquillo son distritos al sur de lima, así que se puede determinar que el 66.6% vive en esa área.
+
+*Estado Civil:*
+- Soltero o Soltera: 3, 100%
+De esto, se determina que el 100% de los entrevistados tiene la soltería como su estado civil.
+
+*Dispositivos:*
+- Celular Android: 2, 66.6% en celulares, 33.3% en general
+- Celular iPhone: 1, 33.3% en celulares, 16.67% en general
+- PC Windows: 3, 100% en computadoras, 50% en general
+De esto, se hace notar que todos los entrevistados tienen computadoras Windows, siendo el 50% de todos los dispositivos, y también que la la mayoría tiene celulares Android.
+
+*Navegadores:*
+- Google Chrome: 3, 100%
+De esto, se determina que el 100% de los entrevistados usan Google Chrome.
+
+*Canales de Comunicación:*
+- Llamadas Telefónicas: 1, 20%
+- WhatsApp: 3, 60%
+- Instagram: 1, 20%
+De esto, se puede ver que la mayoría usa WhatsApp como su método de comunicación preferido, aparte de que todos los entrevistados lo usan.
+
+*Marcas que le influencian:*
+- LG: 1, 25%
+- Redmi: 1, 25%
+- Louis Vuitton: 1, 25%
+- Etzy: 1, 25%
+De esto, se puede ver que a todos les influencia marcas diferentes, aunque el 50% son de tecnología.
+
+*Metas:*
+- No perder tiempo en la gestión de inventario: 2, 20%
+- Acelerar los tiempos de producción: 2, 20%
+- Compartir y aprender de los conocimientos de otros: 3, 30%
+- Asegurar la calidad en pedidos demandantes: 2, 20%
+- Automatizar procesos administrativos: 1, 10%
+De esto, se puede notar que todos quieren compartir los suyos y aprender de los conocimientos de otros, y que la mayoría busca acelerar los procesos de gestión y producción, y asegurar la calidad en pedidos demandantes.
+
+*Frustraciones:*
+- El desafío de hacer todo en el plazo de tiempo acordado: 16.67%
+- No poder satisfacer al cliente: 1, 16.67%
+- Que las herramientas de gestión tomen mucho tiempo en manejar y actualizar: 3, 50%
+- Tener que mantener la calidad en pedidos grandes: 1, 16.67%
+- Que los métodos de producción no sean eficientes: 2, 33.3%
+- La falta de seguridad de la información: 1, 16.67%
+De esto, se puede ver que todos los entrevistados tienen problemas con el manejo de las herramientas de gestión actuales, pero que la mayoría también tiene problemas con la falta de eficiencia en los métodos de producción.
 
 **Segmento 2:**
 
