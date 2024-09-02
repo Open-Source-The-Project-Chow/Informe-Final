@@ -30,7 +30,7 @@ Para nuestra marca se escogieron 2 colores primarios y 2 colores secundarios con
 - Naranja: Es un perfecto colo para guiar la atencion del cliente.
 - Amarillo: Es un perfecto colo para guiar la atencion del cliente.
 
-![Colores](../assets/img/colores.png)
+![Colores](../assets/img/colors.png)
 
 **Spacing:**
 
