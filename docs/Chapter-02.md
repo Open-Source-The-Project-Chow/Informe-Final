@@ -162,19 +162,148 @@ Durante el proceso de investigación para nuestro proyecto, realizamos entrevist
 
 **Entrevista 1: (Seg1)**
 
-**Nombre y Apellido:**
+**Nombre y Apellido:** Milagros Maciel Tejada Banto
 
-**Edad:**
+**Edad:** 30
 
-**Distrito:**
+**Distrito:** Rímac, Lima
 
 **Screenshot de la Entrevista:**
+![Entrevista1](assets/img/Entrevista1.png)
 
 **URL del Video:**
 
-**Timing de Inicio y Duración:** [Inicio: 00:00, Duración: 00:00]
+**Timing de Inicio y Duración:** [Inicio: 00:00, Duración: 06:48]
 
 **Resumen de la Entrevista:**
+
+Milagros Maciel Tejada Banto, una artesana dedicada al ámbito de la bisutería, se encuentra actualmente inmersa en la organización de sus materiales e inventarios mediante métodos tradicionales, como el etiquetado y empaquetado manual. Uno de los principales desafíos que enfrenta es cumplir con los plazos establecidos para la entrega de pedidos personalizados, asegurando que los productos sean entregados conforme a las expectativas de los clientes.
+
+En cuanto a la utilización de herramientas tecnológicas, Milagros emplea predominantemente un teléfono móvil con sistema operativo Android y una computadora personal con Windows. Su navegador de preferencia es Chrome, que utiliza para la realización de sus actividades en línea. La comunicación con sus clientes se efectúa principalmente a través de llamadas telefónicas y la aplicación de mensajería WhatsApp.
+
+Milagros expresó su interés en contar con un espacio colaborativo donde pudiera compartir sus conocimientos y aprender de otros artesanos. Propuso la creación de una asociación que facilite la gestión y promoción de productos de bisutería, lo cual podría contribuir a una mayor eficiencia y visibilidad en su labor.
+
+Actualmente, la gestión de pedidos se lleva a cabo mediante la herramienta Excel, la cual, según Milagros, presenta ciertas limitaciones, especialmente debido a la necesidad de realizar actualizaciones frecuentes, lo que puede consumir un tiempo valioso que podría ser destinado a la producción.
+
+Finalmente, Milagros manifestó sus preocupaciones en torno al uso de la tecnología, particularmente por la brecha generacional y el temor a posibles robos de información. No obstante, reconoce la importancia de mantenerse al día con las nuevas tecnologías para optimizar y mejorar sus procesos de trabajo.
+
+**Entrevista 2: (Seg1)**
+
+**Nombre y Apellido:** Francisco Torres
+
+**Edad:** 30 años
+
+**Distrito:** San Isidro, Lima
+
+**Screenshot de la Entrevista:**
+![Entrevista2](assets/img/Entrevista2.png)
+
+**URL del Video:**
+
+**Timing de Inicio y Duración:** [Inicio: 06:48, Duración: 13:39]
+
+**Resumen de la Entrevista:**
+
+Francisco Torres es un artesano que combina técnicas tradicionales de trabajo en cuero con diseños modernos. Además de su trabajo artesanal, está aprendiendo marketing digital para expandir su negocio. Utiliza una computadora pequeña para gestionar su inventario y un teléfono Android para comunicarse con clientes y manejar redes sociales, prefiriendo el navegador Chrome por su compatibilidad.
+
+Francisco organiza sus materiales con un software de gestión que sincroniza con su tienda en línea, lo que le ayuda a mantener todo actualizado. Sin embargo, enfrenta desafíos al manejar grandes pedidos personalizados, lo que puede complicar la planificación. A pesar de utilizar herramientas digitales, reconoce la necesidad de una inversión inicial y tiempo para aprender a usarlas de manera efectiva.
+
+Prefiere la comunicación a través de WhatsApp por su rapidez, pero también reconoce la importancia de las reuniones presenciales. Francisco expresó preocupaciones sobre la seguridad de los datos y las posibles fallas tecnológicas que podrían afectar su trabajo, pero valora la tecnología por su capacidad de mejorar la eficiencia en su proceso productivo.
+
+**Entrevista 3: (Seg1)**
+
+**Nombre y Apellido:** Darío Tello
+
+**Edad:** 28 años
+
+**Distrito:** Surquillo, Lima
+
+**Screenshot de la Entrevista:**
+
+![Entrevista3](assets/img/Entrevista3.png)
+
+**Timing de Inicio y Duración:** [Inicio: 13:39, Duración: 21:02]
+
+**Resumen de la Entrevista:**
+
+Darío Tello es un artesano que se especializa en joyería moderna y administra su propia tienda en línea. Utiliza una laptop con Windows para diseñar y gestionar su tienda, mientras que emplea un iPhone para manejar redes sociales y comunicarse con sus clientes. Su navegador preferido es Chrome, debido a su rapidez y capacidad de sincronización.
+
+Para la gestión de materiales e inventario, Darío recurre a aplicaciones móviles y hojas de cálculo en Google, las cuales se actualizan automáticamente según sus necesidades. Uno de sus principales desafíos es coordinar los tiempos para cumplir con los pedidos personalizados, especialmente cuando se superponen varios pedidos.
+
+Darío utiliza herramientas digitales como Trello para la gestión de tareas y Google Sheets para el inventario. Aunque aprecia la centralización de la información, encuentra frustrante la falta de integración entre las diferentes herramientas, lo que puede dificultar su flujo de trabajo. Expresó preocupaciones sobre la seguridad de la información, especialmente los datos de los clientes, y teme que las herramientas tecnológicas se vuelvan obsoletas rápidamente, requiriendo constantes actualizaciones.
+
+Finalmente, Darío manifestó su interés en un espacio en línea donde artesanos puedan compartir técnicas y experiencias, así como un mercado para vender sus productos y recibir retroalimentación de expertos.
+
+**Entrevista 4: (Seg2)**
+
+**Nombre y Apellido:** Andrés Roman
+
+**Edad:** 22 años
+
+**Distrito:** Rímac, Lima
+
+**Screenshot de la Entrevista:**
+
+![Entrevista4](assets/img/Entrevista4.png)
+
+**Timing de Inicio y Duración:** [Inicio: 21:02, Duración: 24:54]
+
+**Resumen de la Entrevista:**
+
+Andrés es un joven de 22 años que combina sus estudios con el apoyo en el negocio familiar. Utiliza una computadora con Windows en la oficina y un iPhone para gestionar tareas relacionadas con el negocio, mientras que su padre usa un dispositivo Android. En cuanto a la comunicación, prefiere usar WhatsApp debido a su facilidad para coordinar con clientes y proveedores.
+
+Andrés destaca la importancia de recibir actualizaciones en tiempo real sobre el estado de los pedidos, especialmente para evitar múltiples viajes y garantizar la puntualidad en las entregas. Considera que uno de los principales desafíos es cumplir con los plazos de entrega, evitando fallos que puedan afectar la relación con los clientes.
+
+También mencionó que sería útil contar con un sistema que permita visualizar y comentar el progreso de los pedidos, lo que mejoraría la coordinación con los artesanos. Andrés sugiere que la tecnología podría optimizar la cadena de suministros, mejorando los tiempos y la transparencia en el proceso logístico.
+
+Finalmente, enfatiza la necesidad de mayor puntualidad y claridad en las fechas de envío para facilitar una mejor organización y planificación en su trabajo.
+**Entrevista 5: (Seg2)**
+
+**Nombre y Apellido:** Alison Mamani
+
+**Edad:** 15 años
+
+**Distrito:** Rímac, Lima
+
+**Screenshot de la Entrevista:**
+
+![Entrevista5](assets/img/Entrevista5.png)
+
+**Timing de Inicio y Duración:** [Inicio: 21:02, Duración: 29:57]
+
+**Resumen de la Entrevista:**
+
+Alison es una joven de 15 años que participa activamente en un negocio familiar de artesanía. Utiliza un iPhone como su principal herramienta tecnológica, especialmente para gestionar redes sociales y otras actividades del negocio. Su navegador preferido es Chrome, y para la comunicación, emplea WhatsApp para mensajes breves, mientras que para reuniones utiliza Zoom.
+
+Alison prefiere utilizar Google Forms para hacer el seguimiento de los pedidos realizados, lo que le permite gestionar las solicitudes de manera eficiente. Considera crucial recibir actualizaciones en tiempo real sobre el estado de los pedidos para asegurar que todo se esté manejando correctamente.
+
+Uno de los desafíos que enfrenta es mantener la puntualidad en la producción y entrega de los pedidos, especialmente cuando surgen imprevistos. Expresó su interés en contar con un sistema que permita ver y comentar el progreso de los pedidos, mejorando así la comunicación con los artesanos.
+
+Finalmente, Alison sugiere que la tecnología podría mejorar la cadena de suministros mediante la implementación de una aplicación que facilite el intercambio de ideas entre artesanos, lo que resultaría en un mejor producto final para el público.
+
+**Entrevista 6: (Seg2)**
+
+**Nombre y Apellido:** Marcelo Lopez
+
+**Edad:** 24 años
+
+**Distrito:** San Juan de Lurigancho, Lima
+
+**Screenshot de la Entrevista:**
+
+![Entrevista6](assets/img/Entrevista6.png)
+
+**Timing de Inicio y Duración:** [Inicio: 29:57, Duración: 32:19]
+
+**Resumen de la Entrevista:**
+
+Marcelo es un distribuidor de 24 años que utiliza principalmente un iPhone para su trabajo. Su navegador preferido es Safari, y prefiere comunicarse a través de redes sociales, especialmente Instagram, y WhatsApp para coordinar con artesanos.
+
+Marcelo enfatiza la importancia de recibir actualizaciones en tiempo real sobre los pedidos, ya que esto le permite mantener una buena relación con los clientes y evitar retrasos en las entregas. Para hacer el seguimiento de los pedidos, prefiere llamar o enviar mensajes a través de WhatsApp.
+
+Uno de los principales desafíos que enfrenta en su trabajo son los retrasos en la producción y entrega. Marcelo expresó que mejorar la comunicación con los artesanos sería clave para superar estos desafíos y que la tecnología podría optimizar la cadena de suministros, haciendo que todo el proceso sea más rápido y eficiente.
+
+Finalmente, mostró interés en un sistema que facilite la visualización y comentarios sobre el estado de los pedidos, lo que ayudaría a mejorar la coordinación y la gestión del trabajo.
 
 ### 2.2.3. Análisis de entrevistas
 
