@@ -133,7 +133,7 @@ Innovación Continua en la Plataforma:
 - Vamos relacionandonos un poco mas al tema tecnologico ¿Cuál es la herramienta tecnologica que mas usa? Entre PC y/o Celular, especificar si es Windows, Mac, Android o Iphone.
 - ¿Cuales son los navegadores de internet que mas usa a dia de hoy? (Edge, Chrome, Firefox, Opera o Safari)
 - ¿Qué canal de comunicación prefiere usar: Reuniones presenciales, llamadas telefónicas o mensajes de texto (WhatsApp, SMS, Redes Sociales)?
--¿Qué marcas y/o influencias han tenido mayor impacto en usted?
+  -¿Qué marcas y/o influencias han tenido mayor impacto en usted?
 
 **Preguntas para Artesanos**
 
@@ -157,6 +157,9 @@ Innovación Continua en la Plataforma:
 
 ### 2.2.2. Registro de entrevistas
 
+Durante el proceso de investigación para nuestro proyecto, realizamos entrevistas con el público objetivo. Cada una de estas entrevistas fue documentada en video, y se registraron los siguientes detalles:
+[Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213278_upc_edu_pe/EXiSUSiYDW5GqGS4PDdn_uEBukdsoybed9deXxLdZ6Mkdg?e=FUVypK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 **Entrevista 1: (Seg1)**
 
 **Nombre y Apellido:**
@@ -178,117 +181,135 @@ Innovación Continua en la Plataforma:
 **Segmento 1: Artesanos**
 Para la elaboración del arquetipo del Artesano, se usa como referencia las respuestas de las 3 primeras entrevistas. Empecemos analizando la frecuencia de cada tipo de respuesta:
 
-*Edad:*
+_Edad:_
+
 - 30 años: 2, 66.6%
 - 28 años: 1, 33.3%
-De esto, se puede notar que todos los entrevistados tienen edad entre 28 a 30 años. Sin embargo, el 66.6% tiene 30 años.
+  De esto, se puede notar que todos los entrevistados tienen edad entre 28 a 30 años. Sin embargo, el 66.6% tiene 30 años.
 
-*Distrito:*
+_Distrito:_
+
 - Rimac: 1, 33.3%
 - San Isidro: 1, 33.3%
 - Surquillo: 1, 33.3%
-De esto, se puede ver que todos viven en distritos distintos. Sin embargo, San Isidro y Surquillo son distritos al sur de lima, así que se puede determinar que el 66.6% vive en esa área.
+  De esto, se puede ver que todos viven en distritos distintos. Sin embargo, San Isidro y Surquillo son distritos al sur de lima, así que se puede determinar que el 66.6% vive en esa área.
 
-*Estado Civil:*
+_Estado Civil:_
+
 - Soltero o Soltera: 3, 100%
-De esto, se determina que el 100% de los entrevistados tiene la soltería como su estado civil.
+  De esto, se determina que el 100% de los entrevistados tiene la soltería como su estado civil.
 
-*Dispositivos:*
+_Dispositivos:_
+
 - Celular Android: 2, 66.6% en celulares, 33.3% en general
 - Celular iPhone: 1, 33.3% en celulares, 16.67% en general
 - PC Windows: 3, 100% en computadoras, 50% en general
-De esto, se hace notar que todos los entrevistados tienen computadoras Windows, siendo el 50% de todos los dispositivos, y también que la la mayoría tiene celulares Android.
+  De esto, se hace notar que todos los entrevistados tienen computadoras Windows, siendo el 50% de todos los dispositivos, y también que la la mayoría tiene celulares Android.
 
-*Navegadores:*
+_Navegadores:_
+
 - Google Chrome: 3, 100%
-De esto, se determina que el 100% de los entrevistados usan Google Chrome.
+  De esto, se determina que el 100% de los entrevistados usan Google Chrome.
 
-*Canales de Comunicación:*
+_Canales de Comunicación:_
+
 - Llamadas Telefónicas: 1, 20%
 - WhatsApp: 3, 60%
 - Instagram: 1, 20%
-De esto, se puede ver que la mayoría usa WhatsApp como su método de comunicación preferido, aparte de que todos los entrevistados lo usan.
+  De esto, se puede ver que la mayoría usa WhatsApp como su método de comunicación preferido, aparte de que todos los entrevistados lo usan.
 
-*Marcas que le influencian:*
+_Marcas que le influencian:_
+
 - LG: 1, 25%
 - Redmi: 1, 25%
 - Louis Vuitton: 1, 25%
 - Etzy: 1, 25%
-De esto, se puede ver que a todos les influencia marcas diferentes, aunque el 50% son de tecnología.
+  De esto, se puede ver que a todos les influencia marcas diferentes, aunque el 50% son de tecnología.
 
-*Metas:*
+_Metas:_
+
 - No perder tiempo en la gestión de inventario: 2, 20%
 - Acelerar los tiempos de producción: 2, 20%
 - Compartir y aprender de los conocimientos de otros: 3, 30%
 - Asegurar la calidad en pedidos demandantes: 2, 20%
 - Automatizar procesos administrativos: 1, 10%
-De esto, se puede notar que todos quieren compartir los suyos y aprender de los conocimientos de otros, y que la mayoría busca acelerar los procesos de gestión y producción, y asegurar la calidad en pedidos demandantes.
+  De esto, se puede notar que todos quieren compartir los suyos y aprender de los conocimientos de otros, y que la mayoría busca acelerar los procesos de gestión y producción, y asegurar la calidad en pedidos demandantes.
 
-*Frustraciones:*
+_Frustraciones:_
+
 - El desafío de hacer todo en el plazo de tiempo acordado: 16.67%
 - No poder satisfacer al cliente: 1, 16.67%
 - Que las herramientas de gestión tomen mucho tiempo en manejar y actualizar: 3, 50%
 - Tener que mantener la calidad en pedidos grandes: 1, 16.67%
 - Que los métodos de producción no sean eficientes: 2, 33.3%
 - La falta de seguridad de la información: 1, 16.67%
-De esto, se puede ver que todos los entrevistados tienen problemas con el manejo de las herramientas de gestión actuales, pero que la mayoría también tiene problemas con la falta de eficiencia en los métodos de producción.
+  De esto, se puede ver que todos los entrevistados tienen problemas con el manejo de las herramientas de gestión actuales, pero que la mayoría también tiene problemas con la falta de eficiencia en los métodos de producción.
 
 **Segmento 2: Distribuidores**
 Para la elaboración del arquetipo del Distribuidor, se usa como referencia las respuestas de las 3 últimas entrevistas. Empecemos analizando la frecuencia de cada tipo de respuesta:
 
-*Edad:*
+_Edad:_
+
 - 22 años: 1, 33.3%
 - 15 años: 1, 33.3%
 - 24 años: 1, 33.3%
-De esto, se puede notar que los entrevistados tienen edades diferentes. Sin embargo, el 66.6% tiene enter 22 a 24 años, así que determinamos 23 años como su media.
+  De esto, se puede notar que los entrevistados tienen edades diferentes. Sin embargo, el 66.6% tiene enter 22 a 24 años, así que determinamos 23 años como su media.
 
-*Distrito:*
+_Distrito:_
+
 - Rimac: 2, 33.3%
 - San Juan de Lurigancho: 1, 66.6%
-De esto, se puede ver que el 66.6% vive en Rímac.
+  De esto, se puede ver que el 66.6% vive en Rímac.
 
-*Estado Civil:*
+_Estado Civil:_
+
 - Soltero o Soltera: 3, 100%
-De esto, se determina que el 100% de los entrevistados tiene la soltería como su estado civil.
+  De esto, se determina que el 100% de los entrevistados tiene la soltería como su estado civil.
 
-*Dispositivos:*
+_Dispositivos:_
+
 - Celular Android: 1, 33.3% en celulares, 25% en general
 - Celular iPhone: 2, 66.6% en celulares, 50% en general
 - PC Windows: 1, 100% en computadoras, 25% en general
-De esto, se hace notar que la mayoría de los entrevistados tienen un iPhone, pues es el 50% de los dispositivos.
+  De esto, se hace notar que la mayoría de los entrevistados tienen un iPhone, pues es el 50% de los dispositivos.
 
-*Navegadores:*
+_Navegadores:_
+
 - Google Chrome: 2, 66.6%
 - Safari: 1, 33.3%
-De esto, se ve que el 66.6% usa Google Chrome.
+  De esto, se ve que el 66.6% usa Google Chrome.
 
-*Canales de Comunicación:*
+_Canales de Comunicación:_
+
 - Meet: 1, 16.67%
 - WhatsApp: 2, 33.3%
 - Messenger: 1, 16.67%
 - Zoom: 1, 16.67%
 - Instagram: 1, 16.67%
-De esto, se puede ver que hay muchas respuestas variadas, pero el 33.3% usa WhatsApp.
+  De esto, se puede ver que hay muchas respuestas variadas, pero el 33.3% usa WhatsApp.
 
-*Marcas que le influencian:*
+_Marcas que le influencian:_
+
 - HP: 2, 25%
 - Samsung: 2, 25%
 - Apple: 2, 25%
 - Amazon: 2, 25%
-De esto, se puede ver que las respuestas son todas variadas y equitativas, así que se considera todas.
+  De esto, se puede ver que las respuestas son todas variadas y equitativas, así que se considera todas.
 
-*Metas:*
+_Metas:_
+
 - Estar al tanto del progreso del pedido: 3, 50%
 - Mejorar la transparencia y los tiempos de envío: 1, 16.67%
 - Tener buena comunicación con los artesanos: 2, 33.3%
-De esto, se puede notar que todos quieren estar al tanto del progreso del pedido, y que la mayoría busca tener buena comunicación con los artesanos.
+  De esto, se puede notar que todos quieren estar al tanto del progreso del pedido, y que la mayoría busca tener buena comunicación con los artesanos.
 
-*Frustraciones:*
+_Frustraciones:_
+
 - Que no se cumplan los plazos: 2, 40%
 - Quedar mal con el cliente: 1, 20%
 - Que las fechas de envío no sean claras: 1, 20%
 - Que hayan disturbios que puedan retrasar los pedidos: 1, 20%
-De esto, se puede ver que la mayoría, en el 40%, tiene frustraciones con el incumplimiento de plazos.
+  De esto, se puede ver que la mayoría, en el 40%, tiene frustraciones con el incumplimiento de plazos.
 
 ## 2.3. Needfinding
 
@@ -305,29 +326,30 @@ De esto, se puede ver que la mayoría, en el 40%, tiene frustraciones con el inc
 ### 2.3.5. As-is Scenario Mapping
 
 ## 2.4. Ubiquitous Language
+
 - **Workshop (Taller)**
-Espacio donde el artesano realiza sus actividades.
+  Espacio donde el artesano realiza sus actividades.
 
 - **Inventory (Inventario)**
-Conjunto de materiales y productos que el artesano gestiona.
+  Conjunto de materiales y productos que el artesano gestiona.
 
 - **Raw Materials (Materias Primas)**
-Insumos naturales o básicos que los artesanos utilizan para crear sus productos, como madera, arcilla, metales, telas, entre otros.
+  Insumos naturales o básicos que los artesanos utilizan para crear sus productos, como madera, arcilla, metales, telas, entre otros.
 
 - **Bespoke Craft (Artesanía a Medida)**
-Producto artesanal creado específicamente según las preferencias o necesidades del cliente.
+  Producto artesanal creado específicamente según las preferencias o necesidades del cliente.
 
 - **Conceptualization (Conceptualización)**
-Primera etapa, donde el artesano diseña el producto.
+  Primera etapa, donde el artesano diseña el producto.
 
 - **Material Preparation (Preparación de Materiales)**
-Etapa en la que se seleccionan, preparan y acondicionan los materiales para la creación del producto.
+  Etapa en la que se seleccionan, preparan y acondicionan los materiales para la creación del producto.
 
 - **Crafting (Elaboración)**
-Etapa principal, donde el artesano trabaja manualmente la pieza de artesania.
+  Etapa principal, donde el artesano trabaja manualmente la pieza de artesania.
 
 - **Detailing (Detalles)**
-Fase donde se añaden elementos específicos como adornos o acabados planteados en la conceptualizacion.
+  Fase donde se añaden elementos específicos como adornos o acabados planteados en la conceptualizacion.
 
 - **Finishing (Acabado)**
-Última etapa del proceso, donde se aplican técnicas como pulir, lijar, o aplicar un barniz para mejorar la apariencia y calidad del producto.
+  Última etapa del proceso, donde se aplican técnicas como pulir, lijar, o aplicar un barniz para mejorar la apariencia y calidad del producto.
