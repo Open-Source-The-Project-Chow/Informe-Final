@@ -42,8 +42,23 @@ Nuestra plataforma busca generarle confianza al usuario , por lo que se decidio 
 
 ### 4.1.2. Web Style Guidelines
 
+CraftSync ofrece una plataforma enfocada en la eficiencia de esta, ya que nuestro objetivo ademas de captar la atencion del cliente es ofrecer la mejor experiencia a los usuarios.
 
+Componentes elegidos que se adaptan al diseño responsive:
 
+- Tarjetas: Las tarjetas permiten a los usuarios escanear y procesar información de manera rápida, y son ideales para mostrar resúmenes de contenido, perfiles o productos de forma modular y flexible.
+
+  ![Tarjetas](../assets/img/tarjetas.png)
+  
+- Botones: Los botones son elementos interactivos diseñados para captar la atención del usuario y facilitar la realización de acciones específicas, como enviar un formulario.
+
+   ![Botones](../assets/img/botones.png)
+  
+- InputBox: Los InputBox son campos de entrada que permiten a los usuarios introducir información, como texto o números.
+
+  ![InputBox](../assets/img/inputbox.png)
+  
+- Imagenes: Las imágenes son elementos visuales que enriquecen el contenido y apoyan la comunicación de mensajes.
 
 ## 4.2. Information Architecture
 
