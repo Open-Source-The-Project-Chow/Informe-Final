@@ -233,7 +233,62 @@ De esto, se puede notar que todos quieren compartir los suyos y aprender de los 
 - La falta de seguridad de la información: 1, 16.67%
 De esto, se puede ver que todos los entrevistados tienen problemas con el manejo de las herramientas de gestión actuales, pero que la mayoría también tiene problemas con la falta de eficiencia en los métodos de producción.
 
-**Segmento 2:**
+**Segmento 2: Distribuidores**
+Para la elaboración del arquetipo del Distribuidor, se usa como referencia las respuestas de las 3 últimas entrevistas. Empecemos analizando la frecuencia de cada tipo de respuesta:
+
+*Edad:*
+- 22 años: 1, 33.3%
+- 15 años: 1, 33.3%
+- 24 años: 1, 33.3%
+De esto, se puede notar que los entrevistados tienen edades diferentes. Sin embargo, el 66.6% tiene enter 22 a 24 años, así que determinamos 23 años como su media.
+
+*Distrito:*
+- Rimac: 2, 33.3%
+- San Juan de Lurigancho: 1, 66.6%
+De esto, se puede ver que el 66.6% vive en Rímac.
+
+*Estado Civil:*
+- Soltero o Soltera: 3, 100%
+De esto, se determina que el 100% de los entrevistados tiene la soltería como su estado civil.
+
+*Dispositivos:*
+- Celular Android: 1, 33.3% en celulares, 25% en general
+- Celular iPhone: 2, 66.6% en celulares, 50% en general
+- PC Windows: 1, 100% en computadoras, 25% en general
+De esto, se hace notar que la mayoría de los entrevistados tienen un iPhone, pues es el 50% de los dispositivos.
+
+*Navegadores:*
+- Google Chrome: 2, 66.6%
+- Safari: 1, 33.3%
+De esto, se ve que el 66.6% usa Google Chrome.
+
+*Canales de Comunicación:*
+- Meet: 1, 16.67%
+- WhatsApp: 2, 33.3%
+- Messenger: 1, 16.67%
+- Zoom: 1, 16.67%
+- Instagram: 1, 16.67%
+De esto, se puede ver que hay muchas respuestas variadas, pero el 33.3% usa WhatsApp.
+
+*Marcas que le influencian:*
+- HP: 2, 25%
+- Samsung: 2, 25%
+- Apple: 2, 25%
+- Amazon: 2, 25%
+De esto, se puede ver que las respuestas son todas variadas y equitativas, así que se considera todas.
+
+*Metas:*
+- Estar al tanto del progreso del pedido: 3, 50%
+- Mejorar la transparencia y los tiempos de envío: 1, 16.67%
+- Tener buena comunicación con los artesanos: 2, 33.3%
+De esto, se puede notar que todos quieren estar al tanto del progreso del pedido, y que la mayoría busca tener buena comunicación con los artesanos.
+
+*Frustraciones:*
+- Que no se cumplan los plazos: 2, 40%
+- Quedar mal con el cliente: 1, 20%
+- Que las fechas de envío no sean claras: 1, 20%
+- Que hayan disturbios que puedan retrasar los pedidos: 1, 20%
+De esto, se puede ver que la mayoría, en el 40%, tiene frustraciones con el incumplimiento de plazos.
 
 ## 2.3. Needfinding
 
