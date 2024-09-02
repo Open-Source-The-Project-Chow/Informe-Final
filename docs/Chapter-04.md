@@ -5,8 +5,45 @@
 Las guías de estilo serán la base para dar forma a nuestro producto, utilizando patrones que consideren los aspectos de arquitectura de la información y accesibilidad necesarios para la implementación exitosa de UrProvider tanto en una Landing Page como en una Aplicación Web.
 
 ### 4.1.1. General Style Guidelines
+**Branding:**
+
+**Brand Overview:**
+
+CraftSync es una plataforma desarrollada por The Project Chow, que tiene como principal objetivo servir de herramienta para artesanos o personas incluidas en el mundo de la artesania.
+- Nombre: CraftSync surge de 
+- Logo: Para el logo de la marca se escogio representar a nuestro principal segmento objetivo que son los artesanos y de esta forma buscar generar un vinculo con el usuario.
+
+  ![Logo](../assets/img/logo.png)
+
+**Tipografia:**
+
+La tipografia es importante porque ayuda al usuario a entender mejor la informacion mediante la legibilidad  y uso de la jerarquia. Para el proyecto se escogio Lato con estilos medium y regular, y distintos tamaños para mantener la jerarquia.
+
+![Tipografia](../assets/img/tipografia.png)
+  
+**Colores:**
+
+Escoger los colores adecuados es importante ya que estos se encargan de captar la atencion de los usuarios.
+Para nuestra marca se escogieron 2 colores primarios y 2 colores secundarios con sus respectivos colores alternos:
+- Marron: Representa autenticidad, tradición y esta asociado fuertemente con la naturaleza.
+- Blanco: Representa simpleza, claridad y es un perfecto complemento del marron.
+- Naranja: Es un perfecto colo para guiar la atencion del cliente.
+- Amarillo: Es un perfecto colo para guiar la atencion del cliente.
+
+![Colores](../assets/img/colores.png)
+
+**Spacing:**
+
+![Spacing](../assets/img/spacing.png)
+
+**Tono de comunicación y lenguaje aplicado:**
+
+Nuestra plataforma busca generarle confianza al usuario , por lo que se decidio en utilizar un enfoque comunicativo serio, formal, respetuoso, sereno.
 
 ### 4.1.2. Web Style Guidelines
+
+
+
 
 ## 4.2. Information Architecture
 
