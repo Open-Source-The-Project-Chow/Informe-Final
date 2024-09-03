@@ -460,7 +460,129 @@ _**Segmento Objetivo 2: Distribuidores**_
 
 ### 2.3.2. User Task Matrix
 
+A continuación se presentan los User Task Matrix para los dos segmentos clave: Artesanos y Distribuidores. Estos cuadros detallan las tareas que cada grupo realiza para alcanzar sus objetivos, resaltando la frecuencia e importancia de cada tarea en su día a día.
 
+### **User Task Matrix - Distribuidores**
+
+<table>
+  <tr>
+    <th>Tareas</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+  <tr>
+    <td>Seguimiento del Progreso del Pedido</td>
+    <td>Muy Alta</td>
+    <td>Muy Alta</td>
+  </tr>
+  <tr>
+    <td>Comunicación con Artesanos</td>
+    <td>Alta</td>
+    <td>Muy Alta</td>
+  </tr>
+  <tr>
+    <td>Gestión de Fechas de Envío y Plazos</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Resolución de Problemas Logísticos</td>
+    <td>Baja</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Coordinación de Envíos</td>
+    <td>Alta</td>
+    <td>Muy Alta</td>
+  </tr>
+  <tr>
+    <td>Mantenimiento de Relaciones con Clientes</td>
+    <td>Alta</td>
+    <td>Muy Alta</td>
+  </tr>
+  <tr>
+    <td>Optimización de Tiempos de Envío</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Monitoreo de la Satisfacción del Cliente</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Gestión de Documentación y Registros</td>
+    <td>Baja</td>
+    <td>Media</td>
+  </tr>
+</table>
+
+### **User Task Matrix - Artesanos**
+
+<table>
+  <tr>
+    <th>Tareas</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+  <tr>
+    <td>Gestión del Inventario</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Creación de Productos Artesanales</td>
+    <td>Muy Alta</td>
+    <td>Muy Alta</td>
+  </tr>
+  <tr>
+    <td>Optimización de Métodos de Producción</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Aseguramiento de Calidad en Pedidos Grandes</td>
+    <td>Alta</td>
+    <td>Muy Alta</td>
+  </tr>
+  <tr>
+    <td>Comunicación con Clientes</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Colaboración y Aprendizaje con Otros Artesanos</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Manejo de Herramientas de Gestión</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Promoción y Marketing de Productos</td>
+    <td>Baja</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Seguridad de la Información</td>
+    <td>Baja</td>
+    <td>Media</td>
+  </tr>
+</table>
+
+#### **Explicación y análisis**
+
+**Segmento: Distribuidores**
+**Explicación:** Los distribuidores se centran en tareas clave como el "Seguimiento del Progreso del Pedido", la "Comunicación con Artesanos", y la "Coordinación de Envíos", que son esenciales para cumplir con sus responsabilidades de manera efectiva.
+
+**Análisis:** Las tareas de mayor frecuencia e importancia son aquellas relacionadas con la logística y la comunicación, lo que refleja su enfoque en garantizar que los pedidos se gestionen y entreguen a tiempo. Las tareas menos frecuentes, como la "Gestión de Documentación", son menos prioritarias.
+
+**Segmento: Artesanos**
+**Explicación:** Los artesanos priorizan la "Creación de Productos Artesanales" y el "Aseguramiento de Calidad en Pedidos Grandes", junto con la "Gestión del Inventario" para mantener un flujo de trabajo eficiente.
+
+**Análisis:** La mayor frecuencia e importancia se da en tareas relacionadas con la producción y la calidad, mientras que la "Promoción y Marketing" y la "Seguridad de la Información" son menos destacadas, lo que indica un enfoque más en la creación que en la administración o promoción.
 
 ### 2.3.3. User Journey Mapping
 
