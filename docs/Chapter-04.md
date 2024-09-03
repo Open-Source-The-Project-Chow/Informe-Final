@@ -5,26 +5,29 @@
 Las guías de estilo serán la base para dar forma a nuestro producto, utilizando patrones que consideren los aspectos de arquitectura de la información y accesibilidad necesarios para la implementación exitosa de UrProvider tanto en una Landing Page como en una Aplicación Web.
 
 ### 4.1.1. General Style Guidelines
+
 **Branding:**
 
 **Brand Overview:**
 
 CraftSync es una plataforma desarrollada por The Project Chow, que tiene como principal objetivo servir de herramienta para artesanos o personas incluidas en el mundo de la artesania.
-- Nombre: CraftSync surge de 
+
+- Nombre: CraftSync surge de
 - Logo: Para el logo de la marca se escogio representar a nuestro principal segmento objetivo que son los artesanos y de esta forma buscar generar un vinculo con el usuario.
 
   ![Logo](../assets/img/logo.png)
 
 **Tipografia:**
 
-La tipografia es importante porque ayuda al usuario a entender mejor la informacion mediante la legibilidad  y uso de la jerarquia. Para el proyecto se escogio Lato con estilos medium y regular, y distintos tamaños para mantener la jerarquia.
+La tipografia es importante porque ayuda al usuario a entender mejor la informacion mediante la legibilidad y uso de la jerarquia. Para el proyecto se escogio Lato con estilos medium y regular, y distintos tamaños para mantener la jerarquia.
 
 ![Tipografia](../assets/img/tipografia.png)
-  
+
 **Colores:**
 
 Escoger los colores adecuados es importante ya que estos se encargan de captar la atencion de los usuarios.
 Para nuestra marca se escogieron 2 colores primarios y 2 colores secundarios con sus respectivos colores alternos:
+
 - Marron: Representa autenticidad, tradición y esta asociado fuertemente con la naturaleza.
 - Blanco: Representa simpleza, claridad y es un perfecto complemento del marron.
 - Naranja: Es un perfecto colo para guiar la atencion del cliente.
@@ -49,15 +52,15 @@ Componentes elegidos que se adaptan al diseño responsive:
 - Tarjetas: Las tarjetas permiten a los usuarios escanear y procesar información de manera rápida, y son ideales para mostrar resúmenes de contenido, perfiles o productos de forma modular y flexible.
 
   ![Tarjetas](../assets/img/tarjetas.png)
-  
+
 - Botones: Los botones son elementos interactivos diseñados para captar la atención del usuario y facilitar la realización de acciones específicas, como enviar un formulario.
 
-   ![Botones](../assets/img/botones.png)
-  
+  ![Botones](../assets/img/botones.png)
+
 - InputBox: Los InputBox son campos de entrada que permiten a los usuarios introducir información, como texto o números.
 
   ![InputBox](../assets/img/inputbox.png)
-  
+
 - Imagenes: Las imágenes son elementos visuales que enriquecen el contenido y apoyan la comunicación de mensajes.
 
 ## 4.2. Information Architecture
@@ -170,9 +173,20 @@ User Task: El usuario abre CraftSync, ingresa sus datos y registra su cuenta en 
 
 ### 4.6.1. Software Architecture Context Diagram
 
+### Context Diagram
+
+![ContextDiagrama](../assets/img/ContextDiagrama.png)
+
 ### 4.6.2. Software Architecture Container Diagrams
 
+![ContainerDiagram](../assets/img/ContainerDiagra,.png)
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+Bounded Context Access Diagram
+
+![Boundedcontext](/assets/img/bound.png)
+![Boundedcontext2](/assets/img/context.png)
 
 ## 4.7. Software Object-Oriented Design
 
