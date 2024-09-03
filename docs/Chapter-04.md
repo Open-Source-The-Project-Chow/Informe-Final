@@ -154,6 +154,63 @@ Para facilitar la búsqueda de información dentro de nuestra plataforma, se imp
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
+En este apartado se muestran los Wireframes de la Aplicación Web. Cada pantalla tiene un nombre y propósito específico.
+
+**Ingreso a la Plataforma:**
+Estos son las partes del Wireframe dedicadas al ingreso a la plataforma, abarcando el Inicio de Sesión, el registro, la recuperación de contraseña, y la adquisición de suscripción:
+![alt text](../assets/img/W-Inicio-Sesión.png)
+![alt text](../assets/img/W-Inicio-Sesión-C.png)
+![alt text](../assets/img/W-Recuperar-1.png)
+![alt text](../assets/img/W-Recuperar-2.png)
+![alt text](../assets/img/W-Recuperar-3.png)
+![alt text](../assets/img/W-Registro-1.png)
+![alt text](../assets/img/W-Registro-2.png)
+![alt text](../assets/img/W-Adquirir.png)
+![alt text](../assets/img/W-Pago-S.png)
+
+**Pedidos:**
+Estas son las partes del Wireframe dedicadas a la lista y visualización de pedidos, abarcando la lista de pedidos, sus filtros, los pedidos en sí, y la interacción con estos.
+![alt text](../assets/img/W-Pedidos.png)
+![alt text](../assets/img/W-Filtro-1.png)
+![alt text](../assets/img/W-Filtro-2.png)
+![alt text](../assets/img/W-Pedido.png)
+![alt text](../assets/img/W-Pedido-E.png)
+![alt text](../assets/img/W-Pedido-Estado.png)
+![alt text](../assets/img/W-Pedido-Aceptado.png)
+![alt text](../assets/img/W-Pedido-Distribuidor.png)
+![alt text](../assets/img/W-ComentarPedido.png)
+
+**Inventario:**
+Estas son las partes del Wireframe dedicadas al inventario y su manipulación, abarcando la lista de estantes e inventarios, sus detalles, los filtros, y la interacción con estos.
+![alt text](../assets/img/W-Inventario.png)
+![alt text](../assets/img/W-Inventario-F.png)
+![alt text](../assets/img/W-NuevaCategoria.png)
+![alt text](../assets/img/W-NuevoMaterial.png)
+![alt text](../assets/img/W-MoverTodo.png)
+![alt text](../assets/img/W-RevisarMaterial.png)
+
+**Distribución:**
+Estas son las partes del Wireframe dedicadas a la distribución de pedidos ya listos, abarcando la lista de compradores y pedidos, sus detalles, los filtros y la interacción con estos.
+![alt text](../assets/img/W-Distribución.png)
+![alt text](../assets/img/W-Distribución-F.png)
+![alt text](../assets/img/W-VerPedido.png)
+![alt text](../assets/img/W-MoverD.png)
+
+**Foro:**
+Estas son las partes del Wireframe dedicadas al foro y sus publicaciones, abarcando la lista de publicaciones, sus comentarios, y la creación de estos 2.
+![alt text](../assets/img/W-Foro.png)
+![alt text](../assets/img/W-NuevoPost.png)
+![alt text](../assets/img/W-Post-1.png)
+![alt text](../assets/img/W-Post-2.png)
+
+**Perfil:**
+Estas son las partes del Wireframe dedicadas al perfil propio y de otros, abarcando el perfil propio de un artesano, el de otro artesano, el del distribuidor y las funciones relacionadas.
+![alt text](../assets/img/W-Perfil.png)
+![alt text](../assets/img/W-Editar-Perfil.png)
+![alt text](../assets/img/W-Perfil-2.png)
+![alt text](../assets/img/W-Distruibuidor.png)
+![alt text](../assets/img/W-Artesano.png)
+![alt text](../assets/img/W-NuevoPedido.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
