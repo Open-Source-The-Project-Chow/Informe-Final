@@ -169,7 +169,7 @@ Durante el proceso de investigación para nuestro proyecto, realizamos entrevist
 **Distrito:** Rímac, Lima
 
 **Screenshot de la Entrevista:**
-![Entrevista1](assets/img/Entrevista1.png)
+![Entrevista1](../assets/img/Entrevista1.png)
 
 **URL del Video:**
 
@@ -196,7 +196,7 @@ Finalmente, Milagros manifestó sus preocupaciones en torno al uso de la tecnolo
 **Distrito:** San Isidro, Lima
 
 **Screenshot de la Entrevista:**
-![Entrevista2](assets/img/Entrevista2.png)
+![Entrevista2](../assets/img/Entrevista2.png)
 
 **URL del Video:**
 
@@ -220,7 +220,7 @@ Prefiere la comunicación a través de WhatsApp por su rapidez, pero también re
 
 **Screenshot de la Entrevista:**
 
-![Entrevista3](assets/img/Entrevista3.png)
+![Entrevista3](../assets/img/Entrevista3.png)
 
 **Timing de Inicio y Duración:** [Inicio: 13:39, Duración: 21:02]
 
@@ -244,7 +244,7 @@ Finalmente, Darío manifestó su interés en un espacio en línea donde artesano
 
 **Screenshot de la Entrevista:**
 
-![Entrevista4](assets/img/Entrevista4.png)
+![Entrevista4](../assets/img/Entrevista4.png)
 
 **Timing de Inicio y Duración:** [Inicio: 21:02, Duración: 24:54]
 
@@ -267,7 +267,7 @@ Finalmente, enfatiza la necesidad de mayor puntualidad y claridad en las fechas 
 
 **Screenshot de la Entrevista:**
 
-![Entrevista5](assets/img/Entrevista5.png)
+![Entrevista5](../assets/img/Entrevista5.png)
 
 **Timing de Inicio y Duración:** [Inicio: 21:02, Duración: 29:57]
 
@@ -291,7 +291,7 @@ Finalmente, Alison sugiere que la tecnología podría mejorar la cadena de sumin
 
 **Screenshot de la Entrevista:**
 
-![Entrevista6](assets/img/Entrevista6.png)
+![Entrevista6](../assets/img/Entrevista6.png)
 
 **Timing de Inicio y Duración:** [Inicio: 29:57, Duración: 32:19]
 
@@ -442,11 +442,25 @@ _Frustraciones:_
 
 ## 2.3. Needfinding
 
+Posteriormente a las entrevistas, pudimos obtener la información sobre sus deseos, frustraciones, situación y múltiples datos que nos van a servir para satisfacer sus necesidades, mejorando la experiencia a nuestros usuarios. Esta información también nos ayudará a realizar los esquemas para las secciones de User Personas, User Task Matrix, User Journey Maps y el Empathy Mapping.
+
 ### 2.3.1. User Persona
+
+Para el desarrollo de nuestra solución digital, hemos elaborado fichas de User Persona basadas en entrevistas realizadas a dos segmentos clave: Artesanos y Distribuidores. Estas fichas se construyeron a partir del análisis de las respuestas obtenidas y un estudio de la competencia, destacando las principales características, metas y frustraciones de cada grupo.
+
+Las fichas proporcionan una visión clara de quiénes son nuestros usuarios y cómo podemos diseñar un producto que se ajuste a sus necesidades específicas. Mientras que los Artesanos se centran en optimizar la gestión de inventarios y mejorar la producción, los Distribuidores priorizan el seguimiento eficiente de pedidos y la comunicación con los artesanos. Estos insights guiarán el desarrollo de nuestra solución para asegurar que sea efectiva y relevante para ambos segmentos.
+
+_**Segmento Objetivo 1: Artesanos**_
+
+![alt text](../assets/img/UserPersona1.png)
+
+_**Segmento Objetivo 2: Distribuidores**_
+
+![alt text](../assets/img/UserPersona2.png)
 
 ### 2.3.2. User Task Matrix
 
-#### **Explicación y análisis**
+
 
 ### 2.3.3. User Journey Mapping
 
