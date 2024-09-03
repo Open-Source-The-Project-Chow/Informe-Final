@@ -154,6 +154,12 @@ Para facilitar la búsqueda de información dentro de nuestra plataforma, se imp
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+**User Flow Goal 1 (Como artesano quiero registrarme)**
+
+User Task: El usuario abre CraftSync, ingresa sus datos y registra su cuenta en la aplicación.
+
+![alt text](../assets/img/wireflow1.png)
+
 ### 4.4.3. Web Applications Mock-ups
 
 ### 4.4.4. Web Applications User Flow Diagrams
