@@ -220,6 +220,36 @@ User Task: El usuario abre CraftSync, ingresa sus datos y registra su cuenta en 
 
 ![alt text](../assets/img/wireflow1.png)
 
+**User Flow Goal 2 (Como artesano quiero cambiar mis datos registrados)**
+
+User Task: El usuario dentro CraftSync, ingresa a la seccion perfil y le da click al boton editar lo que le permitira modificar cualquier dato que desee.
+
+![alt text](../assets/img/wireflow2.png)
+
+**User Flow Goal 3 (como artesano quiero agregar un nuevo material a mi inventario)**
+
+User Task: El usuario dentro CraftSync, ingresa a la seccion inventario, le da click a agregar material y podra agregar el material que quiera.
+
+![alt text](../assets/img/wireflow3.png)
+
+**User Flow Goal 4 (Como distribuidor quiero solicitar un artesano para que realice el pedido publicado)**
+
+User Task: El usuario dentro CraftSync, ingresa a la seccion foro, buscara un artesano que comentó su publicación y le solicitará el pedido publicado.
+
+![alt text](../assets/img/wireflow4.png)
+
+**User Flow Goal 5 (Como artesano quiero solicitar trabajo a un distribuidor)**
+
+User Task: El usuario dentro CraftSync, ingresa a foro, busca las publicaciones de los distribuidores, entra al perfil y solicitará el trabajo deseado.
+
+![alt text](../assets/img/wireflow5.png)
+
+**User Flow Goal 6 (Como artesano quiero editar los pedidos que tengo)**
+
+User Task: El usuario dentro CraftSync, ingresara a pedidos, modificara el pedido dependiendo en la situacion del pedido actualmente.
+
+![alt text](../assets/img/wireflow6.png)
+
 ### 4.4.3. Web Applications Mock-ups
 
 ### 4.4.4. Web Applications User Flow Diagrams
