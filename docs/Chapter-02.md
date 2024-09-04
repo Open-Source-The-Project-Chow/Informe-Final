@@ -590,6 +590,13 @@ A continuación se presentan los User Task Matrix para los dos segmentos clave: 
 
 ### 2.3.5. As-is Scenario Mapping
 
+Segmento objetivo 1: Artesanos
+![ARTESANOS](/assets/img/As-isArtesanos.png)
+
+Segemento objetivo 2: Distribuidor
+
+![DISTRIBUIDOR](../assets/img/As-isDistribuidor.png)
+
 ## 2.4. Ubiquitous Language
 
 - **Workshop (Taller)**
