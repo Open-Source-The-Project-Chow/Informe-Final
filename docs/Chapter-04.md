@@ -251,10 +251,92 @@ User Task: El usuario dentro CraftSync, ingresara a pedidos, modificara el pedid
 ![alt text](../assets/img/wireflow6.png)
 
 ### 4.4.3. Web Applications Mock-ups
+En este apartado se muestra el Mock-Up de la Aplicación Web. Cada pantalla tiene un nombre y propósito específico.
+
+**Ingreso a la Plataforma:**
+Estos son las partes del Wireframe dedicadas al ingreso a la plataforma, abarcando el Inicio de Sesión, el registro, la recuperación de contraseña, y la adquisición de suscripción:
+![alt text](../assets/img/Inicio-Sesión.png)
+![alt text](../assets/img/Inicio-Sesión-C.png)
+![alt text](../assets/img/Recuperar-1.png)
+![alt text](../assets/img/Recuperar-2.png)
+![alt text](../assets/img/Recuperar-3.png)
+![alt text](../assets/img/Registro-1.png)
+![alt text](../assets/img/Registro-2.png)
+![alt text](../assets/img/Adquirir.png)
+![alt text](../assets/img/Pago-S.png)
+
+**Pedidos Artesano:**
+Estas son las partes del Mock-Up dedicadas a la lista y visualización de pedidos desde el punto de vista del Artesano, abarcando la lista de pedidos, sus filtros, los pedidos en sí, y la interacción con estos.
+![alt text](../assets/img/Pedidos.png)
+![alt text](../assets/img/Filtro-1.png)
+![alt text](../assets/img/Filtro-2.png)
+![alt text](../assets/img/Pedido.png)
+![alt text](../assets/img/Pedido-E.png)
+![alt text](../assets/img/Pedido-Estado.png)
+
+**Pedidos Distribuidor:**
+Estas son las partes del Mock-Up dedicadas a la lista y visualización de pedidos desde el punto de vista del Distribuidor, abarcando la lista de pedidos, sus filtros, los pedidos en sí, y la interacción con estos.
+![alt text](../assets/img/Pedidos-D.png)
+![alt text](../assets/img/Filtro-1-D.png)
+![alt text](../assets/img/Filtro-2-D.png)
+![alt text](../assets/img/Pedido-Distribuidor.png)
+![alt text](../assets/img/ComentarPedido.png)
+![alt text](../assets/img/Pedido-Aceptado.png)
+
+**Inventario:**
+Estas son las partes del Mock-Up dedicadas al inventario y su manipulación, abarcando la lista de estantes e inventarios, sus detalles, los filtros, y la interacción con estos.
+![alt text](../assets/img/Inventario.png)
+![alt text](../assets/img/Inventario-F.png)
+![alt text](../assets/img/NuevaCategoria.png)
+![alt text](../assets/img/NuevoMaterial.png)
+![alt text](../assets/img/MoverTodo.png)
+![alt text](../assets/img/RevisarMaterial.png)
+![alt text](../assets/img/EliminarTodo.png)
+
+**Distribución:**
+Estas son las partes del Mock-Up dedicadas a la distribución de pedidos ya listos, abarcando la lista de compradores y pedidos, sus detalles, los filtros y la interacción con estos.
+![alt text](../assets/img/Distribución.png)
+![alt text](../assets/img/Distribución-F.png)
+![alt text](../assets/img/VerPedido.png)
+![alt text](../assets/img/MoverD.png)
+![alt text](../assets/img/EliminarD.png)
+
+**Foro Artesano:**
+Estas son las partes del Mock-Up dedicadas al foro y sus publicaciones desde el punto de vista del Artesano, abarcando la lista de publicaciones, sus comentarios, y la creación de estos 2.
+![alt text](../assets/img/Foro.png)
+![alt text](../assets/img/NuevoPost.png)
+![alt text](../assets/img/Post-1.png)
+![alt text](../assets/img/Post-2.png)
+
+**Foro Distribuidor:**
+Estas son las partes del Mock-Up dedicadas al foro y sus publicaciones desde el punto de vista del Distribuidor, abarcando la lista de publicaciones, sus comentarios, y la creación de estos 2.
+![alt text](../assets/img/Foro-D.png)
+![alt text](../assets/img/NuevoPost-D.png)
+![alt text](../assets/img/Post-D.png)
+![alt text](../assets/img/Post-2-D.png)
+
+**Perfil Artesano:**
+Estas son las partes del Mock-Up dedicadas al perfil propio y de otros desde el punto de vista del Artesano, abarcando el perfil propio de un artesano, el de otro distribuidor y las funciones relacionadas.
+![alt text](../assets/img/Perfil.png)
+![alt text](../assets/img/Editar-Perfil.png)
+![alt text](../assets/img/Perfil-2.png)
+![alt text](../assets/img/Distruibuidor.png)
+![alt text](../assets/img/Distruibuidor-2.png)
+
+**Perfil Distribuidor:**
+Estas son las partes del Mock-Up dedicadas al perfil propio y de otros desde el punto de vista del Distribuidor, abarcando el perfil propio de un distribuidor, el de otro artesano y las funciones relacionadas.
+![alt text](../assets/img/Perfil-D.png)
+![alt text](../assets/img/Editar-Perfil-D.png)
+![alt text](../assets/img/Perfil-2-D.png)
+![alt text](../assets/img/Artesano.png)
+![alt text](../assets/img/NuevoPedido.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
+En esta sección, se presenta el link del prototipo de la Aplicación Web, mediante la herramienta de prototipado de Figma.
+
+https://www.figma.com/proto/va6WlnDEYIuYOGxzimk1bm/Project-Chow?node-id=152-214&node-type=CANVAS&t=TaYfDd20hKsu9ACP-0&scaling=scale-down&content-scaling=fixed&page-id=152%3A213&starting-point-node-id=152%3A214
 
 ## 4.6. Domain-Driven Software Architecture
 
