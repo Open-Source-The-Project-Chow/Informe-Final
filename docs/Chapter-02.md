@@ -586,6 +586,9 @@ A continuación se presentan los User Task Matrix para los dos segmentos clave: 
 
 ### 2.3.3. User Journey Mapping
 
+_**Segmento Objetivo 2: Distribuidores**_
+![JourneyMap2](../assets/img/journeyMap2.png)
+
 ### 2.3.4. Empathy Mapping
 
 ### 2.3.5. As-is Scenario Mapping
