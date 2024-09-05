@@ -333,6 +333,82 @@ Estas son las partes del Mock-Up dedicadas al perfil propio y de otros desde el 
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+**User Flow Goal 1 (Como artesano quiero registrarme)**
+
+User Task: El usuario abre CraftSync, ingresa sus datos y registra su cuenta en la aplicación.
+
+Unhappy paths:
+
+- El correo ya esta en uso, puede volver a intentarlo.
+- El dni no es valido, puede volver a intentarlo.
+- El usuario ya esta en uso, puede volver a intentarlo.
+- La contraseña repetida no coincide con la contraseña, puede volver a intentarlo.
+
+![alt text](../assets/img/userflow1.png)
+
+**User Flow Goal 2 (Como artesano quiero cambiar mis datos registrados)**
+
+User Task: El usuario dentro CraftSync, ingresa a la seccion perfil y le da click al boton editar lo que le permitira modificar cualquier dato que desee.
+
+Unhappy paths:
+
+- El usuario ya esta en uso, puede volver a intentarlo.
+- El correo ya esta en uso, puede volver a intentarlo.
+- La contraseña repetida no coincide con la contraseña, puede volver a intentarlo.
+- El dni no es valido, puede volver a intentarlo.
+
+![alt text](../assets/img/userflow1.png)
+![alt text](../assets/img/userflow2.png)
+
+**User Flow Goal 3 (como artesano quiero agregar un nuevo material a mi inventario)**
+
+User Task: El usuario dentro CraftSync, ingresa a la seccion inventario, le da click a agregar material y podra agregar el material que quiera.
+
+Unhappy paths:
+
+- El nombre no es aceptado, puede volver a intentarlo.
+- la cantidad no es aceptada, puede volver a intentarlo.
+
+![alt text](../assets/img/userflow1.png)
+![alt text](../assets/img/userflow3.png)
+
+**User Flow Goal 4 (Como distribuidor quiero solicitar un artesano para que realice el pedido publicado)**
+
+User Task: El usuario dentro CraftSync, ingresa a la seccion foro, buscara un artesano que comentó su publicación y le solicitará el pedido publicado.
+
+Unhappy paths:
+La imagen falló durante la verificación, puede volver a intentarlo.
+La descripción no es valida, puede volver a intentarlo.
+La fecha no es valida, puede volver a intentarlo.
+
+![alt text](../assets/img/userflow1.png)
+![alt text](../assets/img/userflow4.png)
+
+**User Flow Goal 5 (Como artesano quiero solicitar trabajo a un distribuidor)**
+
+User Task: El usuario dentro CraftSync, ingresa a foro, busca las publicaciones de los distribuidores, entra al perfil y solicitará el trabajo deseado.
+
+Unhappy paths:
+
+- La descripción no es valida, puede volver a intentarlo.
+- La opción no es valida, puede volver a intentarlo.
+
+![alt text](../assets/img/userflow1.png)
+![alt text](../assets/img/userflow5.png)
+
+**User Flow Goal 6 (Como artesano quiero editar los pedidos que tengo)**
+
+User Task: El usuario dentro CraftSync, ingresara a pedidos, modificara el pedido dependiendo en la situacion del pedido actualmente.
+
+Unhappy paths:
+
+- La descripción no es valida, puede volver a intentarlo.
+- La actualizacion del estado del pedido no es valida, puede volver a intentarlo.
+- El guardado no es valida, puede volver a intentarlo.
+
+![alt text](../assets/img/userflow1.png)
+![alt text](../assets/img/userflow6.png)
+
 ## 4.5. Web Applications Prototyping
 En esta sección, se presenta el link del prototipo de la Aplicación Web, mediante la herramienta de prototipado de Figma.
 
