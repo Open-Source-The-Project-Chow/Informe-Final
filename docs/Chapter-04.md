@@ -12,7 +12,7 @@ Las guías de estilo serán la base para dar forma a nuestro producto, utilizand
 
 CraftSync es una plataforma desarrollada por The Project Chow, que tiene como principal objetivo servir de herramienta para artesanos o personas incluidas en el mundo de la artesania.
 
-- Nombre: CraftSync surge de
+- Nombre: CraftSync surge de fusionar las palabras en ingles Craft y synchronic.
 - Logo: Para el logo de la marca se escogio representar a nuestro principal segmento objetivo que son los artesanos y de esta forma buscar generar un vinculo con el usuario.
 
   ![Logo](../assets/img/Logo.png)
