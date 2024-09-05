@@ -586,6 +586,9 @@ A continuación se presentan los User Task Matrix para los dos segmentos clave: 
 
 ### 2.3.3. User Journey Mapping
 
+_**Segmento Objetivo 1: Artesanos**_
+![JourneyMap1](../assets/img/journeyMap1.png)
+
 _**Segmento Objetivo 2: Distribuidores**_
 ![JourneyMap2](../assets/img/journeyMap2.png)
 
