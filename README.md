@@ -11,8 +11,8 @@
 Nombre del curso: Desarrollo de Aplicaciones Open-Source  
  Sección: WX55  
  Nombre del Profesor: Angel Augusto Velasquez Nuñez  
- Nombre del StartUp: The Project Chow   
- Nombre del Producto:   
+ Nombre del StartUp: The Project Chow  
+ Nombre del Producto: CraftSync
 Relación de Integrantes:
 
 - Chamorro Acero, Salvador Edward - U201914367
@@ -74,21 +74,18 @@ Relación de Integrantes:
   </table>
 
 ## Project Report Collaboration Insights
+
 A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
 
 **URL del Repositorio del Informe:** https://github.com/Open-Source-The-Project-Chow/Informe-Final
 
 **Entrega N°1: TB1**
 
-
 **Entrega N°2: TP1**
-
 
 **Entrega N°3: TB2**
 
-
 **Entrega N°4: TF1**
-
 
 # Índice
 
@@ -174,7 +171,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 - [Anexos](#anexos)
 
 # Student Outcome
-   
+
 <table>
  <tr>
     <th colspan="2">Criterio Específico</th>
@@ -183,12 +180,12 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
  </tr>
  <tr>
     <td colspan="2">Comunica oralmente con efectividad a diferentes rangos de audiencia.</th>
-    <td colspan="10"><b>Héctor Marcelo Rentería Puga</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Gabriel Stefano Garcia Rodriguez</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Diego Flores Avalos</b> <br>TB1:<br><br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>Salvador Edward Chamorro Acero</b> <br>TB1:<br>Participacion activa en todas las reuniones de equipo. Comunicacion constante sobre el avance de las tareas asignadas.<br>TP:<br><br>TB2:<br><br>TF:<br><br><b>  Bryan Ronald Espejo Gamarra </b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
+    <td colspan="10"><b>Héctor Marcelo Rentería Puga</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Gabriel Stefano Garcia Rodriguez</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Diego Flores Avalos</b> <br>TB1:<br>Para esta entrega considera que se cumplió con la comunicación oral efectiva.<br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>Salvador Edward Chamorro Acero</b> <br>TB1:<br>Participacion activa en todas las reuniones de equipo. Comunicacion constante sobre el avance de las tareas asignadas.<br>TP:<br><br>TB2:<br><br>TF:<br><br><b>  Bryan Ronald Espejo Gamarra </b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
     <td colspan="2"></td>
  </tr>
  <tr>
     <td colspan="2">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
-    <td colspan="10"><b>Héctor Marcelo Rentería Puga</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Gabriel Stefano Garcia Rodriguez</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Diego Flores Avalos</b> <br>TB1:<br><br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>Salvador Edward Chamorro Acero</b> Participacion activa en el desarrollo del informe del proyecto. Entrega a tiempo de las tareas asignadas en el proyecto. <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br>Bryan Ronald Espejo Gamarra<b> </b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
+    <td colspan="10"><b>Héctor Marcelo Rentería Puga</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Gabriel Stefano Garcia Rodriguez</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Diego Flores Avalos</b> <br>TB1:<br>Para esta entrega considera que se cumplió con la comunicación escrita efectiva.<br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>Salvador Edward Chamorro Acero</b> Participacion activa en el desarrollo del informe del proyecto. Entrega a tiempo de las tareas asignadas en el proyecto. <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br>Bryan Ronald Espejo Gamarra<b> </b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
     <td colspan="2"></td>
  </tr>
   </table>
