@@ -462,8 +462,8 @@ Bounded Context Access Diagram
     <th colspan="2">Tipo de dato</th>
   </tr>
   <tr>
-    <td rowspan="5" colspan="1">1</td>
-    <td rowspan="5" colspan="2">User</td>
+    <td rowspan="3" colspan="1">1</td>
+    <td rowspan="3" colspan="2">User</td>
     <td colspan="2">username</td>
     <td colspan="4">es el nombre de usuario</td>
     <td colspan="2">string</td>
@@ -476,16 +476,6 @@ Bounded Context Access Diagram
       <td colspan="2">role</td>
       <td colspan="4">es el rol del usuario</td>
       <td colspan="2">string</td>
-    </tr>
-    <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
-    </tr>
-    <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
     </tr>
   </tr>
   <tr>
