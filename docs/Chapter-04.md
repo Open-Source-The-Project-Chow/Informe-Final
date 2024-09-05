@@ -449,6 +449,8 @@ Bounded Context Access Diagram
 
 ![Craftsman](../assets/img/craftsman.png)
 
+![Materials](../assets/img/meterials.png)
+
 ### 4.7.2. Class Dictionary
 
 <table>
