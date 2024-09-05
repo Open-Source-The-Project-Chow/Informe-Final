@@ -449,7 +449,7 @@ Payment Management Component Diagram
 
 Forum Management Component Diagram
 
-![Forum Management Component Diagram](/assets/img/forum.png)
+![Forum Management Component Diagram](/assets/img/Forum.png)
 
 Inventory Management Component Diagram
 
