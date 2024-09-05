@@ -158,6 +158,7 @@ Para facilitar la búsqueda de información dentro de nuestra plataforma, se imp
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
+
 En este apartado se muestran los Wireframes de la Aplicación Web. Cada pantalla tiene un nombre y propósito específico.
 
 **Ingreso a la Plataforma:**
@@ -255,6 +256,7 @@ User Task: El usuario dentro CraftSync, ingresara a pedidos, modificara el pedid
 ![alt text](../assets/img/wireflow6.png)
 
 ### 4.4.3. Web Applications Mock-ups
+
 En este apartado se muestra el Mock-Up de la Aplicación Web. Cada pantalla tiene un nombre y propósito específico.
 
 **Ingreso a la Plataforma:**
@@ -414,6 +416,7 @@ Unhappy paths:
 ![alt text](../assets/img/userflow6.png)
 
 ## 4.5. Web Applications Prototyping
+
 En esta sección, se presenta el link del prototipo de la Aplicación Web, mediante la herramienta de prototipado de Figma.
 
 https://www.figma.com/proto/va6WlnDEYIuYOGxzimk1bm/Project-Chow?node-id=152-214&node-type=CANVAS&t=TaYfDd20hKsu9ACP-0&scaling=scale-down&content-scaling=fixed&page-id=152%3A213&starting-point-node-id=152%3A214
@@ -651,3 +654,5 @@ Bounded Context Access Diagram
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+
+![Database](../assets/img/CraftSyncDB.png)
