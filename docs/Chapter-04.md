@@ -462,20 +462,20 @@ Bounded Context Access Diagram
     <th colspan="2">Tipo de dato</th>
   </tr>
   <tr>
-    <td rowspan="5" colspan="1"></td>
-    <td rowspan="5" colspan="2"></td>
-    <td colspan="2"></td>
-    <td colspan="4"></td>
-    <td colspan="2"></td>
+    <td rowspan="5" colspan="1">1</td>
+    <td rowspan="5" colspan="2">User</td>
+    <td colspan="2">username</td>
+    <td colspan="4">es el nombre de usuario</td>
+    <td colspan="2">string</td>
     <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
+      <td colspan="2">password</td>
+      <td colspan="4">es la contraseña del usuario</td>
+      <td colspan="2">string</td>
     </tr>
     <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
+      <td colspan="2">role</td>
+      <td colspan="4">es el rol del usuario</td>
+      <td colspan="2">string</td>
     </tr>
     <tr>
       <td colspan="2"></td>
@@ -489,37 +489,52 @@ Bounded Context Access Diagram
     </tr>
   </tr>
   <tr>
-    <td rowspan="3" colspan="1"></td>
-    <td rowspan="3" colspan="2"></td>
-    <td colspan="2"></td>
-    <td colspan="4"></td>
-    <td colspan="2"></td>
+    <td rowspan="5" colspan="1">2</td>
+    <td rowspan="5" colspan="2">Craftsman</td>
+    <td colspan="2">name</td>
+    <td colspan="4">nombre del artesano</td>
+    <td colspan="2">string</td>
     <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
+      <td colspan="2">email</td>
+      <td colspan="4">email del artesano</td>
+      <td colspan="2">string</td>
     </tr>
     <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
+      <td colspan="2">phone</td>
+      <td colspan="4">numero telefónico del artesano</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">address</td>
+      <td colspan="4">direccion del taller del artesano</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">workshop</td>
+      <td colspan="4">nombre del taller del artesano</td>
+      <td colspan="2">string</td>
     </tr>
   </tr>
   <tr>
-    <td rowspan="3" colspan="1"></td>
-    <td rowspan="3" colspan="2"></td>
-    <td colspan="2"></td>
-    <td colspan="4"></td>
-    <td colspan="2"></td>
+    <td rowspan="4" colspan="1">3</td>
+    <td rowspan="4" colspan="2">Material</td>
+    <td colspan="2">name</td>
+    <td colspan="4">nombre del material</td>
+    <td colspan="2">string</td>
     <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
+      <td colspan="2">description</td>
+      <td colspan="4">descripción del material</td>
+      <td colspan="2">string</td>
     </tr>
     <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
+      <td colspan="2">stock</td>
+      <td colspan="4">cantidad disponible del material</td>
+      <td colspan="2">int</td>
+    </tr>
+    <tr>
+      <td colspan="2">type</td>
+      <td colspan="4">tipo material</td>
+      <td colspan="2">string</td>
     </tr>
   </tr>
   <tr>
