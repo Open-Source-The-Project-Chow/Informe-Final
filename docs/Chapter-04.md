@@ -447,6 +447,8 @@ Bounded Context Access Diagram
 **Access Bounded Context**
 ![AccessDiagram](../assets/img/auth.png)
 
+![Craftsman](../assets/img/craftsman.png)
+
 ### 4.7.2. Class Dictionary
 
 <table>
