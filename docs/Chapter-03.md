@@ -381,198 +381,185 @@ Segmento 2:
 <table>
     <tr>
         <th>Orden</th>
-        <th>User Story/Technical Story Id</th>
+        <th>User Story Id</th>
         <th>Título</th>
         <th>Descripción</th>
         <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>1</td>
+        <td>US01</td>
+        <td>Sección About Us</td>
+        <td>Yo, como distribuidor visitante del Landing Page, quiero una sección About Us para informarme sobre la empresa y sus detalles.</td>
+        <td>1</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>2</td>
+        <td>US25</td>
+        <td>Visualización de los servicios disponibles</td>
+        <td>Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero una sección “Services” para informarme sobre los servicios que ofrece la plataforma.</td>
+        <td>1</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>3</td>
+        <td>US24</td>
+        <td>Visualización de lista de tipos de suscripción</td>
+        <td>Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
+        <td>1</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>4</td>
+        <td>US23</td>
+        <td>Visualización de la sección Contact Us</td>
+        <td>Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero una sección “Contact us” para solicitar información acerca de la plataforma</td>
+        <td>1</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>5</td>
+        <td>US22</td>
+        <td>Visualización de los desarrolladores</td>
+        <td>Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero una sección “Creadores” para informarme sobre los desarrolladores de la plataforma.</td>
+        <td>1</td>
+    </tr>
+     <tr>
+        <td>6</td>
+        <td>US02</td>
+        <td>Selector de Idioma</td>
+        <td>Yo, como distribuidor visitante del Landing Page, quiero un selector de idioma para leer el contenido en mi idioma de preferencia.</td>
+        <td>1</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>7</td>
+        <td>US03</td>
+        <td>Solicitud de Trabajo</td>
+        <td>Yo, como artesano usuario de la plataforma, quiero mandar solicitudes a los distribuidores, para obtener pedidos de su parte.</td>
+        <td>2</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>8</td>
+        <td>US04</td>
+        <td>Asignar Pedidos</td>
+        <td>Yo, como usuario distribuidor de la plataforma, quiero asignar pedidos a los artesanos, para enviarlos a los compradores una vez hechos.</td>
+        <td>2</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>9</td>
+        <td>US05</td>
+        <td>Actualizar Progreso</td>
+        <td>Yo, como usuario artesano de la plataforma, quiero actualizar los detalles del pedido, para mantener informado al distribuidor.</td>
+        <td>2</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>10</td>
+        <td>US11</td>
+        <td>Visualización de la sección de inventarios</td>
+        <td>Como artesano usuario de la plataforma, quiero ver mis inventarios de trabajo para estar al tanto de lo que se tiene disponible.</td>
+        <td>2</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>11</td>
+        <td>US12</td>
+        <td>Crear inventario</td>
+        <td>Como artesano usuario de la plataforma, quiero agregar inventarios para mantener un orden en mis diferentes proyectos.</td>
+        <td>2</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>12</td>
+        <td>US14</td>
+        <td>Agregar materiales en inventario</td>
+        <td>Como artesano usuario de la plataforma, quiero agregar materiales en mis inventarios para llevar un control detallado de los materiales disponibles.</td>
+        <td>2</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>13</td>
+        <td>US13</td>
+        <td>Eliminar inventario</td>
+        <td>Como artesano usuario de la plataforma, quiero eliminar inventarios para no tener información innecesaria</td>
+        <td>2</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>14</td>
+        <td>US16</td>
+        <td>Búsqueda de Materiales en Inventario</td>
+        <td>Como artesano usuario de la plataforma, quiero buscar materiales específicos dentro de mi inventario para localizarlos rápidamente y utilizarlos en mi proceso de producción.</td>
+        <td>3</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>15</td>
+        <td>US15</td>
+        <td>Visualizar detalles de un material</td>
+        <td>Como artesano usuario de la plataforma, quiero visualizar toda la información de un material para llevar un control detallado de tal material.</td>
+        <td>2</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>16</td>
+        <td>US17</td>
+        <td>Visualización de la sección de foro</td>
+        <td>Como artesano usuario de la plataforma, quiero una sección de foros para estar en contacto con otros artesanos.</td>
+        <td>5</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>17</td>
+        <td>US18</td>
+        <td>Crear publicación</td>
+        <td>Como artesano usuario de la plataforma, quiero crear publicaciones en el foro para compartir con otros usuarios.</td>
+        <td>2</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>18</td>
+        <td>US21</td>
+        <td>Comentar publicación</td>
+        <td>Como artesano usuario de la plataforma, quiero comentar en las publicaciones del foro para contactarme con personas del mismo interés.</td>
+        <td>3</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>19</td>
+        <td>US20</td>
+        <td>Eliminar publicación.</td>
+        <td>Como artesano usuario de la plataforma, quiero eliminar mis publicaciones en el foro para mantener un orden en mi perfil.</td>
+        <td>2</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>20</td>
+        <td>US19</td>
+        <td>Editar publicación	</td>
+        <td>Como artesano usuario de la plataforma, quiero editar mis publicaciones en el foro para tener control total en estas.	</td>
+        <td>2</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>21</td>
+        <td>US06</td>
+        <td>Visualización de perfil de usuario propio.</td>
+        <td>Como Artesano/Distribuidor usuario de la plataforma, quiero visualizar mi perfil para verificar que mi información es correcta.</td>
+        <td>2</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>22</td>
+        <td>US08</td>
+        <td>Actualización de información de perfil.</td>
+        <td>Como Artesano/Distribuidor usuario de la plataforma, quiero poder actualizar mi información personal y de contacto para mantener mis datos actualizados.</td>
+        <td>2</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>23</td>
+        <td>US07</td>
+        <td>Visualización de otros perfiles de usuario</td>
+        <td>Como Artesano/Distribuidor usuario de la plataforma, quiero visualizar otros perfiles de usuario para ver su información e interactuar.</td>
+        <td>2</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>24</td>
+        <td>US10</td>
+        <td>Cerrar sesión</td>
+        <td>Como Artesano/Distribuidor usuario de la plataforma, quiero cerrar sesión para proteger la integridad de mi cuenta.</td>
+        <td>1</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>25</td>
+        <td>US09</td>
+        <td>Borrar cuenta</td>
+        <td>Como Artesano/Distribuidor usuario de la plataforma, quiero borrar mi cuenta para proteger la integridad de mi persona.</td>
+        <td>1</td>
     </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
+   
 </table>
