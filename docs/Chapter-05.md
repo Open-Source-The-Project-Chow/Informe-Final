@@ -272,146 +272,162 @@ una de las tareas identificadas para el sprint.
     </tr>
         <tr>
         <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">Main</td>
+        <td colspan="2">f5d9fcc58f6fd2d8427bdba752fd785f6320917c</td>
+        <td colspan="2">Initial commit</td>
         <td colspan="2">-</td>
-        <td colspan="2"></td>
+        <td colspan="2">25/08/2024</td>
     </tr>
         <tr>
         <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">Main</td>
+        <td colspan="2">b7b42a92091922d250317487e5a217839520b21b</td>
+        <td colspan="2">feat: added contact us section.</td>
         <td colspan="2">-</td>
-        <td colspan="2"></td>
+        <td colspan="2">02/09/2024</td>
     </tr>
      <tr>
         <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">Main</td>
+        <td colspan="2">c4d528fcb2b49e0139ee2c102ca42c6ed43ff6de</td>
+        <td colspan="2">feat: added contact us section styles.</td>
         <td colspan="2">-</td>
-        <td colspan="2"></td>
+        <td colspan="2">02/09/2024</td>
     </tr>
     <tr>
         <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">Main</td>
+        <td colspan="2">f03d4381e72b5b5e63ca81f27092c64ac0ddec8e</td>
+        <td colspan="2">feat(header): added navbar.</td>
         <td colspan="2">-</td>
-        <td colspan="2"></td>
+        <td colspan="2">03/09/2024</td>
     </tr>
     <tr>
         <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">Main</td>
+        <td colspan="2">be8e8eda97562ec0d04fed20d8b6fe4ed9e396a1</td>
+        <td colspan="2">feat(header): added javascript function for the menu.</td>
         <td colspan="2">-</td>
-        <td colspan="2"></td>
+        <td colspan="2">03/09/2024</td>
     </tr>
     <tr>
         <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">Main</td>
+        <td colspan="2">5b06567cb71a165535b3a7345a5668f4d9ff10c9</td>
+        <td colspan="2">faet(header): added background image and logo.</td>
         <td colspan="2">-</td>
-        <td colspan="2"></td>
+        <td colspan="2">03/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">7d0f7d76293d10f9daa4a95e791fa06544714cd2</td>
+        <td colspan="2">feat(plans): Added Plans section index.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">04/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">b217183d00b244b72869bee16853fe1ba8d2f48f</td>
+        <td colspan="2">feat(plans): Added Plans section styles.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">04/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">77672962d0d4d5825b6adcfb5fe5362b2620c7e1</td>
+        <td colspan="2">feat(services): Added services section</td>
+        <td colspan="2">-</td>
+        <td colspan="2">04/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">7d4fb5e6d73ba415a58159c94196f6f8a9d64a3c</td>
+        <td colspan="2">feat(services): Added services section styles</td>
+        <td colspan="2">-</td>
+        <td colspan="2">04/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">b22e13a9389f6db6a1753d2d69d3a98f695bcf98</td>
+        <td colspan="2">feat(services):added images</td>
+        <td colspan="2">-</td>
+        <td colspan="2">04/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">0669b4ce80e7f6593c6729f24fbd46459a74e0cc</td>
+        <td colspan="2">feat: added section index and styels</td>
+        <td colspan="2">-</td>
+        <td colspan="2">04/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">1eeb8e46faac2db4b075e2313327fdd02a112eca</td>
+        <td colspan="2">fix: fixed little mistakes.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">05/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">c9a095f5d0fb73dfc77705c65b51dab1db795b63</td>
+        <td colspan="2">feat: added footer section.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">05/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">f203b4c4f5b0ad52cd0e475eb64753bca289c656</td>
+        <td colspan="2">feat: added footer styles.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">05/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">9e3782330ac3a7a08dd2c3b4e2c85e9435f42712</td>
+        <td colspan="2">fix: fixed mistake points.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">05/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/Landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">358ac140118a051d77bf0e8d42b5bfdec54233b7</td>
+        <td colspan="2">fix: fixed bad calling to image.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">05/09/2024</td>
     </tr>
 </table>
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-<table>
-  <thead>
-    <tr>
-      <th>Repository</th>
-      <th>Branch</th>
-      <th>Commit Id</th>
-      <th>Commit Message</th>
-      <th>Commit Message Body</th>
-      <th>Committed on (Date)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Open-Source-The-Project-Chow/Landing-page</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Open-Source-The-Project-Chow/Landing-page</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Open-Source-The-Project-Chow/Landing-page</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Open-Source-The-Project-Chow/Landing-page</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Open-Source-The-Project-Chow/Landing-page</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Open-Source-The-Project-Chow/Landing-page</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Open-Source-The-Project-Chow/Landing-page</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Open-Source-The-Project-Chow/Landing-page</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Open-Source-The-Project-Chow/Landing-page</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+En este sprint, no se desarrollaron Web Services, por lo que no hubo ningpun Unit Testing relacionado a estos.
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
 Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "CraftSync". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
+
+**Sección de Inicio**: Se implementó el Header y About Us de nuestra Landing Page.
+![alt text](../assets/img/evidence1.png)
+**Sección de Servicios**: Se implementó la sección de los servicios ofrecidos.
+![alt text](../assets/img/evidence2.png)
+**Sección de Planes**: Se implementó la sección de ver los tipos de suscripción.
+![alt text](../assets/img/evidence3.png)
+**Sección de Contacto**:  la sección de contacto para facilitar la comunicación con los usuarios.
+![alt text](../assets/img/evidence4.png)
+**Sección de Creadores**: Se agregaron secciones de información sobre los creadores del proyecto
+![alt text](../assets/img/evidence5.png)
+**Sección de Footer**: Se añadió un footer para la navegación y contacto.
+![alt text](../assets/img/evidence6.png)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -419,12 +435,28 @@ Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page 
 
 Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
 
+![alt text](../assets/img/deploy1.png)
+
 Una vez creado el repositorio, entraremos a configuración del repositorio y escogemos el apartado de Pages. Se coloca la información necesaria, como la fuente del branch a utilizar para realizar el deployment. Luego de eso, Github Pages nos brindará el link y desplegará nuestra landing page en la Web.
+
+![alt text](../assets/img/deploy2.png)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 Commits:
-
+![alt text](../assets/img/insight1.png)
 Analiticas de Colaboración:
+![alt text](../assets/img/insight2.png)
+
+# Conclusiones
+- La aplicación permitirá a los artesanos gestionar eficientemente sus pedidos, materiales y procesos de producción, optimizando su flujo de trabajo. Podrán organizar sus inventarios de manera efectiva mediante un sistema de estanterías y actualizar el progreso de sus pedidos, lo que fomenta la transparencia y la mejora de la planificación.
+- Los distribuidores tendrán visibilidad en tiempo real del estado de los pedidos que realizan a los artesanos, lo que facilita el control del progreso y los plazos de entrega, promoviendo una mayor confianza y satisfacción en la relación comercial.
+- La herramienta de gestión de inventarios facilita la administración de los materiales y recursos que los artesanos utilizan en sus talleres. Esto permitirá un mejor control del stock, la reducción de desperdicios, y la planificación anticipada de compras de insumos necesarios para futuros pedidos.
+- Dado que este proyecto es una iniciativa completamente nueva, hay muchas oportunidades para refinar el producto a través de la retroalimentación de usuarios y la experimentación con nuevas características. El uso de métricas clave y el análisis del comportamiento del usuario permitirá ajustar y mejorar la solución de manera continua.
+
+# Bibliografía
+- Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
+
+- Gothelf, J (2016). _Lean UX, 2nd Edition_. O'reilly. Recuperado de: https://learning.oreilly.com/library/view/lean-ux-2nd/9781491953594/foreword01.html
