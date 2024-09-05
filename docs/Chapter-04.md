@@ -15,7 +15,7 @@ CraftSync es una plataforma desarrollada por The Project Chow, que tiene como pr
 - Nombre: CraftSync surge de
 - Logo: Para el logo de la marca se escogio representar a nuestro principal segmento objetivo que son los artesanos y de esta forma buscar generar un vinculo con el usuario.
 
-  ![Logo](../assets/img/logo.png)
+  ![Logo](../assets/img/Logo.png)
 
 **Tipografia:**
 
@@ -149,7 +149,11 @@ Para facilitar la búsqueda de información dentro de nuestra plataforma, se imp
 
 ### 4.3.1. Landing Page Wireframe
 
+![Landing Page Mock-up](../assets/img/Landing-Page-Wireframe.png)
+
 ### 4.3.2. Landing Page Mock-up
+
+![Landing Page Wireframe](../assets/img/Landing-Page-EN.png)
 
 ## 4.4. Web Applications UX/UI Design
 
