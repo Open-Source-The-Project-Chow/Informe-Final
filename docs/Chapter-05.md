@@ -169,11 +169,11 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
-    <td colspan="8">6 story points</td>
+    <td colspan="8">5 story points</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8">9 Story Points</td>
+    <td colspan="8">6 Story Points</td>
 </tr>
 </table>
 
@@ -199,63 +199,63 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
 </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="1">US01</td>
+    <td colspan="2">Sección About Us</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Añadir sección About Us en el Landing Page</td>
+    <td colspan="3">Yo, como distribuidor visitante del Landing Page, quiero una sección About Us para informarme sobre la empresa y sus detalles.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="1">US25</td>
+    <td colspan="2">Visualización de los servicios disponibles</td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Añadir sección Services en el Landing Page</td>
+    <td colspan="3">Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero una sección “Services” para informarme sobre los servicios que ofrece la plataforma.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="1">US24</td>
+    <td colspan="2">Visualización de lista de tipos de suscripción</td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Añadir sección Plans en el Landing Page</td>
+    <td colspan="3">Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="1">US23</td>
+    <td colspan="2">Visualización de la sección Contact Us</td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Añadir sección Contact Us al Landing Page</td>
+    <td colspan="3">Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero una sección “Contact us” para solicitar información acerca de la plataforma</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="1">US22</td>
+    <td colspan="2">Visualización de los desarrolladores</td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Añadir sección Creators al Landing Page</td>
+    <td colspan="3">Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero una sección “Creadores” para informarme sobre los desarrolladores de la plataforma.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="1">US02</td>
+    <td colspan="2">Selector de Idioma</td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Añadir un botón que cambie el idioma del texto mostrado</td>
+    <td colspan="3">Yo, como distribuidor visitante del Landing Page, quiero un selector de idioma para leer el contenido en mi idioma de preferencia.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">InProcess</td>
 </tr>
 </table>
 
