@@ -31,33 +31,32 @@ Relación de Integrantes:
     <th colspan="5">Descripción de Modificaciones</td>
   <tr>
     <td colspan="3">1era</td>
-    <td colspan="3">5/9/2024</td>
+    <td colspan="3">21/8/2024</td>
     <td colspan="10">Héctor Marcelo Rentería Puga, Gabriel Stefano Garcia Rodriguez, Bryan Ronald Espejo Gamarra, Diego Flores Avalos, Salvador Edward Chamorro Acero.</td>
     <td colspan="5">
-     - Capítulo 1<br>
-     - Capítulo 2<br>
-     - Capítulo 3<br>
-     - Capítulo 4<br>
-     - Capítulo 5 hasta el Sprint 1.
+     - Primera verison<br>
+     - Creación del informe<br>
+     - Creación de los branch<br>
+     - Creación del esquema de cada Capitulo<br>
     </td>
   </tr>
   <tr>
-    <td colspan="3"></td>
-    <td colspan="3"></td>
-    <td colspan="10"></td>
-    <td colspan="5"></td>
+    <td colspan="3">2da</td>
+    <td colspan="3">25/8/2024</td>
+    <td colspan="10">Héctor Marcelo Rentería Puga, Gabriel Stefano Garcia Rodriguez, Bryan Ronald Espejo Gamarra, Diego Flores Avalos, Salvador Edward Chamorro Acero.</td>
+    <td colspan="5">- Actualizar el Capitulo 1 con todos los puntos hechos del mismo<br>- Actualizar el Capitulo 2 con todos los puntos hechos del mismo<br>- Agregar la caratula con toda la informacion solicitada</td>
   </tr>
   <tr>
-    <td colspan="3"></td>
-    <td colspan="3"></td>
-    <td colspan="10"></td>
-    <td colspan="5"></td>
+    <td colspan="3">3ra</td>
+    <td colspan="3">01/9/2024</td>
+    <td colspan="10">Héctor Marcelo Rentería Puga, Gabriel Stefano Garcia Rodriguez, Bryan Ronald Espejo Gamarra, Diego Flores Avalos, Salvador Edward Chamorro Acero.</td>
+    <td colspan="5">- Actualizar el Capitulo 3 con todos los puntos hechos del mismo<br>- Actualizar el Capitulo 4 con todos los puntos hechos del mismo<br>- Actualizar el Capitulo 5 con todos los puntos hechos del mismo</td>
   </tr>
   <tr>
-    <td colspan="3"></td>
-    <td colspan="3"></td>
-    <td colspan="10"></td>
-    <td colspan="5"></td>
+    <td colspan="3">4ta</td>
+    <td colspan="3">05/9/2024</td>
+    <td colspan="10">Héctor Marcelo Rentería Puga, Gabriel Stefano Garcia Rodriguez, Bryan Ronald Espejo Gamarra, Diego Flores Avalos, Salvador Edward Chamorro Acero.</td>
+    <td colspan="5">- Actualizar los puntos necesario segun criterio discutido en la reunion<br>- Actulizar los puntos pendientes a falta de historial de commits</td>
   </tr>
   <tr>
     <td colspan="3"></td>
