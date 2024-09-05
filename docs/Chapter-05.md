@@ -27,7 +27,7 @@ Para gestionar las modificaciones en nuestro proyecto, emplearemos GitHub como p
 - Organización del Equipo: https://github.com/Open-Source-The-Project-Chow
 - Repositorio del Informe: https://github.com/Open-Source-The-Project-Chow/Informe-Final
 - Repositorio del Landing Page: https://github.com/Open-Source-The-Project-Chow/Landing-page
-- Enlace del Landing Page: 
+- Enlace del Landing Page: https://open-source-the-project-chow.github.io/Landing-page/
 
 Para estructurar nuestro control de versiones, implementaremos el modelo GitFlow como nuestro flujo de trabajo estándar. Este modelo se basa en dos ramas principales: main (rama principal) y develop (rama de desarrollo), y varias ramas auxiliares, incluyendo feature, release, y hotfix, cada una con un propósito específico:
 
@@ -111,7 +111,7 @@ Para desplegar nuestra landing page en la plataforma de GitHub, seguimos los sig
 
 De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y podrá ser visible para cualquier usuario que tenga el enlace.
 
-Enlace del Landing Page: 
+Enlace del Landing Page: https://open-source-the-project-chow.github.io/Landing-page/
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
