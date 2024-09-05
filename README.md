@@ -30,10 +30,16 @@ Relación de Integrantes:
     <th colspan="10">Autores</td>
     <th colspan="5">Descripción de Modificaciones</td>
   <tr>
-    <td colspan="3"></td>
-    <td colspan="3"></td>
-    <td colspan="10"></td>
-    <td colspan="5"></td>
+    <td colspan="3">1era</td>
+    <td colspan="3">5/9/2024</td>
+    <td colspan="10">Héctor Marcelo Rentería Puga, Gabriel Stefano Garcia Rodriguez, Bryan Ronald Espejo Gamarra, Diego Flores Avalos, Salvador Edward Chamorro Acero.</td>
+    <td colspan="5">
+     - Capítulo 1<br>
+     - Capítulo 2<br>
+     - Capítulo 3<br>
+     - Capítulo 4<br>
+     - Capítulo 5 hasta el Sprint 1.
+    </td>
   </tr>
   <tr>
     <td colspan="3"></td>
@@ -80,6 +86,12 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 **URL del Repositorio del Informe:** https://github.com/Open-Source-The-Project-Chow/Informe-Final
 
 **Entrega N°1: TB1**
+- Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas para cada capítulo, lo que permitió un mayor avance y equidad en el desarrollo del informe.
+- Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo.
+
+Commits:
+![alt text](assets/img/commit1.png)
+![alt text](assets/img/analysis1.png)
 
 **Entrega N°2: TP1**
 
@@ -180,13 +192,13 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
  </tr>
  <tr>
     <td colspan="2">Comunica oralmente con efectividad a diferentes rangos de audiencia.</th>
-    <td colspan="10"><b>Héctor Marcelo Rentería Puga</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Gabriel Stefano Garcia Rodriguez</b> <br>TB1:<br>Lean UX Hyphotesis Statements, Análisis competitivo, Estrategias y tácticas frente a competidores, User Persona, User Task Matrix, Web Applications User Flow Diagrams, Web Applications Wireflow Diagrams, Capitulo 5<br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Diego Flores Avalos</b> <br>TB1:<br>Para esta entrega considera que se cumplió con la comunicación oral efectiva.<br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>Salvador Edward Chamorro Acero</b> <br>TB1:<br>Participacion activa en todas las reuniones de equipo. Comunicacion constante sobre el avance de las tareas asignadas.<br>TP:<br><br>TB2:<br><br>TF:<br><br><b>  Bryan Ronald Espejo Gamarra </b> <br>TB1:Participación activa en la exposición del proyecto durante las revisiones parciales. Explicación clara de las funcionalidades de la plataforma ante los docentes. <br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
-    <td colspan="2"></td>
+    <td colspan="10"><b>Héctor Marcelo Rentería Puga</b> <br>TB1:<br>Participación y liderazgo activos en todas las reuniones de equipo. Comunicación constante sobre el avance de las tareas asignadas.<br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Gabriel Stefano Garcia Rodriguez</b> <br>TB1:<br>Lean UX Hyphotesis Statements, Análisis competitivo, Estrategias y tácticas frente a competidores, User Persona, User Task Matrix, Web Applications User Flow Diagrams, Web Applications Wireflow Diagrams, Capitulo 5<br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Diego Flores Avalos</b> <br>TB1:<br>Para esta entrega considera que se cumplió con la comunicación oral efectiva.<br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>Salvador Edward Chamorro Acero</b> <br>TB1:<br>Participacion activa en todas las reuniones de equipo. Comunicacion constante sobre el avance de las tareas asignadas.<br>TP:<br><br>TB2:<br><br>TF:<br><br><b>  Bryan Ronald Espejo Gamarra </b> <br>TB1:Participación activa en la exposición del proyecto durante las revisiones parciales. Explicación clara de las funcionalidades de la plataforma ante los docentes. <br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
+    <td colspan="2">TB1:<br>La elaboración de este proyecto nos llevó a comunicarnos constantemente entre nosotros para determinar distintas partes del desarrollo del informe y el Landing Page, ayudándonos a adaptarnos a distintos tipos de oyentes de lo que proponemos.</td>
  </tr>
  <tr>
     <td colspan="2">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
-    <td colspan="10"><b>Héctor Marcelo Rentería Puga</b> <br>TB1:<br>Lean UX Hyphotesis Statements, Análisis competitivo, Estrategias y tácticas frente a competidores, User Persona, User Task Matrix, Web Applications User Flow Diagrams, Web Applications Wireflow Diagrams, Capitulo 5<br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Gabriel Stefano Garcia Rodriguez</b> <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Diego Flores Avalos</b> <br>TB1:<br>Para esta entrega considera que se cumplió con la comunicación escrita efectiva.<br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>Salvador Edward Chamorro Acero</b> Participacion activa en el desarrollo del informe del proyecto. Entrega a tiempo de las tareas asignadas en el proyecto. <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br>Bryan Ronald Espejo Gamarra<b> </b> <br>TB1:Redacción de los informes técnicos para las entregas parciales.
+    <td colspan="10"><b>Héctor Marcelo Rentería Puga</b> <br>TB1:<br>Participación y liderazgo activos en el desarrollo del informe del proyecto. Entrega a tiempo de las tareas asignadas en el proyecto.<br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Gabriel Stefano Garcia Rodriguez</b> <br>TB1:<br>Lean UX Hyphotesis Statements, Análisis competitivo, Estrategias y tácticas frente a competidores, User Persona, User Task Matrix, Web Applications User Flow Diagrams, Web Applications Wireflow Diagrams, Capitulo 5<br>TP:<br><br>TB2:<br><br>TF:<br><br><b>Diego Flores Avalos</b> <br>TB1:<br>Para esta entrega considera que se cumplió con la comunicación escrita efectiva.<br>TP:<br><br>TB2:<br> <br>TF:<br><br><b>Salvador Edward Chamorro Acero</b> Participacion activa en el desarrollo del informe del proyecto. Entrega a tiempo de las tareas asignadas en el proyecto. <br>TB1:<br><br>TP:<br><br>TB2:<br><br>TF:<br><br>Bryan Ronald Espejo Gamarra<b> </b> <br>TB1:Redacción de los informes técnicos para las entregas parciales.
 Elaboración del documento final con correcciones.<br><br>TP:<br><br>TB2:<br><br>TF:<br></td>
-    <td colspan="2"></td>
+    <td colspan="2">TB1:<br>La elaboración de este proyecto nos hizo plasmar las ideas que teníamos de forma fiel en el contenido del informe y en el Landing Page, buscando alcanzar a varios tipos de personas que podrían leerlo en el futuro.</td>
  </tr>
   </table>
