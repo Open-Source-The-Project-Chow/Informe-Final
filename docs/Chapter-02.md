@@ -593,6 +593,13 @@ _**Segmento Objetivo 2: Distribuidores**_
 ![JourneyMap2](../assets/img/journeyMap2.png)
 
 ### 2.3.4. Empathy Mapping
+Para el desarrollo de los Empathy Map hemos utilizado la información recopilada en base a nuestros dos User Personas que representan nuestro segmento.
+
+_**Rudeus Greyrat Artesano**_
+![EmpathyMap1](../assets/img/EmpathySeg1.png)
+
+_**Izuku Midoriya Distribuidor**_
+![EmpathyMap2](../assets/img/EmpathySeg2.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
