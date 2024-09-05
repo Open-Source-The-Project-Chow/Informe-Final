@@ -439,12 +439,32 @@ Bounded Context Access Diagram
 
 ![Boundedcontext](/assets/img/bound.png)
 ![Boundedcontext2](/assets/img/context.png)
+Distribution Management Component Diagram
+
+![Distribution Management Component Diagram](/assets/img/distribution.png)
+
+Payment Management Component Diagram
+
+![Payment Management Component Diagram](/assets/img/payment.png)
+
+Forum Management Component Diagram
+
+![Forum Management Component Diagram](/assets/img/forum.png)
+
+Inventory Management Component Diagram
+
+![Inventory Management Component Diagram](/assets/img/inventory.png)
+
+Order Management Component Diagram
+
+![Order Management Component Diagram](/assets/img/order.png)
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
 
 **Access Bounded Context**
+
 ![AccessDiagram](../assets/img/auth.png)
 
 ![Craftsman](../assets/img/craftsman.png)
