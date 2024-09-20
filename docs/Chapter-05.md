@@ -165,7 +165,7 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Sprint n Goal</td>
-    <td colspan="8">Culminar el landing Page</td>
+    <td colspan="8">Completar el diseño y la implementación del landing page con formularios de contacto y secciones de información, con el objetivo de mejorar la experiencia del usuario y aumentar la tasa de conversión.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
