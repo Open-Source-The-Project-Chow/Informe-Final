@@ -173,15 +173,26 @@ La diferencia más grande de nuestro producto con la competencia es nuestro enfo
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-1. **Creemos que** lograremos aumentar la adopción de nuestra plataforma y mejorar la productividad de los artesanos **si** los usuarios perciben que la organización de materiales y el control de inventarios es eficiente y sencilla. **Al implementar** una interfaz intuitiva y automatizaciones para la gestión de inventarios, con la realización de pruebas de usabilidad y la recolección de feedback directo de los artesanos.
+1. **Creemos que** aumentaremos la satisfacción de los artesanos  
+   **sabremos que** lo hemos logrado  
+   **cuando** recibamos un 20% más de comentarios positivos sobre la gestión de inventarios tras implementar recordatorios automáticos de reposición.
 
-2. **Creemos que** lograremos una mayor retención de usuarios y una mejor optimización del flujo de trabajo de los artesanos **si** los usuarios valoran la personalización en la planificación de la producción y la gestión de pedidos personalizados. **Al ofrecer** herramientas adaptables y configurables para la planificación de producción y gestión de pedidos, con la implementación de funciones que permiten personalizar estos procesos según las necesidades individuales de los artesanos.
+2. **Creemos que** incrementaremos la tasa de adopción de nuestra plataforma  
+   **sabremos que** hemos tenido éxito  
+   **cuando** al menos el 30% de los nuevos usuarios utilicen la función de calendario para la planificación de entregas en sus primeras dos semanas.
 
-3. **Creemos que** fortaleceremos nuestra relación con los distribuidores y aumentaremos las recomendaciones **si** los distribuidores perciben que nuestra plataforma facilita el proceso de gestión y seguimiento de pedidos. **Al desarrollar** módulos específicos para la gestión de pedidos a gran escala y el seguimiento de envíos, con la integración de funcionalidades que mejoran la visibilidad y control en tiempo real del estado de los pedidos.
+3. **Creemos que** mejoraremos la retención de usuarios  
+   **sabremos que** hemos logrado este objetivo  
+   **cuando** la tasa de cancelación de suscripciones se reduzca en un 15% después de ofrecer planes de suscripción adaptados a diferentes tipos de talleres.
 
-4. **Creemos que** lograremos un mayor crecimiento en nuestra base de usuarios y una expansión más rápida en el mercado **si** los artesanos descubren el valor de las funciones premium a través de demostraciones prácticas. **Al ofrecer** pruebas gratuitas y demostraciones interactivas de las funciones avanzadas disponibles en los planes de suscripción superior, con la ejecución de campañas de marketing que muestren casos de éxito de artesanos que ya utilizan estas funciones.
+4. **Creemos que** lograremos una mayor fidelización de los artesanos  
+   **sabremos que** esto ha ocurrido  
+   **cuando** más del 40% de los usuarios activos utilicen la función de etiquetado y categorización de materiales regularmente.
 
-5. **Creemos que** aumentaremos la satisfacción del usuario y reduciremos la tasa de cancelación **si** los artesanos sienten que tienen control total sobre sus operaciones diarias. **Al proporcionar** herramientas de gestión personalizables y reportes detallados que los ayuden a tomar decisiones informadas, con la implementación de dashboards personalizados y la opción de crear reportes a medida según las necesidades de cada taller.
+5. **Creemos que** aumentaremos la satisfacción del usuario  
+   **sabremos que** hemos conseguido esto  
+   **cuando** al menos el 50% de los artesanos generen y revisen reportes automáticos de ventas y producción mensualmente.
+
 
 #### 1.2.2.4. Lean UX Canvas
 
