@@ -173,7 +173,7 @@ Durante el proceso de investigación para nuestro proyecto, realizamos entrevist
 
 **URL del Video:**
 
-**Timing de Inicio y Duración:** [Inicio: 00:00, Duración: 06:48]
+**Timing de Inicio y Duración:** [Inicio: 00:00, Duración: 06:48](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213278_upc_edu_pe/EXiSUSiYDW5GqGS4PDdn_uEBJPyG_YmhnNGBuo71VIdRTg?e=RA7zuC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MC40M319)
 
 **Resumen de la Entrevista:**
 
@@ -200,7 +200,7 @@ Finalmente, Milagros manifestó sus preocupaciones en torno al uso de la tecnolo
 
 **URL del Video:**
 
-**Timing de Inicio y Duración:** [Inicio: 06:48, Duración: 13:39]
+**Timing de Inicio y Duración:** [Inicio: 06:48, Duración: 13:39](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213278_upc_edu_pe/EXiSUSiYDW5GqGS4PDdn_uEBJPyG_YmhnNGBuo71VIdRTg?e=QwItyv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NDA5LjEyfX0%3D)
 
 **Resumen de la Entrevista:**
 
@@ -222,7 +222,7 @@ Prefiere la comunicación a través de WhatsApp por su rapidez, pero también re
 
 ![Entrevista3](../assets/img/Entrevista3.png)
 
-**Timing de Inicio y Duración:** [Inicio: 13:39, Duración: 21:02]
+**Timing de Inicio y Duración:** [Inicio: 13:39, Duración: 21:02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213278_upc_edu_pe/EXiSUSiYDW5GqGS4PDdn_uEBJPyG_YmhnNGBuo71VIdRTg?e=KlBXZx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6ODIyLjQ5fX0%3D)
 
 **Resumen de la Entrevista:**
 
@@ -246,7 +246,7 @@ Finalmente, Darío manifestó su interés en un espacio en línea donde artesano
 
 ![Entrevista4](../assets/img/Entrevista4.png)
 
-**Timing de Inicio y Duración:** [Inicio: 21:02, Duración: 24:54]
+**Timing de Inicio y Duración:** [Inicio: 21:02, Duración: 24:54](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213278_upc_edu_pe/EXiSUSiYDW5GqGS4PDdn_uEBJPyG_YmhnNGBuo71VIdRTg?e=KlBXZx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6ODIyLjQ5fX0%3D)
 
 **Resumen de la Entrevista:**
 
@@ -269,7 +269,7 @@ Finalmente, enfatiza la necesidad de mayor puntualidad y claridad en las fechas 
 
 ![Entrevista5](../assets/img/Entrevista5.png)
 
-**Timing de Inicio y Duración:** [Inicio: 21:02, Duración: 29:57]
+**Timing de Inicio y Duración:** [Inicio: 21:02, Duración: 29:57](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213278_upc_edu_pe/EXiSUSiYDW5GqGS4PDdn_uEBJPyG_YmhnNGBuo71VIdRTg?e=XqphWy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTQ5OC4yOH19)
 
 **Resumen de la Entrevista:**
 
@@ -293,7 +293,7 @@ Finalmente, Alison sugiere que la tecnología podría mejorar la cadena de sumin
 
 ![Entrevista6](../assets/img/Entrevista6.png)
 
-**Timing de Inicio y Duración:** [Inicio: 29:57, Duración: 32:19]
+**Timing de Inicio y Duración:** [Inicio: 29:57, Duración: 32:19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213278_upc_edu_pe/EXiSUSiYDW5GqGS4PDdn_uEBJPyG_YmhnNGBuo71VIdRTg?e=BTIaPt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTc2NS4zOH19)
 
 **Resumen de la Entrevista:**
 
@@ -485,6 +485,7 @@ _**Segmento Objetivo 2: Distribuidores**_
 ![JourneyMap2](../assets/img/journeyMap2.png)
 
 ### 2.3.4. Empathy Mapping
+
 Para el desarrollo de los Empathy Map hemos utilizado la información recopilada en base a nuestros dos User Personas que representan nuestro segmento.
 
 _**Rudeus Greyrat Artesano**_
