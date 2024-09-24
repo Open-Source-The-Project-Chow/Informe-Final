@@ -97,13 +97,13 @@ Nuestro usuario es el artesano que requiere herramientas de gestión para sus ta
 
 Asumimos también que los artesanos tienen una serie de problemas en su situación actual:
 
-  - Problema 1: Dificultad para gestionar los procesos de creación en artesanía.
+- Problema 1: Dificultad para gestionar los procesos de creación en artesanía.
 
-    - Solución: Nosotros ofrecemos una plataforma donde los usuarios puedan gestionar y agilizar cada etapa del proceso de creación.
+  - Solución: Nosotros ofrecemos una plataforma donde los usuarios puedan gestionar y agilizar cada etapa del proceso de creación.
 
-  - Problema 2: Dificultad para contabilizar los elementos disponibles.
+- Problema 2: Dificultad para contabilizar los elementos disponibles.
 
-    - Solución: El sistema puede manejar la cantidad de los elementos de inventario de forma rápida y fácil de usar.
+  - Solución: El sistema puede manejar la cantidad de los elementos de inventario de forma rápida y fácil de usar.
 
 Nuestro producto podría ser utilizado por los artesanos en su día a día, pues le serviría para gestionar todos las etapas y procesos de producción de forma fácil y conveniente. El producto sería utilizado a través de la plataforma en línea, donde los usuarios pueden acceder a los servicios de gestión de sus talleres de artesanía, control de inventarios, actualización de estado de etapas de proceso, opciones de suscripción para acceder a diferentes niveles de servicios y una interfaz fácil de usar y navegación intuitiva.
 
@@ -172,7 +172,7 @@ Usando el formato indicado por Lean UX 3rd edition, elaboramos hipótesis sobre 
 
 #### 1.2.2.4. Lean UX Canvas
 
-![LeanUxCanvas](../assets/img/LeanUxCanvas.png)
+![LeanUxCanvas](../assets/img/UxCanvasAct.jpg))
 
 ## 1.3. Segmento Objetivo
 
