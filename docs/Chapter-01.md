@@ -75,6 +75,8 @@ Para comprender mejor la problemática que enfrentan los artesanos en la gestió
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+En el Problem Statement, identificamos un problema a resolver a partir de un contexto dado, para elaborar una propuesta que pueda solucionar el problema identificado.
+
 **Problem Statement**
 
 Nuestra plataforma de gestión de talleres de artesanía y bisutería tiene como objetivo principal proporcionar a los artesanos herramientas especializadas que les permitan optimizar la organización de materiales, controlar inventarios, planificar la producción y gestionar pedidos personalizados. Con esta propuesta, buscamos no solo aumentar la eficiencia operativa de los talleres, sino también fomentar un espacio colaborativo que promueva la preservación y difusión de técnicas artesanales tradicionales, fortaleciendo así la comunidad artesanal en su conjunto.
@@ -86,6 +88,8 @@ Para abordar estos retos, es esencial identificar y aprovechar las oportunidades
 Nuestra estrategia se centrará en la mejora continua de las funcionalidades, garantizando que se adapten a las demandas cambiantes de los artesanos y los avances tecnológicos. Además, desarrollaremos contenido educativo que respalde la preservación del conocimiento artesanal y priorizaremos la creación de una experiencia de usuario optimizada a través de una interfaz amigable e intuitiva. Finalmente, estableceremos métricas de evaluación claras, como el aumento en la adopción de la plataforma y la satisfacción del cliente, que nos permitirán realizar ajustes estratégicos de manera periódica y asegurar el éxito a largo plazo de nuestra solución.
 
 #### 1.2.2.2. Lean UX Assumptions
+
+Usando el formato indicado por Lean UX 3rd edition, establecemos supuestos sobre los usuarios y el mercado, para entender mejor los logros y beneficios relacionados.
 
 **User Assumptions**
 
@@ -143,6 +147,8 @@ La diferencia más grande de nuestro producto con la competencia es nuestro enfo
 - Se mantendra la información de progreso actualizada para todos los usuarios relacionados, sean artesanos o distribuidores.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+Usando el formato indicado por Lean UX 3rd edition, elaboramos hipótesis sobre nuestros usuarios y los impactos que buscamos según cambios y metas determinadas.
 
 1. **Creemos que** aumentaremos la satisfacción de los artesanos  
    **sabremos que** lo hemos logrado  
