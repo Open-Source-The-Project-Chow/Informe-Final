@@ -89,15 +89,9 @@ Nuestra estrategia se centrará en la mejora continua de las funcionalidades, ga
 
 **User Assumptions**
 
-- _¿Quién es el usuario?_
+Nuestro usuario es el artesano que requiere herramientas de gestión para sus talleres de artesanía y bisutería, que le permitan trabajar más eficientenmente, encajando en su vida profesional, sea en la realización de pedidos, o gestión de su inventario en general. Para ellos, nuestro producto le ayudaría a ser más eficiente, y evitar la mayor cantidad de problemas durante la producción de sus trabajos.
 
-El usuario es el artesano que requiere herramientas de gestión para sus talleres de artesanía y bisutería, que le permitan trabajar más eficientenmente.
-
-- _¿Dónde encaja nuestro producto, en su trabajo o vida?_
-
-Nuestro producto encaja en la vida profesional de los artesanos, sea en la realización de pedidos, o gestión de su inventario en general. Para ellos, nuestro producto le ayudaría a ser más eficiente, y evitar la mayor cantidad de problemas durante la producción de sus trabajos.
-
-- _¿Qué problemas tiene nuestro producto y cómo se pueden resolver?_
+Asumimos también que los artesanos tienen una serie de problemas en su situación actual:
 
   - Problema 1: Dificultad para gestionar los procesos de creación en artesanía.
 
@@ -107,17 +101,9 @@ Nuestro producto encaja en la vida profesional de los artesanos, sea en la reali
 
     - Solución: El sistema puede manejar la cantidad de los elementos de inventario de forma rápida y fácil de usar.
 
-- _¿Cuándo y cómo es usado nuestro producto?_
+Nuestro producto podría ser utilizado por los artesanos en su día a día, pues le serviría para gestionar todos las etapas y procesos de producción de forma fácil y conveniente. El producto sería utilizado a través de la plataforma en línea, donde los usuarios pueden acceder a los servicios de gestión de sus talleres de artesanía, control de inventarios, actualización de estado de etapas de proceso, opciones de suscripción para acceder a diferentes niveles de servicios y una interfaz fácil de usar y navegación intuitiva.
 
-Nuestro producto podría ser utilizado por los artesanos en su día a día, pues le serviría para gestionar todos las etapas y procesos de producción de forma fácil y conveniente. El producto sería utilizado a través de la plataforma en línea, donde los usuarios pueden acceder a los servicios de gestión de sus talleres de artesanía.
-
-- _¿Qué características son importantes?_
-
-Características importantes pueden incluir control de inventarios, actualización de estado de etapas de proceso, opciones de suscripción para acceder a diferentes niveles de servicios y una interfaz fácil de usar y navegación intuitiva.
-
-- _¿Cómo debe verse nuestro producto y cómo debe comportarse?_
-
-El producto debe tener una apariencia profesional, pero simple, con un diseño limpio y fácil de entender. Debe comportarse de manera eficiente, brindando acceso rápido y fácil a las herramientas necesarias para los usuarios. La plataforma debe ser intuitiva y fácil de navegar, con opciones claras y concisas para acceder a diferentes funciones.
+El producto debería tener una apariencia profesional, pero simple, con un diseño limpio y fácil de entender. Debe comportarse de manera eficiente, brindando acceso rápido y fácil a las herramientas necesarias para los usuarios. La plataforma debe ser intuitiva y fácil de navegar, con opciones claras y concisas para acceder a diferentes funciones.
 
 **User Outcomes**
 
@@ -129,23 +115,11 @@ El producto debe tener una apariencia profesional, pero simple, con un diseño l
 
 **Business Assumptions**
 
-- _¿Cuál es nuestro mercado objetivo y cómo podemos alcanzarlo?_
-
 Nuestro mercado objetivo son los artesanos que necesitan herramientas para gestionar el progreso de su producción de trabajo, y el inventario que tienen disponible; y los distribuidores que quieren monitorear los pedidos que realizan a los artesanos. Podemos alcanzarlos mediante campañas de marketing en redes sociales, talleres de artesanía y bisutería, tiendas de artesanía, y en la cercanía de estos.
 
-- _¿Cuál es nuestra estrategia de monetización y cómo podemos garantizar la rentabilidad?_
-
-Nuestra estrategia de monetización se basa en ofrecer planes de suscripción para acceder a los servicios de la plataforma. Además, podemos generar ingresos a través de asociaciones con con talleres y distribuidoras particulares, obteniendo una parte de su ganancia. Para garantizar la rentabilidad, debemos asegurar que nuestros planes de suscripción están estratégicamente diseñados para atraer a los usuarios y ofrecer un valor significativo.
-
-- _¿Cuáles son nuestros costos operativos y cómo podemos mantenerlos bajo control?_
-
-Nuestros costos operativos incluirían el desarrollo y mantenimiento de la plataforma web, que cada vez más estaría creciendo, así como los costos asociados con las campañas de marketing usadas para atraer clientes. Para mantener estos costos bajo control, podemos considerar la externalización de ciertas funciones y la optimización de nuestros procesos internos.
-
-- _¿Cuál es nuestra estrategia de crecimiento a corto y largo plazo?_
+Nuestra estrategia de monetización se basa en ofrecer planes de suscripción para acceder a los servicios de la plataforma. Además, podemos generar ingresos a través de asociaciones con con talleres y distribuidoras particulares, obteniendo una parte de su ganancia. Para garantizar la rentabilidad, debemos asegurar que nuestros planes de suscripción están estratégicamente diseñados para atraer a los usuarios y ofrecer un valor significativo, pues los costos operativos incluirían el desarrollo y mantenimiento de la plataforma web, que cada vez más estaría creciendo, así como los costos asociados con las campañas de marketing usadas para atraer clientes. Para mantener estos costos bajo control, podemos considerar la externalización de ciertas funciones y la optimización de nuestros procesos internos.
 
 A corto plazo, nuestra estrategia de crecimiento puede centrarse en atraer más usuarios con marketing más eficaz y la mejora de la plataforma para garantizar la retención. A largo plazo, podemos expandir nuestros servicios para incluir otras herramientas que podrían ser indispensables para el trabajo de los artesanos, o incluso para ayudar al distribuidor a tener relaciones más estrechas con el artesano.
-
-- _¿Cómo vamos a diferenciarnos de la competencia y crear una propuesta de valor única?_
 
 La diferencia más grande de nuestro producto con la competencia es nuestro enfoque directo con la industria de la artesanía, creando herramientas específicas para ellos, que haga nuestra plataforma una necesidad para mejorar sus procesos de producción de forma directa. Para crear una propuesta de valor única, trabajaremos fuertemente con nuestros contactos en la industria para asegurar que la plataforma sea lo más útil que les pueda ser.
 
@@ -159,19 +133,14 @@ La diferencia más grande de nuestro producto con la competencia es nuestro enfo
 
 **Features**
 
-- _¿Que características son importantes?_
-
 - Un gestor de procesos, para poder administrar el tiempo y avance de cada etapa de producción en la artesanía.
 - Herramientas para manejar inventario, con un manejo de cantidad y búsqueda por filtros.
 - Monitoreo de progreso para los distribuidores, que quieren revisar sus pedidos.
 - Suscripciones convenientes para talleres de distintos tamaños.
-
-- _¿Cómo debería verse y comportarse nuestro servicio?_
-
-  - Debería ser fácil de navegar y usar, con diseño y funciones intuitivas. La información de nuestro servicio debe presentarse de manera clara y concisa, asegurando el agrado del usuario.
-  - Debe haber actualizaciones automáticas y notificaciones para ayudar a mantener a nuestros usuarios informados.
-  - Debería haber una interfaz clara que muestre la información de cada etapa de producción, opciones de monitoreo y posibles acciones a tomar.
-  - Debe mantenerse la información de progreso actualizada para todos los usuarios relacionados, sean artesanos o distribuidores.
+- Será fácil de navegar y usar, con diseño y funciones intuitivas. La información de nuestro servicio debe presentarse de manera clara y concisa, asegurando el agrado del usuario.
+- Habrá actualizaciones automáticas y notificaciones para ayudar a mantener a nuestros usuarios informados.
+- Habrá una interfaz clara que muestre la información de cada etapa de producción, opciones de monitoreo y posibles acciones a tomar.
+- Se mantendra la información de progreso actualizada para todos los usuarios relacionados, sean artesanos o distribuidores.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
