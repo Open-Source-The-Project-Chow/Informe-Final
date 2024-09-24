@@ -435,29 +435,40 @@ https://www.figma.com/proto/va6WlnDEYIuYOGxzimk1bm/Project-Chow?node-id=152-214&
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-Bounded Context Access Diagram
+### 1. Bounded Context Access Diagram
 
-![Boundedcontext](/assets/img/bound.png)
-![Boundedcontext2](/assets/img/context.png)
-Distribution Management Component Diagram
+![Bounded Context Access Diagram](/assets/img/bound.png)
+Este diagrama muestra un usuario que interactúa con una Aplicación de una Sola Página (SPA) dentro del sistema de gestión de acceso. Los componentes específicos dentro del SPA incluyen:
+
+- **Controlador de Acceso**: Gestiona las solicitudes en tiempo real utilizando clases REST.
+- **Servicio de Inicio de Sesión**: Implementa la lógica de negocio para el proceso de autenticación.
+- **Repositorio de Cuentas**: Interfaz para la entidad de cuenta que interactúa con la base de datos.
+- **Base de Datos Relacional**: Almacena y actualiza información crítica del sistema, como credenciales de autenticación y registros de acceso.
+
+### 2. Distribution Management Component Diagram
 
 ![Distribution Management Component Diagram](/assets/img/distribution.png)
+Diagrama que representa la gestión de la distribución, incluyendo los componentes que coordinan la logística y las entregas.
 
-Payment Management Component Diagram
+### 3. Payment Management Component Diagram
 
 ![Payment Management Component Diagram](/assets/img/payment.png)
+Muestra la estructura para el manejo de pagos, destacando los procesos y servicios relacionados con transacciones financieras.
 
-Forum Management Component Diagram
+### 4. Forum Management Component Diagram
 
 ![Forum Management Component Diagram](/assets/img/Forum.png)
+Detalla la gestión de foros, resaltando cómo se administran las publicaciones y la interacción de los usuarios.
 
-Inventory Management Component Diagram
+### 5. Inventory Management Component Diagram
 
 ![Inventory Management Component Diagram](/assets/img/inventory.png)
+Ilustra cómo se gestiona el inventario, incluyendo la organización y el seguimiento de materiales y recursos.
 
-Order Management Component Diagram
+### 6. Order Management Component Diagram
 
 ![Order Management Component Diagram](/assets/img/order.png)
+Expone la gestión de pedidos, enfocándose en cómo se procesan, actualizan y rastrean los pedidos dentro del sistema.
 
 ## 4.7. Software Object-Oriented Design
 
