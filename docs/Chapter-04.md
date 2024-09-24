@@ -561,141 +561,72 @@ Expone la gestión de pedidos, enfocándose en cómo se procesan, actualizan y r
     <tr>
       <td colspan="2">type</td>
       <td colspan="4">tipo material</td>
+      <td colspan="2">enum</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="1" colspan="1">4</td>
+    <td rowspan="1" colspan="2">ShelfMaterial</td>
+    <td colspan="2">quantity</td>
+    <td colspan="4">cantidad de material del estante</td>
+    <td colspan="2">number</td>
+  </tr>
+  <tr>
+    <td rowspan="1" colspan="1">5</td>
+    <td rowspan="1" colspan="2">InventoryShelve</td>
+    <td colspan="2">Name</td>
+    <td colspan="4">Nombre del estante del inventario</td>
+    <td colspan="2">string</td>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="1">6</td>
+    <td rowspan="2" colspan="2">Order</td>
+    <td colspan="2">status</td>
+    <td colspan="4">estado de la orden</td>
+    <td colspan="2">string</td>
+    <tr>
+      <td colspan="2">description</td>
+      <td colspan="4">descripción de la orden</td>
       <td colspan="2">string</td>
     </tr>
   </tr>
   <tr>
-    <td rowspan="2" colspan="1"></td>
-    <td rowspan="2" colspan="2"></td>
-    <td colspan="2"></td>
-    <td colspan="4"></td>
-    <td colspan="2"></td>
+    <td rowspan="2" colspan="1">7</td>
+    <td rowspan="2" colspan="2">OrderDetail</td>
+    <td colspan="2">quantity</td>
+    <td colspan="4">cantidad del detalle de la orden</td>
+    <td colspan="2">number</td>
     <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
+      <td colspan="2">unitPrice</td>
+      <td colspan="4">precio unitario del detalle de la orden</td>
+      <td colspan="2">number</td>
     </tr>
   </tr>
   <tr>
-    <td rowspan="3" colspan="1"></td>
-    <td rowspan="3" colspan="2"></td>
-    <td colspan="2"></td>
-    <td colspan="4"></td>
-    <td colspan="2"></td>
+    <td rowspan="5" colspan="1">8</td>
+    <td rowspan="5" colspan="2">Distributor</td>
+    <td colspan="2">name</td>
+    <td colspan="4">nombre del distribuidor</td>
+    <td colspan="2">string</td>
     <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
+      <td colspan="2">email</td>
+      <td colspan="4">email de distribuidor</td>
+      <td colspan="2">string</td>
     </tr>
     <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
-    </tr>
-  </tr>
-  <tr>
-    <td rowspan="5" colspan="1"></td>
-    <td rowspan="5" colspan="2"></td>
-    <td colspan="2"></td>
-    <td colspan="4"></td>
-    <td colspan="2"></td>
-    <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
+      <td colspan="2">businessName</td>
+      <td colspan="4">nombre del negocio</td>
+      <td colspan="2">string</td>
     </tr>
     <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
+      <td colspan="2">businessAddress</td>
+      <td colspan="4">direccion del negocio</td>
+      <td colspan="2">string</td>
     </tr>
     <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
-    </tr> 
-    <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
-    </tr>
-  </tr>
-  <tr>
-    <td rowspan="3" colspan="1"></td>
-    <td rowspan="3" colspan="2"></td>
-    <td colspan="2"></td>
-    <td colspan="4"></td>
-    <td colspan="2"></td>
-    <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
-    </tr>
-    <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
-    </tr>
-  </tr>
-  <tr>
-    <td rowspan="3" colspan="1"></td>
-    <td rowspan="3" colspan="2"></td>
-    <td colspan="2"></td>
-    <td colspan="4"></td>
-    <td colspan="2"></td>
-    <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
-    </tr>
-    <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
-    </tr>
-  </tr>
-  <tr>
-    <td rowspan="5" colspan="1"></td>
-    <td rowspan="5" colspan="2"></td>
-    <td colspan="2"></td>
-    <td colspan="4"></td>
-    <td colspan="2"></td>
-    <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
-    </tr>
-    <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
-    </tr>
-    <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
-    </tr>
-    <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
-    </tr>
-  </tr>
-  <tr>
-    <td rowspan="3" colspan="1"></td>
-    <td rowspan="3" colspan="2"></td>
-    <td colspan="2"></td>
-    <td colspan="4"></td>
-    <td colspan="2"></td>
-    <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
-    </tr>
-    <tr>
-      <td colspan="2"></td>
-      <td colspan="4"></td>
-      <td colspan="2"></td>
+      <td colspan="2">phone</td>
+      <td colspan="4">numero de telefono</td>
+      <td colspan="2">string</td>
     </tr>
   </tr>
 </table>
