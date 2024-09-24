@@ -482,6 +482,12 @@ Expone la gestión de pedidos, enfocándose en cómo se procesan, actualizan y r
 
 ![Materials](../assets/img/meterials.png)
 
+![ShelfMaterial](../assets/img/shelfmaterial.png)
+
+![DistributorsOrder](../assets/img/DistributorOrder.png)
+
+![Forum](../assets/img/Forumclass.png)
+
 ### 4.7.2. Class Dictionary
 
 <table>
