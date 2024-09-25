@@ -450,6 +450,1073 @@ Commits:
 Analiticas de Colaboración:
 ![alt text](../assets/img/insight2.png)
 
+### 5.2.2. Sprint 2
+
+### 5.2.2.1. Sprint Planning 1
+
+Para este segundo sprint nos enfocaremos en los tasks para la
+primera versión del Frontend Web Application. Nos dividiremos entre nosotros cada
+una de las tareas identificadas para el sprint.
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-09-15</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">03:42 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Marcelo Rentería</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Gabriel Garcia, Diego Flores, Salvador Chamorro, Marcelo Rentería, Bryan Espejo</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Review Summary</td>
+    <td colspan="8">En esta seccion se planteó el desarrollo inicial del Frontend Web App para nuestro proyecto llamado CraftSync</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Retrospective Summary</td>
+    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo, aunque no se lograron a implementar todas las funcionalidades necesarias.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Avanzar la parte fundamental del diseño y la implementación del Frontend Web Application con las páginas principales, con el objetivo de mostrar el funcionamiento de la plataforma.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">15 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">23 Story Points</td>
+</tr>
+</table>
+
+### 5.2.2.2. Sprint Backlog 2
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1">US07</td>
+    <td colspan="2">Visualización de Pedidos</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Pedidos</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Pedidos para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Pedidos</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Pedidos para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Lista de Pedidos</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de lista de Pedidos para implementar el comportamiento de esta.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Pedidos</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Pedidos para ver los Pedidos asignados.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de lista de pedidos, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US05</td>
+    <td colspan="2">Actualizar Progreso</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Pedidos</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Pedidos para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Pedidos</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Pedidos para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Pedido</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Pedidos para implementar las funciones de interacción.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Pedido</td>
+    <td colspan="3">Yo, como artesano, quiero una página de un Pedido en particular para interactuar con él.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">InProcess</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de pedido, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">InProcess</td>
+  </tr>
+    <tr>
+    <td colspan="1">US11</td>
+    <td colspan="2">Visualización de la sección de inventarios</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Materiales</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Materiales para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Materiales</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Materiales para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Materiales</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Materiales para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Inventario</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Inventario para ver los Materiales.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Inventario, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US12</td>
+    <td colspan="2">Crear inventario</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Inventario para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Inventario para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Inventario para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">InProcess</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Inventario</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Inventario para ver los Inventarios</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Inventario, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US17</td>
+    <td colspan="2">Visualización de la sección de foro</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Publicación para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Publicación para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Publicación para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Publicación</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Publicación para ver las publicaciones</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Inventario, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US18</td>
+    <td colspan="2">Crear publicación</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Publicación para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Publicación para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Crear Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Crear Publicación para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">InProcess</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar Diálogo de Crear Publicación</td>
+    <td colspan="3">Yo, como artesano, quiero un diálogo de Crear Publicación para añadir una publicación.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Inventario, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US06</td>
+    <td colspan="2">Visualización de perfil de usuario propio.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Perfil para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Perfil para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Perfil para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar Página de Perfil</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Perfil para ver mi Perfil</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">InProcess</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Inventario, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US26</td>
+    <td colspan="2">Manejo de Distribución de Pedidos</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Pedido</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Pedido para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Pedido</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Pedido para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Distribución</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Distribución para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Distribución</td>
+    <td colspan="3">Yo, como distribuidor, quiero una página de Distribución para ver la Distribución de Pedidos</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Inventario, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+</table>
+
+### 5.2.2.3. Development Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">f5d9fcc58f6fd2d8427bdba752fd785f6320917c</td>
+        <td colspan="2">initial commit</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/09/2024</td>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">6b930c22d5f7668dd7343713725c06504b3a8eb7</td>
+        <td colspan="2">chore: initial commit.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">3c1264309b437713cf5aa2445e5cef050f9a2e15</td>
+        <td colspan="2">feat: added ngx-translate/http-loader dependency.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">4e51d664a38814b7a4357f22927cd300c506b909</td>
+        <td colspan="2">feat(i18n): add internationalization support dependencies and configuration.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">7df0c9043034392c013c0ff602075dd648d038d3</td>
+        <td colspan="2">feat(fake-api): add dependency and configuration files to implement a fake api.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d95be401e1d9a763fd3504cd13ad932d3447b943</td>
+        <td colspan="2">chore: add base form component with common error handling behavior.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d29ec45a67854036dae824d2eec60bc8879fe219</td>
+        <td colspan="2">chore: add environment variable configuration files.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">91877876b08e71df836c3d56574783b1c758fdb5</td>
+        <td colspan="2">chore: add base service with common behavior.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">e5e31d96505bd9bb22e5a35875089384da24a48e</td>
+        <td colspan="2">feat(posts): add post entity.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">f39bf3a4b2f168d490ac855312318c059104b70f</td>
+        <td colspan="2">feat(posts): add post service client.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">9a5f3096210c810537c85b4732de68e7e76392b1</td>
+        <td colspan="2">feat(page-not-found): add page not found component..</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">666dd752caa734cda08fcc81089a44b69c214a0e</td>
+        <td colspan="2">feat(post-create): add post create component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">e71b14435edc42206911d43e8c2502eae36bc436</td>
+        <td colspan="2">feat(post-management): add post management component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">1ca96072b78fda3f6c9fba956daca0cd88d6629d</td>
+        <td colspan="2">feat(routes): add routes configuration.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">1369ca5bb9af2c3c513087e08fd3e51cc3baceec</td>
+        <td colspan="2">feat: add style and format page.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">6f595d279ae39fa3d499222418ee5c8508b3490e</td>
+        <td colspan="2">chore: add dependency.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">9719079b5b8601f7e8e6db31c755dafece68496a</td>
+        <td colspan="2">feat: add post item component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">18/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">e636fd9b8e910ab6c2121efb83b5d7b55e32d467</td>
+        <td colspan="2">fix: fix small bugs.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">18/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">1b91ef05489d3cd05e6cfdc7445f1f400e0ab851</td>
+        <td colspan="2">fix: fix small bugs like unnecessary code.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">18/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">882d7359ddfbe0068919569673ff83add00e48b2</td>
+        <td colspan="2">feat(post-management): update post management logic.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">18/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">cb1856c2e67cd7f5abef137442f9214146a6afdd</td>
+        <td colspan="2">feat(post-management): update post management styles and structure.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">fbc6a1cc08a8bdf6069fea6303b1dd6e1777dbcd</td>
+        <td colspan="2">feat(post-item): add new format to view the cards.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">01b14212f68b08d3ace243ad1307ad0112fdd345</td>
+        <td colspan="2">feat(post-entity): update fake api and post entity.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">9c03afb3fa030ed698f36d42fd3f83e1baa4f423</td>
+        <td colspan="2">feat(filter-search): add filter-search section.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">a335069b742084e3f9f55d039c0496a02ce836bb</td>
+        <td colspan="2">feat(post-create): update post create component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">18942bc9b46ab0b11721af419ab75cda6db39a84</td>
+        <td colspan="2">feat(post-view): added post view component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">076f85f37798845169a7bcdbef255abdf8e8007e</td>
+        <td colspan="2">feat(post-management): added search by filters component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">5e4cb4cb4eb0d9fbc77464de1029c2d11ffef340</td>
+        <td colspan="2">feat(post-create): update post create component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">92b0830ae34d280f30563147080bf046238d9c4f</td>
+        <td colspan="2">feat(post-item): added post create button on component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d96464742c78f6f1ac927ad087ad371f95e91e4d</td>
+        <td colspan="2">feat(db): update database.json.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">e288ba797d4634f7db8928c4d6ec011cac0fdef7</td>
+        <td colspan="2">feat(inventory): added json server dependency.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">e67912303d11fa1ece9cfca0da082421b9476c73</td>
+        <td colspan="2">feat(inventory): added material entity.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">0abae29b9f720f17491b614ed59498ca11e14fea</td>
+        <td colspan="2">feat(inventory): updated material entity.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">373fb02b29df5b868a3c017494bdf425ae5edf22</td>
+        <td colspan="2">feat(inventory): added inventory service.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">468baed62887a7df92747352783de81d6d98f835</td>
+        <td colspan="2">feat(inventory): added fake online server path.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">304799d9305fc0ae291ebfec38cfbf4879372fce</td>
+        <td colspan="2">feat(inventory): added material item component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">1b51b1bc78ed5a4ca8122cfc1dd545a8066fe20d</td>
+        <td colspan="2">feat(inventory): added material list component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">dd2b20d47ef456d4d93be1881b3e148560c4ab97</td>
+        <td colspan="2">feat(inventory): added material service.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">2a7d06fdee107dc81aa9082e5f96e3d76089fa4f</td>
+        <td colspan="2">feat(profile): Added profile entity.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d2e8750b43f33c3620a49da8a4e15162af0df7c7</td>
+        <td colspan="2">feat(profile): Added profile service.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">efac2fe33dad72d9db1f17bd12921a9770b4b00e</td>
+        <td colspan="2">feat(profile): Added profile component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">784a4014498204db81ac70ccf94860247a267151</td>
+        <td colspan="2">feat(profile): Added subscriptions component and routes.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">c7a0a2cf3e8de02f16d9528f52c074d0e5682a46</td>
+        <td colspan="2">feat(inventory): correctly re added angular material.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">f939a90807b5f066784d28b5efc337f81b273ed9</td>
+        <td colspan="2">feat(inventory): added material management page component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">1eecabd614dd91917c616726018a2447559e2ed6</td>
+        <td colspan="2">feat(inventory): added material management page component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">c86e7315c41f1c1faffbd580147509e2c6efa3ce</td>
+        <td colspan="2">feat(inventory): updated routes config.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">fb706085f124681e265fea3a8a8aa43063029288</td>
+        <td colspan="2">feat(orders-d): added order-d entity</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">6e37e62a6e39993d27b825bd95df267c8350f439</td>
+        <td colspan="2">feat(orders-d): added order-d service</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">1696078fe16c9c8a215e127fef08503026d7952d</td>
+        <td colspan="2">feat(orders-d): added order-distributor-comment component</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">7c249c1e92d72fec6d5db676a5f25def63b1a335</td>
+        <td colspan="2">feat(orders-d): added order-distributor-page component</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">bbddf5333e7000880ac57fd9086460c16fdb2dce</td>
+        <td colspan="2">feat(routes): updated routes</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">b2d99c173a7d825e9774abb3096ed7c88bc6c260</td>
+        <td colspan="2">feat(routes): update routes to include new component paths</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">8617a0637827a42dbf3d3cbac5ca6a56f57a9d60</td>
+        <td colspan="2">feat(UI): implement product list and search filter components with UI enhancements</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">2898ab35409f09ead2e81361d517dc0d97372ac6</td>
+        <td colspan="2">fix: fixed mistake connections.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">25d5c874a7766cf82f1edec7f4d1b150e1562378</td>
+        <td colspan="2">fix: fixed last mistakes.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">24/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">e10661656df30de64d5636fb9e133aef3dd0ee5e</td>
+        <td colspan="2">fix: fixed last mistakes.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">24/09/2024</td>
+    </tr>
+</table>
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+En este sprint, no se desarrollaron Web Services, por lo que no hubo ningún Unit Testing relacionado a estos.
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+Para esta primera entrega, nuestro equipo elaboró la primera versión del Frontend Web App del proyecto "CraftSync". De tal modo, se podrá visualizar una versión preliminar de las funcionalidades del proyecto.
+
+**Sección de Lista de Pedidos**: Se implementó la lista de Pedidos del Artesano.
+![alt text](../assets/img/evidence2-1.png)
+**Sección de Inventario**: Se implementó la lista de Materiales.
+![alt text](../assets/img/evidence2-2.png)
+**Sección de Foro**: Se implementó la lista de Publicaciones.
+![alt text](../assets/img/evidence2-3.png)
+**Sección de Crear Publicación**: Se implementó la creación de una caja de diálogo para crear la Publicación.
+![alt text](../assets/img/evidence2-4.png)
+**Sección de Publicación**: Se implementó la vista de Publicación.
+![alt text](../assets/img/evidence2-5.png)
+**Sección de Perfil**: Se implementó parcialmente la vista del Perfil de Artesano.
+![alt text](../assets/img/evidence2-6.png)
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+En este sprint, no se desarrollaron Web Services.
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para el despliegue del Frontend Web app, hemos utilizado la herramienta de Netlify, vincúlandola con nuestro repositorio de GitHub para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
+
+![alt text](../assets/img/deploy2-1.png)
+
+Una vez creado el repositorio, entraremos a Netlify, vinculamos el repositorio y lo configuramos. Se coloca la información necesaria, como la fuente del branch a utilizar para realizar el deployment. Luego de eso, Netlify nos confirmará el despliegue, al que podremos ingresar.
+
+![alt text](../assets/img/deploy2-2.png)
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+Commits:
+![alt text](../assets/img/insight2-1.png)
+Analiticas de Colaboración:
+![alt text](../assets/img/insight2-2.png)
+
 # Conclusiones
 - La aplicación permitirá a los artesanos gestionar eficientemente sus pedidos, materiales y procesos de producción, optimizando su flujo de trabajo. Podrán organizar sus inventarios de manera efectiva mediante un sistema de estanterías y actualizar el progreso de sus pedidos, lo que fomenta la transparencia y la mejora de la planificación.
 - Los distribuidores tendrán visibilidad en tiempo real del estado de los pedidos que realizan a los artesanos, lo que facilita el control del progreso y los plazos de entrega, promoviendo una mayor confianza y satisfacción en la relación comercial.
@@ -460,6 +1527,10 @@ Analiticas de Colaboración:
 - Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
 
 - Gothelf, J (2016). _Lean UX, 2nd Edition_. O'reilly. Recuperado de: https://learning.oreilly.com/library/view/lean-ux-2nd/9781491953594/foreword01.html
+
+- Material 3 Design Kit | Figma. (s. f.). Figma. https://www.figma.com/community/file/1035203688168086460/material-3-design-kit
+
+- Kane, J. (2013). Manual de tipografía: Nueva edición. Editorial GG.
 
 # Anexos
 Vídeo TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914367_upc_edu_pe/EWuqLFS88whMoMunE2gQ810B0-5uV8xr3xaeM1rgjdQpvg 
