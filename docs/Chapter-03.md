@@ -65,6 +65,13 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td></td>
     </tr>
     <tr>
+        <td>EP07</td>
+        <td>Technical Stories</td>
+        <td>Yo, como desarrollador, quiero interactuar con el backend API de la aplicación, para conectar funciones de mi aplicación con una base de datos.</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
         <td>US01</td>
         <td>Sección About Us</td>
         <td>Yo, como distribuidor visitante del Landing Page, quiero una sección About Us para informarme sobre la empresa y sus detalles.</td>
@@ -117,7 +124,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
             AND rellene los datos necesarios<br>
             THEN el pedido aparece en la lista del artesano
         </td>
-        <td><EP03/td>
+        <td>EP03</td>
     </tr>
     <tr>
         <td>US05</td>
@@ -307,7 +314,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>Como artesano usuario de la plataforma, quiero eliminar mis publicaciones en el foro para mantener un orden en mi perfil.</td>
         <td>Scenario 1: Artesano elimina una publicación satisfactoriamente.<br><br>
             GIVEN el artesano está en su publicación,<br>
-           WHEN el artesano selecciona el botón de eliminar publicación, se le aparecen dos botones y selecciona el botón aceptar.<br>
+            WHEN el artesano selecciona el botón de eliminar publicación, se le aparecen dos botones y selecciona el botón aceptar.<br>
             THEN se elimina la publicación.<br><br>
             Scenario 2: Artesano cancela eliminar publicación.<br><br>
             GIVEN el artesano está en su publicación,<br>
@@ -369,6 +376,151 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
             OR presione el botón en la barra de navegación<br>
             THEN se le muestra información detallada acerca de los servicios que ofrece la plataforma.</td>
         <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US26</td>
+        <td>Manejo de Distribución de Pedidos</td>
+        <td>Como Distribuidor, quiero un sistema de Distribución para manejar los pedidos disponibles.</td>
+        <td>Scenario: Visualización de Pedidos a Distribuir<br><br>
+            GIVEN un Distribuidor acepte un pedido,<br>
+            AND el sistema lo procese,<br>
+           WHEN accede a la sección de Distribución.<br>
+            THEN se le muestra un sistema de organización de pedidos según Comprador.</td>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>US27</td>
+        <td>Visualización de Pedidos</td>
+        <td>Como Distribuidor, quiero un sistema de listado de Pedidos para organizar los Pedidos que tengo asignados con Artesano.</td>
+        <td>Scenario: Visualización de Pedidos<br><br>
+            GIVEN un Artesano solicite trabajo,<br>
+            AND el Distribuidor le asigna un pedido,<br>
+           WHEN accede a la sección de Pedidos.<br>
+            THEN se le muestra una lista de todos los Pedidos asignados por el Distribuidor.</td>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>US28</td>
+        <td>Generación de Pedidos</td>
+        <td>Como Artesano, quiero generar un Pedido desde la plataforma para organizar pedidos no relacionados a Distribuidores.</td>
+        <td>Scenario: Generación de Pedidos<br><br>
+            GIVEN un Artesano está en la sección Pedidos,<br>
+           WHEN presione el botón de Generar Pedido.<br>
+            AND llene los datos,<br>
+            THEN se le muestra el Pedido con opciones básicas de gestión.</td>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>US29</td>
+        <td>Añadir artesanos mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir artesanos a la API, para conectarlos a las funciones de mi aplicación Web.</td>
+        <td>Scenario 1: Añadir artesano con datos correctos<br><br>
+            GIVEN el endpoint "api/v1/craftsmen" existe,<br>
+           WHEN se envíe un request POST con los datos pertinentes.<br>
+            AND no exista un artesano con el mismo nombre de usuario,<br>
+            THEN se envía un response de estado 201.<br>
+            AND un Recurso de Artesano con ID autogenerado y los datos correspondientes.<br><br>
+            Scenario 2: Añadir artesano con datos existentes<br><br>
+            GIVEN el endpoint "api/v1/craftsmen" existe,<br>
+           WHEN se envíe un request POST con los datos pertinentes.<br>
+            AND ya exista un artesano con el mismo nombre de usuario,<br>
+            THEN se envía un response de estado 400<br>
+            AND se muestra un mensaje de error indicando que ya existe ese nombre de usuario registrado.</td>
+        <td>EP07</td>
+    </tr>
+    <tr>
+        <td>US30</td>
+        <td>Añadir distribuidores mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir distribuidores a la API, para conectarlos a las funciones de mi aplicación Web.</td>
+        <td>Scenario 1: Añadir distribuidor con datos correctos<br><br>
+            GIVEN el endpoint "api/v1/distributors" existe,<br>
+           WHEN se envíe un request POST con los datos pertinentes.<br>
+            AND no exista un artesano con el mismo nombre de usuario,<br>
+            THEN se envía un response de estado 201.<br>
+            AND un Recurso de Distribuidor con ID autogenerado y los datos correspondientes.<br><br>
+            Scenario 2: Añadir distribuidor con datos existentes<br><br>
+            GIVEN el endpoint "api/v1/craftsmen" existe,<br>
+           WHEN se envíe un request POST con los datos pertinentes.<br>
+            AND ya exista un artesano con el mismo nombre de usuario,<br>
+            THEN se envía un response de estado 400<br>
+            AND se muestra un mensaje de error indicando que ya existe ese nombre de usuario registrado.</td>
+        <td>EP07</td>
+    </tr>
+    <tr>
+       <td>US31</td>
+        <td>Añadir pedidos mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir pedidos a la API, para conectarlos a las funciones de mi aplicación Web.</td>
+        <td>Scenario 1: Añadir pedido<br><br>
+            GIVEN el endpoint "api/v1/items" existe,<br>
+           WHEN se envíe un request POST con los datos pertinentes.<br>
+            THEN se envía un response de estado 201.<br>
+            AND un Recurso de Pedido con ID autogenerado y los datos correspondientes.</td>
+        <td>EP07</td>
+    </tr>
+    <tr>
+        <td>US32</td>
+        <td>Añadir inventarios mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir inventarios a la API, para conectarlos a las funciones de mi aplicación Web.</td>
+        <td>Scenario 1: Añadir inventario con datos correctos<br><br>
+            GIVEN el endpoint "api/v1/inventories" existe,<br>
+           WHEN se envíe un request POST con los datos pertinentes.<br>
+            AND no exista un inventario con el mismo nombre,<br>
+            THEN se envía un response de estado 201.<br>
+            AND un Recurso de Inventario con ID autogenerado y los datos correspondientes.<br><br>
+            Scenario 2: Añadir inventario con datos existentes<br><br>
+            GIVEN el endpoint "api/v1/inventories" existe,<br>
+           WHEN se envíe un request POST con los datos pertinentes.<br>
+            AND ya exista un inventario con el mismo nombre,<br>
+            THEN se envía un response de estado 400<br>
+            AND se muestra un mensaje de error indicando que ya existe ese nombre registrado.</td>
+        <td>EP07</td>
+    </tr>
+    <tr>
+        <td>US33</td>
+        <td>Añadir materiales mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir materiales a la API, para conectarlos a las funciones de inventarios de mi aplicación Web.</td>
+        <td>Scenario 1: Añadir material con datos correctos<br><br>
+            GIVEN los endpoint "api/v1/inventories" y "api/v1/materials" existen,<br>
+           WHEN se envíe un request POST con los datos pertinentes.<br>
+            AND el inventario relacionado exista,<br>
+            THEN se envía un response de estado 201.<br>
+            AND un Recurso de Material con ID autogenerado y los datos correspondientes.<br><br>
+            Scenario 2: Añadir material con datos incorrectos<br><br>
+            GIVEN los endpoint "api/v1/inventories" y "api/v1/materials" existen,<br>
+           WHEN se envíe un request POST con los datos pertinentes.<br>
+            AND el inventario relacionado no exista,<br>
+            THEN se envía un response de estado 400<br>
+            AND se muestra un mensaje de error indicando que no existe el inventario al que se referencia.</td>
+        <td>EP07</td>
+    </tr>
+    <tr>
+        <td>US34</td>
+        <td>Añadir publicaciones mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir inventarios a la API, para conectarlos a las funciones de foro de mi aplicación Web.</td>
+        <td>Scenario 1: Añadir publicación<br><br>
+            GIVEN el endpoint "api/v1/posts" existe,<br>
+           WHEN se envíe un request POST con los datos pertinentes.<br>
+            THEN se envía un response de estado 201.<br>
+            AND un Recurso de Publicación con ID autogenerado y los datos correspondientes.</td>
+        <td>EP07</td>
+    </tr>
+    <tr>
+        <td>US35</td>
+        <td>Añadir comentarios mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir comentarios a la API, para conectarlos a las funciones de publicaciones de mi aplicación Web.</td>
+        <td>Scenario 1: Añadir comentario con datos correctos<br><br>
+            GIVEN los endpoint "api/v1/posts" y "api/v1/comments" existen,<br>
+           WHEN se envíe un request POST con los datos pertinentes.<br>
+            AND la publicación relacionada exista,<br>
+            THEN se envía un response de estado 201.<br>
+            AND un Recurso de Comentario con ID autogenerado y los datos correspondientes.<br><br>
+            Scenario 2: Añadir comentario con datos incorrectos<br><br>
+            GIVEN los endpoint "api/v1/posts" y "api/v1/comments" existen,<br>
+           WHEN se envíe un request POST con los datos pertinentes.<br>
+            AND la publicación relacionada no exista,<br>
+            THEN se envía un response de estado 400<br>
+            AND se muestra un mensaje de error indicando que no existe la publicación al que se referencia.</td>
+        <td>EP07</td>
     </tr>
 </table>
 
@@ -438,136 +590,205 @@ Segmento 2:
     </tr>
     <tr>
         <td>7</td>
-        <td>US03</td>
-        <td>Solicitud de Trabajo</td>
-        <td>Yo, como artesano usuario de la plataforma, quiero mandar solicitudes a los distribuidores, para obtener pedidos de su parte.</td>
-        <td>2</td>
+        <td>US27</td>
+        <td>Visualización de Pedidos.</td>
+        <td>Como Distribuidor, quiero un sistema de listado de Pedidos para organizar los Pedidos que tengo asignados con Artesano.</td>
+        <td>3</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>US04</td>
-        <td>Asignar Pedidos</td>
-        <td>Yo, como usuario distribuidor de la plataforma, quiero asignar pedidos a los artesanos, para enviarlos a los compradores una vez hechos.</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>9</td>
         <td>US05</td>
         <td>Actualizar Progreso</td>
         <td>Yo, como usuario artesano de la plataforma, quiero actualizar los detalles del pedido, para mantener informado al distribuidor.</td>
         <td>2</td>
     </tr>
     <tr>
-        <td>10</td>
+        <td>9</td>
         <td>US11</td>
         <td>Visualización de la sección de inventarios</td>
         <td>Como artesano usuario de la plataforma, quiero ver mis inventarios de trabajo para estar al tanto de lo que se tiene disponible.</td>
         <td>2</td>
     </tr>
     <tr>
-        <td>11</td>
+        <td>10</td>
         <td>US12</td>
         <td>Crear inventario</td>
         <td>Como artesano usuario de la plataforma, quiero agregar inventarios para mantener un orden en mis diferentes proyectos.</td>
         <td>2</td>
     </tr>
     <tr>
-        <td>12</td>
-        <td>US14</td>
-        <td>Agregar materiales en inventario</td>
-        <td>Como artesano usuario de la plataforma, quiero agregar materiales en mis inventarios para llevar un control detallado de los materiales disponibles.</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>13</td>
-        <td>US13</td>
-        <td>Eliminar inventario</td>
-        <td>Como artesano usuario de la plataforma, quiero eliminar inventarios para no tener información innecesaria</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>14</td>
-        <td>US16</td>
-        <td>Búsqueda de Materiales en Inventario</td>
-        <td>Como artesano usuario de la plataforma, quiero buscar materiales específicos dentro de mi inventario para localizarlos rápidamente y utilizarlos en mi proceso de producción.</td>
-        <td>3</td>
-    </tr>
-    <tr>
-        <td>15</td>
-        <td>US15</td>
-        <td>Visualizar detalles de un material</td>
-        <td>Como artesano usuario de la plataforma, quiero visualizar toda la información de un material para llevar un control detallado de tal material.</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>16</td>
+        <td>11</td>
         <td>US17</td>
         <td>Visualización de la sección de foro</td>
         <td>Como artesano usuario de la plataforma, quiero una sección de foros para estar en contacto con otros artesanos.</td>
         <td>5</td>
     </tr>
     <tr>
-        <td>17</td>
+        <td>12</td>
         <td>US18</td>
         <td>Crear publicación</td>
         <td>Como artesano usuario de la plataforma, quiero crear publicaciones en el foro para compartir con otros usuarios.</td>
         <td>2</td>
     </tr>
     <tr>
-        <td>18</td>
-        <td>US21</td>
-        <td>Comentar publicación</td>
-        <td>Como artesano usuario de la plataforma, quiero comentar en las publicaciones del foro para contactarme con personas del mismo interés.</td>
-        <td>3</td>
-    </tr>
-    <tr>
-        <td>19</td>
-        <td>US20</td>
-        <td>Eliminar publicación.</td>
-        <td>Como artesano usuario de la plataforma, quiero eliminar mis publicaciones en el foro para mantener un orden en mi perfil.</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>20</td>
-        <td>US19</td>
-        <td>Editar publicación	</td>
-        <td>Como artesano usuario de la plataforma, quiero editar mis publicaciones en el foro para tener control total en estas.	</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>21</td>
+        <td>13</td>
         <td>US06</td>
         <td>Visualización de perfil de usuario propio.</td>
         <td>Como Artesano/Distribuidor usuario de la plataforma, quiero visualizar mi perfil para verificar que mi información es correcta.</td>
         <td>2</td>
     </tr>
     <tr>
-        <td>22</td>
-        <td>US08</td>
-        <td>Actualización de información de perfil.</td>
-        <td>Como Artesano/Distribuidor usuario de la plataforma, quiero poder actualizar mi información personal y de contacto para mantener mis datos actualizados.</td>
+        <td>14</td>
+        <td>US26</td>
+        <td>Manejo de Distribución de Pedidos</td>
+        <td>Como Distribuidor, quiero un sistema de Distribución para manejar los pedidos disponibles.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>US28</td>
+        <td>Generación de Pedidos</td>
+        <td>Como Artesano, quiero generar un Pedido desde la plataforma para organizar pedidos no relacionados a Distribuidores.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>US04</td>
+        <td>Asignar Pedidos</td>
+        <td>Yo, como usuario distribuidor de la plataforma, quiero asignar pedidos a los artesanos, para enviarlos a los compradores una vez hechos.</td>
         <td>2</td>
     </tr>
     <tr>
-        <td>23</td>
+        <td>17</td>
+        <td>US14</td>
+        <td>Agregar materiales en inventario</td>
+        <td>Como artesano usuario de la plataforma, quiero agregar materiales en mis inventarios para llevar un control detallado de los materiales disponibles.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>US03</td>
+        <td>Solicitud de Trabajo</td>
+        <td>Yo, como artesano usuario de la plataforma, quiero mandar solicitudes a los distribuidores, para obtener pedidos de su parte.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>19</td>
         <td>US07</td>
         <td>Visualización de otros perfiles de usuario</td>
         <td>Como Artesano/Distribuidor usuario de la plataforma, quiero visualizar otros perfiles de usuario para ver su información e interactuar.</td>
         <td>2</td>
     </tr>
     <tr>
+        <td>20</td>
+        <td>US15</td>
+        <td>Visualizar detalles de un material</td>
+        <td>Como artesano usuario de la plataforma, quiero visualizar toda la información de un material para llevar un control detallado de tal material.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>US13</td>
+        <td>Eliminar inventario</td>
+        <td>Como artesano usuario de la plataforma, quiero eliminar inventarios para no tener información innecesaria</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>US16</td>
+        <td>Búsqueda de Materiales en Inventario</td>
+        <td>Como artesano usuario de la plataforma, quiero buscar materiales específicos dentro de mi inventario para localizarlos rápidamente y utilizarlos en mi proceso de producción.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>US21</td>
+        <td>Comentar publicación</td>
+        <td>Como artesano usuario de la plataforma, quiero comentar en las publicaciones del foro para contactarme con personas del mismo interés.</td>
+        <td>3</td>
+    </tr>
+    <tr>
         <td>24</td>
+        <td>US20</td>
+        <td>Eliminar publicación.</td>
+        <td>Como artesano usuario de la plataforma, quiero eliminar mis publicaciones en el foro para mantener un orden en mi perfil.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>US19</td>
+        <td>Editar publicación	</td>
+        <td>Como artesano usuario de la plataforma, quiero editar mis publicaciones en el foro para tener control total en estas.	</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>US08</td>
+        <td>Actualización de información de perfil.</td>
+        <td>Como Artesano/Distribuidor usuario de la plataforma, quiero poder actualizar mi información personal y de contacto para mantener mis datos actualizados.</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>US29</td>
+        <td>Añadir artesanos mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir artesanos a la API, para conectarlos a las funciones de mi aplicación Web.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>28</td>
+        <td>US30</td>
+        <td>Añadir distribuidores mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir distribuidores a la API, para conectarlos a las funciones de mi aplicación Web.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>US31</td>
+        <td>Añadir pedidos mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir pedidos a la API, para conectarlos a las funciones de mi aplicación Web.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>US32</td>
+        <td>Añadir inventarios mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir inventarios a la API, para conectarlos a las funciones de mi aplicación Web.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>US33</td>
+        <td>Añadir materiales mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir materiales a la API, para conectarlos a las funciones de inventario de mi aplicación Web.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>US34</td>
+        <td>Añadir publicaciones mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir publicaciones a la API, para conectarlos a las funciones de foro de mi aplicación Web.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>US35</td>
+        <td>Añadir comentarios mediante RESTful API</td>
+        <td>Como Desarrollador, quiero añadir comentarios a la API, para conectarlos a las funciones de publicaciones de mi aplicación Web.</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>34</td>
         <td>US10</td>
         <td>Cerrar sesión</td>
         <td>Como Artesano/Distribuidor usuario de la plataforma, quiero cerrar sesión para proteger la integridad de mi cuenta.</td>
         <td>1</td>
     </tr>
     <tr>
-        <td>25</td>
+        <td>35</td>
         <td>US09</td>
         <td>Borrar cuenta</td>
         <td>Como Artesano/Distribuidor usuario de la plataforma, quiero borrar mi cuenta para proteger la integridad de mi persona.</td>
         <td>1</td>
     </tr>
-   
 </table>
