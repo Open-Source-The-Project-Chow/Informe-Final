@@ -15,10 +15,13 @@ En la siguiente sección se describe la ruta de referencia de cada uno de los pr
 - **GitHub:** Repositorio colaborativo en la nube utilizado para almacenar los avances de nuestro proyecto. Se puede acceder a la plataforma en el siguiente enlace: [Github](https://github.com/).
 - **Visual Studio Code:** Entorno de desarrollo utilizado por nuestro equipo para el desarrollo del proyecto en general, incluido el Informe. Se puede acceder a la plataforma en el siguiente enlace: [Visual Studio Code](https://code.visualstudio.com/).
 - **GitHub Pages:** Plataforma que permite hacer deployments sencillos y rápidos para nuestras páginas web. Se puede acceder a la plataforma en el siguiente enlace: [Github Pages](https://pages.github.com/).
+- **Netlify:** Plataforma que permite hacer deployments de páginas web, y otros servicios relacionados. Se puede acceder a la plataforma en el siguiente enlace: [Netlify](https://www.netlify.com/)
+
 
 - **HTML5:** Lenguaje para la elaboración de nuestra página web.
 - **CSS3:** Tecnología para darle estilos a nuestra página web.
 - **JavaScript:** Lenguaje de programación orientado a objetos que nos sirvió para implementar funcionalidades en nuestra Landing Page.
+- **TypeScript:** Lenguaje de programación que nos sirvió durante la elaboración del Frontend.
 
 ### 5.1.2. Source Code Management
 
@@ -28,6 +31,9 @@ Para gestionar las modificaciones en nuestro proyecto, emplearemos GitHub como p
 - Repositorio del Informe: https://github.com/Open-Source-The-Project-Chow/Informe-Final
 - Repositorio del Landing Page: https://github.com/Open-Source-The-Project-Chow/Landing-page
 - Enlace del Landing Page: https://open-source-the-project-chow.github.io/Landing-page/
+- Repositorio del Frontend: https://github.com/Open-Source-The-Project-Chow/tpc-front-end
+- Enlace del Frontend: https://develop--tpc-front-end-app.netlify.app/
+- Enlace del Fake API: https://github.com/Open-Source-The-Project-Chow/fake-api
 
 Para estructurar nuestro control de versiones, implementaremos el modelo GitFlow como nuestro flujo de trabajo estándar. Este modelo se basa en dos ramas principales: main (rama principal) y develop (rama de desarrollo), y varias ramas auxiliares, incluyendo feature, release, y hotfix, cada una con un propósito específico:
 
@@ -1534,3 +1540,4 @@ Analiticas de Colaboración:
 
 # Anexos
 Vídeo TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914367_upc_edu_pe/EWuqLFS88whMoMunE2gQ810B0-5uV8xr3xaeM1rgjdQpvg 
+Vídeo TP: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EUuPTRMQ7cNPrw6odyrcgI0BTeMHg6H9V03t68XRzCt1NQ?e=SH5mna
