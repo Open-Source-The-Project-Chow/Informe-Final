@@ -1570,7 +1570,7 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Sprint n Goal</td>
-    <td colspan="8">Al acabar el Sprint 3, la plataforma de Backend Web Application deberá contar con los endpoints relacionados a los Bounded Context de Foro, Perfil, Pedido e Inventario, desplegados apropiadamente para su uso. Aparte, el Frontend Web Application contará con funciones agregadas para los Bounded Context mencionados.</td>
+    <td colspan="8">Nuestro enfoque está en completar la integración y mejora del Landing Page con el Frontend, y la implementación de endpoints en el Backend. Creemos que brinda una mejor experiencia de usuario a los visitantes del Landing Page, que se volverán artesanos y compradores que aprovecharán las nuevas funciones del Frontend, y que hacen que los desarrolladores se beneficien de la plataforma de Servicios Web creada. Esto se confirmará cuando la Landing Page muestre el Call-to-Action para la conexión con el Frontend, el cual esté desarrollado al 75% y el Backend esté implementado al 50% con los bounded contexts más importantes</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
