@@ -171,7 +171,7 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Sprint n Goal</td>
-    <td colspan="8">Completar el diseño y la implementación del landing page con formularios de contacto y secciones de información, con el objetivo de mejorar la experiencia del usuario y aumentar la tasa de conversión.</td>
+    <td colspan="8">Al acabar el Sprint 1, el despliegue del Landing Page debe contar con formularios de contacto y todas las secciones de información pertinentes.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
@@ -458,7 +458,7 @@ Analiticas de Colaboración:
 
 ### 5.2.2. Sprint 2
 
-### 5.2.2.1. Sprint Planning 1
+### 5.2.2.1. Sprint Planning 2
 
 Para este segundo sprint nos enfocaremos en los tasks para la
 primera versión del Frontend Web Application. Nos dividiremos entre nosotros cada
@@ -503,7 +503,7 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Sprint n Goal</td>
-    <td colspan="8">Avanzar la parte fundamental del diseño y la implementación del Frontend Web Application con las páginas principales, con el objetivo de mostrar el funcionamiento de la plataforma.</td>
+    <td colspan="8">Al acabar el Sprint 2, la plataforma de Frontend Web Application deberá contar con las funciones de los Bounded Context de Foro, Perfil, Pedido e Inventario, con un Landing Page actualizado que se conecte via Call-To-Action a la plataforma.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
@@ -1522,6 +1522,65 @@ Commits:
 ![alt text](../assets/img/insight2-1.png)
 Analiticas de Colaboración:
 ![alt text](../assets/img/insight2-2.png)
+
+### 5.2.3. Sprint 3
+
+### 5.2.2.1. Sprint Planning 3
+
+Para este tercer sprint nos enfocaremos en los tasks para la
+segunda versión del Frontend Web Application, y la primera versión del Backedn Web Application. Nos dividiremos entre nosotros cada
+una de las tareas identificadas para el sprint.
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-10-16</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">11:42 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Aula B-606, UPC San Isidro</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Marcelo Rentería</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Gabriel Garcia, Diego Flores, Salvador Chamorro, Marcelo Rentería, Bryan Espejo</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 3 Review Summary</td>
+    <td colspan="8">En esta sección se planteó el desarrollo inicial del Backend Web App, y mejora del Frontend Web App para nuestro proyecto llamado CraftSync</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 3 Retrospective Summary</td>
+    <td colspan="8"></td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Al acabar el Sprint 3, la plataforma de Backend Web Application deberá contar con los endpoints relacionados a los Bounded Context de Foro, Perfil, Pedido e Inventario, desplegados apropiadamente para su uso. Aparte, el Frontend Web Application contará con funciones agregadas para los Bounded Context mencionados.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">15 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">23 Story Points</td>
+</tr>
+</table>
 
 # Conclusiones
 - La aplicación permitirá a los artesanos gestionar eficientemente sus pedidos, materiales y procesos de producción, optimizando su flujo de trabajo. Podrán organizar sus inventarios de manera efectiva mediante un sistema de estanterías y actualizar el progreso de sus pedidos, lo que fomenta la transparencia y la mejora de la planificación.
