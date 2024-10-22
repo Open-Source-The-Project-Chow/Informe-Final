@@ -480,7 +480,7 @@ Expone la gestión de pedidos, enfocándose en cómo se procesan, actualizan y r
 
 ![Craftsman](../assets/img/craftsman.png)
 
-![Materials](../assets/img/meterials.png)
+![Materials](../assets/img/materials_inventory.png)
 
 ![ShelfMaterial](../assets/img/shelfmaterial.png)
 
