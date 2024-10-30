@@ -1582,6 +1582,449 @@ una de las tareas identificadas para el sprint.
 </tr>
 </table>
 
+### 5.2.2.2. Sprint Backlog 2
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1">US29</td>
+    <td colspan="2">Añadir artesanos mediante RESTful API</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear aggregate de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un aggregate de Perfil para contener los datos importantes de perfil de usuario.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear Commands y Queries de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero Commands y Queries de Perfil para manipular u obtener su información.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear Repositorio y Servicios de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero el Repositorio y Servicios de Perfil para establecer el comportamiento de las acciones relacionadas.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">To-REview</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Crear Recursos y Transformadores de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero Recursos y Transformadores de Perfil para tener lo necesario para la comunicación entre la base de datos y la plataforma.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Crear Controlador de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un Controlador de Perfil para establecer la reacción de la plataforma ante los distintos Requests.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+    <tr>
+    <td colspan="1">US30</td>
+    <td colspan="2">Añadir distribuidores mediante RESTful API</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear aggregate de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un aggregate de Perfil para contener los datos importantes de perfil de usuario.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear Commands y Queries de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero Commands y Queries de Perfil para manipular u obtener su información.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear Repositorio y Servicios de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero el Repositorio y Servicios de Perfil para establecer el comportamiento de las acciones relacionadas.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">To-REview</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Crear Recursos y Transformadores de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero Recursos y Transformadores de Perfil para tener lo necesario para la comunicación entre la base de datos y la plataforma.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Crear Controlador de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un Controlador de Perfil para establecer la reacción de la plataforma ante los distintos Requests.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+    <tr>
+    <td colspan="1">US31</td>
+    <td colspan="2">Añadir pedidos mediante RESTful API</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear aggregate de Pedidos</td>
+    <td colspan="3">Yo, como desarrollador, quiero un aggregate de Pedidos para contener los datos importantes de los pedidos.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear Commands y Queries de Pedidos</td>
+    <td colspan="3">Yo, como desarrollador, quiero Commands y Queries de Pedidos para manipular u obtener su información.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear Repositorio y Servicios de Pedidos</td>
+    <td colspan="3">Yo, como desarrollador, quiero el Repositorio y Servicios de Pedidos para establecer el comportamiento de las acciones relacionadas.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Crear Recursos y Transformadores de Pedidos</td>
+    <td colspan="3">Yo, como desarrollador, quiero Recursos y Transformadores de Pedidos para tener lo necesario para la comunicación entre la base de datos y la plataforma.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Crear Controlador de Pedidos</td>
+    <td colspan="3">Yo, como desarrollador, quiero un Controlador de Pedidos para establecer la reacción de la plataforma ante los distintos Requests.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+    <tr>
+    <td colspan="1">US32</td>
+    <td colspan="2">Añadir inventarios mediante RESTful API</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear aggregate de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero un aggregate de Inventarios para contener sus datos importantes</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear Commands y Queries de Inventarios</td>
+    <td colspan="3">Yo, como desarrollador, quiero Commands y Queries de Inventarios para manipular u obtener su información.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear Repositorio y Servicios de Inventarios</td>
+    <td colspan="3">Yo, como desarrollador, quiero el Repositorio y Servicios de Inventarios para establecer el comportamiento de las acciones relacionadas.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Crear Recursos y Transformadores de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero Recursos y Transformadores de Inventario para tener lo necesario para la comunicación entre la base de datos y la plataforma.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Crear Controlador de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero un Controlador de Inventario para establecer la reacción de la plataforma ante los distintos Requests.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US33</td>
+    <td colspan="2">Añadir materiales mediante RESTful API</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear aggregate de Materiales</td>
+    <td colspan="3">Yo, como desarrollador, quiero un aggregate de Materiales para contener los datos importantes de los materiales que usan los artesanos.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear Commands y Queries de Materiales</td>
+    <td colspan="3">Yo, como desarrollador, quiero Commands y Queries de Materiales para manipular u obtener su información.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear Repositorio y Servicios de Materiales</td>
+    <td colspan="3">Yo, como desarrollador, quiero el Repositorio y Servicios de Materiales para establecer el comportamiento de las acciones relacionadas.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Crear Recursos y Transformadores de Materiales</td>
+    <td colspan="3">Yo, como desarrollador, quiero Recursos y Transformadores de Materiales para tener lo necesario para la comunicación entre la base de datos y la plataforma.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Crear Controlador de Materiales</td>
+    <td colspan="3">Yo, como desarrollador, quiero un Controlador de Materiales para establecer la reacción de la plataforma ante los distintos Requests.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+    <tr>
+    <td colspan="1">US34</td>
+    <td colspan="2">Añadir publicaciones mediante RESTful API</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear aggregate de Publicaciones</td>
+    <td colspan="3">Yo, como desarrollador, quiero un aggregate de Publicaciones para contener los datos importantes de las publicaciones</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear Commands y Queries de Publicaciones</td>
+    <td colspan="3">Yo, como desarrollador, quiero Commands y Queries de Publicaciones para manipular u obtener su información.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear Repositorio y Servicios de Publicaciones</td>
+    <td colspan="3">Yo, como desarrollador, quiero el Repositorio y Servicios de Publicaciones para establecer el comportamiento de las acciones relacionadas.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Crear Recursos y Transformadores de Publicaciones</td>
+    <td colspan="3">Yo, como desarrollador, quiero Recursos y Transformadores de Publicaciones para tener lo necesario para la comunicación entre la base de datos y la plataforma.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Crear Controlador de Publicaciones</td>
+    <td colspan="3">Yo, como desarrollador, quiero un Controlador de Publicaciones para establecer la reacción de la plataforma ante los distintos Requests.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US35</td>
+    <td colspan="2">Añadir Comentarios mediante RESTful API</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear aggregate de Comentarios</td>
+    <td colspan="3">Yo, como desarrollador, quiero un aggregate de Comentarios para contener los datos importantes de los pedidos.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear Commands y Queries de Comentarios</td>
+    <td colspan="3">Yo, como desarrollador, quiero Commands y Queries de Comentarios para manipular u obtener su información.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear Repositorio y Servicios de Comentarios</td>
+    <td colspan="3">Yo, como desarrollador, quiero el Repositorio y Servicios de Comentarios para establecer el comportamiento de las acciones relacionadas.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Crear Recursos y Transformadores de Comentarios</td>
+    <td colspan="3">Yo, como desarrollador, quiero Recursos y Transformadores de Comentarios para tener lo necesario para la comunicación entre la base de datos y la plataforma.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Crear Controlador de Comentarios</td>
+    <td colspan="3">Yo, como desarrollador, quiero un Controlador de Comentarios para establecer la reacción de la plataforma ante los distintos Requests.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US27</td>
+    <td colspan="2">Visualización de Pedidos</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Pedido</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Pedido para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Pedido</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Pedido para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Distribución</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Distribución para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Distribución</td>
+    <td colspan="3">Yo, como distribuidor, quiero una página de Distribución para ver la Distribución de Pedidos</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">v</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Inventario, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US02</td>
+    <td colspan="2">Selector de Idioma</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Añadir un botón que cambie el idioma del texto mostrado</td>
+    <td colspan="3">Yo, como distribuidor visitante del Landing Page, quiero un selector de idioma para leer el contenido en mi idioma de preferencia.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
 # Conclusiones
 - La aplicación permitirá a los artesanos gestionar eficientemente sus pedidos, materiales y procesos de producción, optimizando su flujo de trabajo. Podrán organizar sus inventarios de manera efectiva mediante un sistema de estanterías y actualizar el progreso de sus pedidos, lo que fomenta la transparencia y la mejora de la planificación.
 - Los distribuidores tendrán visibilidad en tiempo real del estado de los pedidos que realizan a los artesanos, lo que facilita el control del progreso y los plazos de entrega, promoviendo una mayor confianza y satisfacción en la relación comercial.
