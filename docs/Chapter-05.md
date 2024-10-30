@@ -171,7 +171,7 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Sprint n Goal</td>
-    <td colspan="8">Al acabar el Sprint 1, el despliegue del Landing Page debe contar con formularios de contacto y todas las secciones de información pertinentes.</td>
+    <td colspan="8">Nuestro enfoque está en completar el diseño del Landing Page, mostrando información de los creadores, sus formas de contacto, los servicios, los planes y el producto. Creemos que brinda una mejor experiencia de usuario a los visitantes del Landing Page, que verán la información del producto para interesarse en su futura plataforma. Esto se confirmará cuando la Landing Page esté desplegada y se muestre todo satisfactoriamente.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
@@ -217,7 +217,7 @@ una de las tareas identificadas para el sprint.
   <tr>
     <td colspan="1">US25</td>
     <td colspan="2">Visualización de los servicios disponibles</td>
-    <td colspan="1">T02</td>
+    <td colspan="1">T01</td>
     <td colspan="2">Añadir sección Services en el Landing Page</td>
     <td colspan="3">Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero una sección “Services” para informarme sobre los servicios que ofrece la plataforma.</td>
     <td colspan="1">1</td>
@@ -226,7 +226,7 @@ una de las tareas identificadas para el sprint.
 <tr>
     <td colspan="1">US24</td>
     <td colspan="2">Visualización de lista de tipos de suscripción</td>
-    <td colspan="1">T03</td>
+    <td colspan="1">T01</td>
     <td colspan="2">Añadir sección Plans en el Landing Page</td>
     <td colspan="3">Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
     <td colspan="1">1</td>
@@ -236,7 +236,7 @@ una de las tareas identificadas para el sprint.
 <tr>
     <td colspan="1">US23</td>
     <td colspan="2">Visualización de la sección Contact Us</td>
-    <td colspan="1">T04</td>
+    <td colspan="1">T01</td>
     <td colspan="2">Añadir sección Contact Us al Landing Page</td>
     <td colspan="3">Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero una sección “Contact us” para solicitar información acerca de la plataforma</td>
     <td colspan="1">1</td>
@@ -246,7 +246,7 @@ una de las tareas identificadas para el sprint.
 <tr>
     <td colspan="1">US22</td>
     <td colspan="2">Visualización de los desarrolladores</td>
-    <td colspan="1">T05</td>
+    <td colspan="1">T01</td>
     <td colspan="2">Añadir sección Creators al Landing Page</td>
     <td colspan="3">Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero una sección “Creadores” para informarme sobre los desarrolladores de la plataforma.</td>
     <td colspan="1">1</td>
@@ -256,7 +256,7 @@ una de las tareas identificadas para el sprint.
 <tr>
     <td colspan="1">US02</td>
     <td colspan="2">Selector de Idioma</td>
-    <td colspan="1">T06</td>
+    <td colspan="1">T01</td>
     <td colspan="2">Añadir un botón que cambie el idioma del texto mostrado</td>
     <td colspan="3">Yo, como distribuidor visitante del Landing Page, quiero un selector de idioma para leer el contenido en mi idioma de preferencia.</td>
     <td colspan="1">1</td>
@@ -503,7 +503,7 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Sprint n Goal</td>
-    <td colspan="8">Al acabar el Sprint 2, la plataforma de Frontend Web Application deberá contar con las funciones de los Bounded Context de Foro, Perfil, Pedido e Inventario, con un Landing Page actualizado que se conecte via Call-To-Action a la plataforma.</td>
+    <td colspan="8">Nuestro enfoque está en completar la integración y mejora del Landing Page con el Frontend, y la implementación en este último de funcionalidades de perfil, pedidos, inventario, y foro. Creemos que brinda una mejor experiencia de usuario a los visitantes del Landing Page, que se volverán artesanos y compradores que verán la primera versión del Frontend, mostrando el atractivo de swus funciones principales. Esto se confirmará cuando la Landing Page muestre el Call-to-Action para la conexión con el Frontend, el cual esté desarrollado al 45%, y funcione con datos de un Fake API.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
@@ -1570,7 +1570,7 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Sprint n Goal</td>
-    <td colspan="8">Nuestro enfoque está en completar la integración y mejora del Landing Page con el Frontend, y la implementación de endpoints en el Backend. Creemos que brinda una mejor experiencia de usuario a los visitantes del Landing Page, que se volverán artesanos y compradores que aprovecharán las nuevas funciones del Frontend, y que hacen que los desarrolladores se beneficien de la plataforma de Servicios Web creada. Esto se confirmará cuando la Landing Page muestre el Call-to-Action para la conexión con el Frontend, el cual esté desarrollado al 75% y el Backend esté implementado al 50% con los bounded contexts más importantes</td>
+    <td colspan="8">Nuestro enfoque está en completar la integración y mejora del Landing Page con el Frontend, y la implementación de endpoints en el Backend. Creemos que brinda una mejor experiencia de usuario a los visitantes del Landing Page, que se volverán artesanos y compradores que aprovecharán las nuevas funciones del Frontend, y que hacen que los desarrolladores se beneficien de la plataforma de Servicios Web creada. Esto se confirmará cuando la Landing Page muestre el Call-to-Action para la conexión con el Frontend, el cual esté desarrollado al 75% y el Backend esté implementado al 50% con los bounded contexts más importantes.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
