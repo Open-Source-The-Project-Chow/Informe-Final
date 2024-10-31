@@ -3126,7 +3126,7 @@ Para esta primera entrega, nuestro equipo elaboró la primera versión del Backe
     <td>POST</td>
     <td>/api/v1/profiles</td>
     <td>-</td>
-    <td>GET /api/v1/profiles</td>
+    <td>POST /api/v1/profiles</td>
     <td>200 OK: Devuelve el perfil creado.</td>
   </tr>
     <tr>
@@ -3135,7 +3135,7 @@ Para esta primera entrega, nuestro equipo elaboró la primera versión del Backe
     <td>DELETE</td>
     <td>/api/v1/profiles/{profileId}</td>
     <td>Id del Perfil</td>
-    <td>DELETE /api/v1/profiles/{profileId}</td>
+    <td>DELETE /api/v1/profiles/1</td>
     <td>200 OK: Confirma que se borró el perfil.</td>
   </tr>
     </tr>
@@ -3145,8 +3145,172 @@ Para esta primera entrega, nuestro equipo elaboró la primera versión del Backe
     <td>PUT</td>
     <td>/api/v1/profiles/{profileId}</td>
     <td>Id del Perfil</td>
-    <td>PUT /api/v1/profiles/{profileId}</td>
+    <td>PUT /api/v1/profiles/1</td>
     <td>200 OK: Devuelve el perfil actualizado.</td>
+  </tr>
+    <tr>
+    <td>/materials</td>
+    <td>Obtener por Id</td>
+    <td>GET</td>
+    <td>/api/v1/materials/{materialId}</td>
+    <td>Id del Material</td>
+    <td>GET /api/v1/materials/1</td>
+    <td>200 OK: Devuelve el material con el Id indicado.</td>
+  </tr>
+    <tr>
+    <td>/materials</td>
+    <td>Actualizar</td>
+    <td>PUT</td>
+    <td>/api/v1/materials/{materialId}</td>
+    <td>Id del Material</td>
+    <td>PUT /api/v1/materials/1</td>
+    <td>200 OK: Devuelve el material actualizado.</td>
+  </tr>
+    <tr>
+    <td>/materials</td>
+    <td>Borrar</td>
+    <td>DELETE</td>
+    <td>/api/v1/materials/{materialId}</td>
+    <td>Id del Material</td>
+    <td>DELETE /api/v1/materials/1</td>
+    <td>200 OK: Confirma que se borró el material.</td>
+  </tr>
+    <tr>
+    <td>/materials</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/materials/</td>
+    <td>-</td>
+    <td>GET /api/v1/materials/</td>
+    <td>200 OK: Devuelve una lista de todos los materiales.</td>
+  </tr>
+    <tr>
+    <td>/materials</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/materials/</td>
+    <td>-</td>
+    <td>POST /api/v1/materials/</td>
+    <td>200 OK: Devuelve el material creado.</td>
+  </tr>
+    <tr>
+    <td>/posts</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/posts/</td>
+    <td>-</td>
+    <td>GET /api/v1/posts/</td>
+    <td>200 OK: Devuelve una lista de todas las publicaciones.</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>/posts</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/posts/</td>
+    <td>-</td>
+    <td>POST /api/v1/posts/</td>
+    <td>200 OK: Devuelve la publicación creado.</td>
+  </tr>
+    <tr>
+    <td>/posts</td>
+    <td>Obtener por Id</td>
+    <td>GET</td>
+    <td>/api/v1/posts/{postId}</td>
+    <td>Id de la Publicación</td>
+    <td>GET /api/v1/posts/1</td>
+    <td>200 OK: Devuelve la publicación con el Id indicado.</td>
+  </tr>
+    <tr>
+    <td>/posts</td>
+    <td>Borrar</td>
+    <td>DELETE</td>
+    <td>/api/v1/posts/{postId}</td>
+    <td>Id de la Publicación</td>
+    <td>DELETE /api/v1/posts/1</td>
+    <td>200 OK: Confirma que se borró la publicación</td>
+  </tr>
+    <tr>
+    <td>/orders</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/orders/</td>
+    <td>-</td>
+    <td>GET /api/v1/orders/</td>
+    <td>200 OK: Devuelve una lista de todos los pedidos.</td>
+  </tr>
+    <tr>
+    <td>/orders</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/orders/</td>
+    <td>-</td>
+    <td>POST /api/v1/orders/</td>
+    <td>200 OK: Devuelve el pedido creado.</td>
+  </tr>
+    <tr>
+    <td>/orders</td>
+    <td>Crear rechazo</td>
+    <td>POST</td>
+    <td>/api/v1/orders/{orderId}/rejections</td>
+    <td>Id de la Orden</td>
+    <td>POST /api/v1/orders/1/rejections</td>
+    <td>200 OK: Devuelve el pedido con el rechazo creado</td>
+  </tr>
+    <tr>
+    <td>/orders</td>
+    <td>Crear confirmación</td>
+    <td>POST</td>
+    <td>/api/v1/orders/{orderId}/confirmations</td>
+    <td>Id de la Orden</td>
+    <td>POST /api/v1/orders/1/confirmations</td>
+    <td>200 OK: Devuelve el pedido con la confirmación creada</td>
+  </tr>
+    <tr>
+    <td>/orders</td>
+    <td>Obtener por Id</td>
+    <td>GET</td>
+    <td>/api/v1/orders/{orderId}</td>
+    <td>Id de la Orden</td>
+    <td>GET /api/v1/orders/1</td>
+    <td>200 OK: Devuelve el pedido con el Id indicado.</td>
+  </tr>
+    <tr>
+    <td>/inventories</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/inventories/</td>
+    <td>-</td>
+    <td>GET /api/v1/inventories/</td>
+    <td>200 OK: Devuelve una lista de todos los inventarios</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>/inventories</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/inventories/</td>
+    <td>-</td>
+    <td>POST /api/v1/inventories/</td>
+    <td>200 OK: Devuelve el inventario creado.</td>
+  </tr>
+    <tr>
+    <td>/inventories</td>
+    <td>Obtener por Id</td>
+    <td>GET</td>
+    <td>/api/v1/inventories/{inventoryId}</td>
+    <td>Id del Inventario</td>
+    <td>GET /api/v1/inventories/1</td>
+    <td>200 OK: Devuelve el inventario con el Id indicado.</td>
+  </tr>
+    <tr>
+    <td>/inventories</td>
+    <td>Borrar</td>
+    <td>DELETE</td>
+    <td>/api/v1/inventories/{inventoryId}</td>
+    <td>Id del Inventario</td>
+    <td>DELETE /api/v1/inventories/1</td>
+    <td>200 OK: Confirma que se borró el inventario</td>
   </tr>
 </table>
 
