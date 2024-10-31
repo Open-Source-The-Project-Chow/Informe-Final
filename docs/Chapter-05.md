@@ -34,6 +34,7 @@ Para gestionar las modificaciones en nuestro proyecto, emplearemos GitHub como p
 - Repositorio del Frontend: https://github.com/Open-Source-The-Project-Chow/tpc-front-end
 - Enlace del Frontend: https://develop--tpc-front-end-app.netlify.app/
 - Enlace del Fake API: https://github.com/Open-Source-The-Project-Chow/fake-api
+- Repositorio del Backend: https://github.com/Open-Source-The-Project-Chow/tpc-back-end
 
 Para estructurar nuestro control de versiones, implementaremos el modelo GitFlow como nuestro flujo de trabajo estándar. Este modelo se basa en dos ramas principales: main (rama principal) y develop (rama de desarrollo), y varias ramas auxiliares, incluyendo feature, release, y hotfix, cada una con un propósito específico:
 
@@ -1698,7 +1699,7 @@ https://trello.com/b/KzxZCxUG/the-project-chow-202402-wx64-sprint-backlog-3
     <td colspan="3">Yo, como desarrollador, quiero el Repositorio y Servicios de Perfil para establecer el comportamiento de las acciones relacionadas.</td>
     <td colspan="1">2</td>
     <td colspan="2">Marcelo</td>
-    <td colspan="1">To-REview</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1"></td>
@@ -1708,7 +1709,7 @@ https://trello.com/b/KzxZCxUG/the-project-chow-202402-wx64-sprint-backlog-3
     <td colspan="3">Yo, como desarrollador, quiero Recursos y Transformadores de Perfil para tener lo necesario para la comunicación entre la base de datos y la plataforma.</td>
     <td colspan="1">1</td>
     <td colspan="2">Marcelo</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1"></td>
@@ -1718,7 +1719,7 @@ https://trello.com/b/KzxZCxUG/the-project-chow-202402-wx64-sprint-backlog-3
     <td colspan="3">Yo, como desarrollador, quiero un Controlador de Perfil para establecer la reacción de la plataforma ante los distintos Requests.</td>
     <td colspan="1">2</td>
     <td colspan="2">Marcelo</td>
-    <td colspan="1">In-Process</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1">US30</td>
@@ -1748,7 +1749,7 @@ https://trello.com/b/KzxZCxUG/the-project-chow-202402-wx64-sprint-backlog-3
     <td colspan="3">Yo, como desarrollador, quiero el Repositorio y Servicios de Perfil para establecer el comportamiento de las acciones relacionadas.</td>
     <td colspan="1">2</td>
     <td colspan="2">Marcelo</td>
-    <td colspan="1">To-REview</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1"></td>
@@ -1758,7 +1759,7 @@ https://trello.com/b/KzxZCxUG/the-project-chow-202402-wx64-sprint-backlog-3
     <td colspan="3">Yo, como desarrollador, quiero Recursos y Transformadores de Perfil para tener lo necesario para la comunicación entre la base de datos y la plataforma.</td>
     <td colspan="1">1</td>
     <td colspan="2">Marcelo</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1"></td>
@@ -1768,7 +1769,7 @@ https://trello.com/b/KzxZCxUG/the-project-chow-202402-wx64-sprint-backlog-3
     <td colspan="3">Yo, como desarrollador, quiero un Controlador de Perfil para establecer la reacción de la plataforma ante los distintos Requests.</td>
     <td colspan="1">2</td>
     <td colspan="2">Marcelo</td>
-    <td colspan="1">In-Process</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1">US31</td>
@@ -1778,7 +1779,7 @@ https://trello.com/b/KzxZCxUG/the-project-chow-202402-wx64-sprint-backlog-3
     <td colspan="3">Yo, como desarrollador, quiero un aggregate de Pedidos para contener los datos importantes de los pedidos.</td>
     <td colspan="1">2</td>
     <td colspan="2">Salvador</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -1818,7 +1819,7 @@ https://trello.com/b/KzxZCxUG/the-project-chow-202402-wx64-sprint-backlog-3
     <td colspan="3">Yo, como desarrollador, quiero un Controlador de Pedidos para establecer la reacción de la plataforma ante los distintos Requests.</td>
     <td colspan="1">2</td>
     <td colspan="2">Salvador</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1">US32</td>
@@ -1918,7 +1919,7 @@ https://trello.com/b/KzxZCxUG/the-project-chow-202402-wx64-sprint-backlog-3
     <td colspan="3">Yo, como desarrollador, quiero un Controlador de Materiales para establecer la reacción de la plataforma ante los distintos Requests.</td>
     <td colspan="1">2</td>
     <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1">US34</td>
@@ -3316,13 +3317,9 @@ Para esta primera entrega, nuestro equipo elaboró la primera versión del Backe
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Para el despliegue del Backend Web app, hemos utilizado Microsoft Azure, vinculándolo con nuestro repositorio de GitHub para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestro Backend.
+No se logró desplegar el Backend Web app en el internet, así que hemos utilizado localhost para las pruebas, uniéndolo desde nuestro repositorio de GitHub para mostrar un backend completo. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestro Backend.
 
 ![alt text](../assets/img/deploy3-1.png)
-
-Una vez creado el repositorio, entraremos a Azure, vinculamos el repositorio y lo configuramos. Se coloca la información necesaria, como la fuente del branch a utilizar para realizar el deployment. Luego de eso, Netlify nos confirmará el despliegue, al que podremos ingresar.
-
-![alt text](../assets/img/deploy3-2.png)
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -3332,6 +3329,12 @@ Commits:
 ![alt text](../assets/img/insight3-1.png)
 Analiticas de Colaboración:
 ![alt text](../assets/img/insight3-2.png)
+
+## 5.4 Video About-The-Product
+![alt text](../assets/img/about_product.png)
+- Duración: 4:25
+- Link YT: https://youtu.be/Uje7RcCjFtM
+- Link Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/ETc4UeHDV7pCjetbB7WiHoEBuJByFKv5CKBtR28Zx9O5Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RWijEU
 
 # Conclusiones
 - La aplicación permitirá a los artesanos gestionar eficientemente sus pedidos, materiales y procesos de producción, optimizando su flujo de trabajo. Podrán organizar sus inventarios de manera efectiva mediante un sistema de estanterías y actualizar el progreso de sus pedidos, lo que fomenta la transparencia y la mejora de la planificación.
@@ -3351,3 +3354,4 @@ Analiticas de Colaboración:
 # Anexos
 Vídeo TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914367_upc_edu_pe/EWuqLFS88whMoMunE2gQ810B0-5uV8xr3xaeM1rgjdQpvg 
 Vídeo TP: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EUuPTRMQ7cNPrw6odyrcgI0BTeMHg6H9V03t68XRzCt1NQ?e=SH5mna
+Vídeo TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EV3dIfari9BFlILbPig6VsoB1GOQQBlGPZseBB99Dg_TWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rhTX8A
