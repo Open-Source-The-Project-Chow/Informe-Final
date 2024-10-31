@@ -65,10 +65,10 @@ Relación de Integrantes:
     <td colspan="5">- Corregir algunas aspectos mencionados por el profesor<br>- Realizar la primera versión del Frontend<br>- Actulizar los puntos pendientes a falta de historial de commits</td>
   </tr>
  <tr>
-    <td colspan="3"></td>
-    <td colspan="3"></td>
-    <td colspan="10"></td>
-    <td colspan="5"></td>
+    <td colspan="3">6ta</td>
+    <td colspan="3">31/10/2024</td>
+    <td colspan="10">Héctor Marcelo Rentería Puga, Gabriel Stefano Garcia Rodriguez, Bryan Ronald Espejo Gamarra, Diego Flores Avalos, Salvador Edward Chamorro Acero.</td>
+    <td colspan="5">- Realizar la primera versión del Frontend<br>- Actualizar Landing Page<br>- Actualizar Frontend<br>- Corregir algunos aspectos mencionados por el profesor</td>
   </tr>
  <tr>
     <td colspan="3"></td>
