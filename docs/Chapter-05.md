@@ -185,6 +185,9 @@ una de las tareas identificadas para el sprint.
 
 ### 5.2.1.2. Sprint Backlog 1
 
+El enlace a la herramienta de gestión es este:
+https://trello.com/b/A7Pbd0Sc/the-project-chow-202402-wx64-sprint-backlog
+
 <table>
 <tr>
     <th colspan="3">Sprint #</th>
@@ -517,6 +520,9 @@ una de las tareas identificadas para el sprint.
 
 ### 5.2.2.2. Sprint Backlog 2
 
+El enlace a la herramienta de gestión es este:
+https://trello.com/b/zfLCmdBw/the-project-chow-202402-wx64-sprint-backlog-2 
+
 <table>
 <tr>
     <th colspan="3">Sprint #</th>
@@ -537,7 +543,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
 </tr>
   <tr>
-    <td colspan="1">US07</td>
+    <td colspan="1">US27</td>
     <td colspan="2">Visualización de Pedidos</td>
     <td colspan="1">T01</td>
     <td colspan="2">Crear entidad de Pedidos</td>
@@ -1502,7 +1508,65 @@ Para esta primera entrega, nuestro equipo elaboró la primera versión del Front
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-En este sprint, no se desarrollaron Web Services.
+<table>
+  <tr>
+    <th>Endpoint</th>
+    <th>Acción</th>
+    <th>Verbo HTTP</th>
+    <th>Sintaxis de Llamada</th>
+    <th>Parámetros</th>
+    <th>Ejemplo de Llamada</th>
+    <th>Explicación del Response</th>
+  </tr>
+  <tr>
+    <td>/post</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/post</td>
+    <td>-</td>
+    <td>GET /api/v1/post</td>
+    <td>200 OK: Devuelve una lista de todos las publicaciones</td>
+  </tr>
+    <tr>
+    <td>/materials</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/materials</td>
+    <td>-</td>
+    <td>GET /api/v1/materials</td>
+    <td>200 OK: Devuelve una lista de todos los materiales</td>
+  </tr>
+    <tr>
+    <td>/profile</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/profile</td>
+    <td>-</td>
+    <td>GET /api/v1/profile</td>
+    <td>200 OK: Devuelve una lista de todos los perfiles</td>
+  </tr>
+    <tr>
+    <td>/order</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/order</td>
+    <td>-</td>
+    <td>GET /api/v1/order</td>
+    <td>200 OK: Devuelve una lista de todos los pedidos</td>
+  </tr>
+</table>
+
+**Url del repositorio:**
+
+Enlace al repositorio del Fake-Api: https://github.com/Open-Source-The-Project-Chow/fake-api
+
+Enlace del Endpoint de Publicaciones: https://my-json-server.typicode.com/Open-Source-The-Project-Chow/fake-api/post
+
+Enlace del Endpoint de Materiales: https://my-json-server.typicode.com/Open-Source-The-Project-Chow/fake-api/materials
+
+Enlace del Endpoint de Perfiles: https://my-json-server.typicode.com/Open-Source-The-Project-Chow/fake-api/profile
+
+Enlace del Endpoint de Pedidos: https://my-json-server.typicode.com/Open-Source-The-Project-Chow/fake-api/order
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -1525,7 +1589,7 @@ Analiticas de Colaboración:
 
 ### 5.2.3. Sprint 3
 
-### 5.2.2.1. Sprint Planning 3
+### 5.2.3.1. Sprint Planning 3
 
 Para este tercer sprint nos enfocaremos en los tasks para la
 segunda versión del Frontend Web Application, y la primera versión del Backedn Web Application. Nos dividiremos entre nosotros cada
@@ -1578,11 +1642,14 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8">23 Story Points</td>
+    <td colspan="8">36 Story Points</td>
 </tr>
 </table>
 
-### 5.2.2.2. Sprint Backlog 2
+### 5.2.3.2. Sprint Backlog 3
+
+El enlace a la herramienta de gestión es este:
+https://trello.com/b/KzxZCxUG/the-project-chow-202402-wx64-sprint-backlog-3
 
 <table>
 <tr>
@@ -1956,62 +2023,12 @@ una de las tareas identificadas para el sprint.
     <tr>
     <td colspan="1">US27</td>
     <td colspan="2">Visualización de Pedidos</td>
-    <td colspan="1">T01</td>
-    <td colspan="2">Crear entidad de Pedido</td>
-    <td colspan="3">Yo, como desarrollador, quiero una entidad de Pedido para relacionarla con las funciones del Frontend.</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Bryan</td>
-    <td colspan="1">Done</td>
-  </tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">T02</td>
-    <td colspan="2">Crear servicio de Pedido</td>
-    <td colspan="3">Yo, como desarrollador, quiero un servicio de Pedido para conectar con el Fake-API.</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Bryan</td>
-    <td colspan="1">To-Review</td>
-  </tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">T03</td>
-    <td colspan="2">Crear componente de Distribución</td>
-    <td colspan="3">Yo, como desarrollador, quiero un componente de Distribución para implementar su comportamiento.</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Bryan</td>
-    <td colspan="1">In-Process</td>
-  </tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">T04</td>
-    <td colspan="2">Diseñar página de Distribución</td>
-    <td colspan="3">Yo, como distribuidor, quiero una página de Distribución para ver la Distribución de Pedidos</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Bryan</td>
-    <td colspan="1">Done</td>
-  </tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
     <td colspan="1">T05</td>
     <td colspan="2">Conectar Fake API</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
     <td colspan="1">3</td>
     <td colspan="2">v</td>
     <td colspan="1">To-Do</td>
-  </tr>
-    <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">T06</td>
-    <td colspan="2">Conectar enrutamiento</td>
-    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Inventario, para hacerla accesible.</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Salvador</td>
-    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1">US02</td>
@@ -2023,7 +2040,1134 @@ una de las tareas identificadas para el sprint.
     <td colspan="2">Marcelo</td>
     <td colspan="1">Done</td>
 </tr>
+    <tr>
+    <td colspan="1">US05</td>
+    <td colspan="2">Actualizar Progreso</td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Pedido</td>
+    <td colspan="3">Yo, como artesano, quiero una página de un Pedido en particular para interactuar con él.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de pedido, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+  <tr>
+    <td colspan="1">US12</td>
+    <td colspan="2">Crear inventario</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Inventario para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Inventario para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Inventario para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+  <tr>
+    <td colspan="1">US18</td>
+    <td colspan="2">Crear Publicación</td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Crear Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Crear Publicación para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">InProcess</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US06</td>
+    <td colspan="2">Visualización de perfil de usuario propio.</td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Perfil para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+    <tr>
+    <td colspan="1">US26</td>
+    <td colspan="2">Manejo de Distribución de Pedidos</td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Inventario, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">In-Process</td>
+  </tr>
 </table>
+
+### 5.2.3.3. Development Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">90b93974b990a6787a7f7c67e2aec5b6a6e506bb</td>
+        <td colspan="2">chore: Setup project.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">12/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">2df0e3045273d23503738515ac0988b65f282da9</td>
+        <td colspan="2">Update pom.xml</td>
+        <td colspan="2">-</td>
+        <td colspan="2">12/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">a88c2cbdf4edd171a95875dbe472c4daeb1ffefc</td>
+        <td colspan="2">feat(shared): added OpenApi configurations.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">276fe98b6315f73279ec5674e88159fd1a279a8c</td>
+        <td colspan="2">feat(shared): added OpenApi dependencies.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">2f40de87f8e593e83491e8bfd8b17e7e5fae6ecb</td>
+        <td colspan="2">feat(shared): added naming strategy.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">09f60e759bdd5471b98d98171cf603f6193f6506</td>
+        <td colspan="2">feat(shared): added Auditable model.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">442d6f909c71852c1da910a9d1f91f90fc982684</td>
+        <td colspan="2">chore: updated application properties</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory</td>
+        <td colspan="2">eb622edc4282167346030d62f8dffc4a1bfbb04e</td>
+        <td colspan="2">feat(inventories): added domain command and queries.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory</td>
+        <td colspan="2">3c0175fd4773edecffe7bba3ea41ff964698b73a</td>
+        <td colspan="2">feat(inventories): added domain commands and MaterialCommandService.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory</td>
+        <td colspan="2">d24eb6fc70a71e78fcc6d52f35137bcee328c92d</td>
+        <td colspan="2">feat(inventories): added material context.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory</td>
+        <td colspan="2">86b6974d9baad0017ae0f1928c9553a78a6bf019</td>
+        <td colspan="2">feat(inventories): added material query service.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory</td>
+        <td colspan="2">a25fbe858c5ccedb91a66c30418d30315d4ee1c7</td>
+        <td colspan="2">feat(inventories): added material repository.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory</td>
+        <td colspan="2">930b7c504cdf9929cc97ac82272d66c836b5b7cc</td>
+        <td colspan="2">feat(inventories): added material command and query services implementation.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory</td>
+        <td colspan="2">5e9632162ac6fe5b79d3906297f58ab380543459</td>
+        <td colspan="2">feat(inventories): added material resources.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory</td>
+        <td colspan="2">c4fafa80fda163020e01dae36b2a34c8ca46131c</td>
+        <td colspan="2">feat(inventories): added material controller.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">8b4cf0f6d83d43e74711244fa3ebbb35ff0eecfa</td>
+        <td colspan="2">feat(forum): add post aggregate.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">26/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">425338c670d189f498853da0477e1566b8546e61</td>
+        <td colspan="2">feat(forum): add commands and queries.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">26/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">299878128baf0124ec7ed1488b01fe2eb9f2b576</td>
+        <td colspan="2">feat(forum): add post service.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">26/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">456297f4ccde9a61369877ec1b3ab339c74fb86b</td>
+        <td colspan="2">feat(forum): add post command and query service implementations.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">26/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">c61cacbff1c1d73b07e492675fb95a07981f6c3f</td>
+        <td colspan="2">feat(forum): add interface layer resource and transform types.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">26/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">0ead539294506be5f05dbc5c35a022e0853d428f</td>
+        <td colspan="2">feat(forum): add post repository.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">26/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">49c5729487f86ec7007c01d3149237259dd9ad5d</td>
+        <td colspan="2">feat: add comment aggregate.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">eeedbba883617e2e5424b8e4ce6a3949b8b55a1d</td>
+        <td colspan="2">feat: add command and query services.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">1f68525e8261ad7793d57249d09fbc5ce6cfeaab</td>
+        <td colspan="2">feat: add command and query implementation.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">ba8a54368529905e837a3cb91bb898b5d096e0ee</td>
+        <td colspan="2">feat: add commment repository.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">e5f7446eac726ef534b1f07c50be548c1ef2b333</td>
+        <td colspan="2">feat: add resource and transform query and command.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">e735bbdce0273e30612a03ffe2fbd97aee2b9d02</td>
+        <td colspan="2">feat: add comment controller.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profile</td>
+        <td colspan="2">769fb898597bc0f6cab334a0ae7b99070cd758b8</td>
+        <td colspan="2">feat(profile): Add Profile aggregate.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profile</td>
+        <td colspan="2">2a8eaa1fed6025fafd0ab02b1cd58e6d63d7fcf5</td>
+        <td colspan="2">feat(profile): Add Profile commands and queries.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profile</td>
+        <td colspan="2">7c2566945a6dae1ad2e55b304fb3d64b488b61f9</td>
+        <td colspan="2">feat(profile): Add Profile services.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profile</td>
+        <td colspan="2">3ee4dd91e5864876dc534b8cb61b55788289bdba</td>
+        <td colspan="2">feat(profile): Add Profile repository.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profile</td>
+        <td colspan="2">699ca164d87bcb1cc2bb95eb2a98b5b57a7dd29f</td>
+        <td colspan="2">feat(profile): Add Profile service implementations.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profile</td>
+        <td colspan="2">d75c71a87b59e62cb27e84ac8c512ec6c4a9c4c9</td>
+        <td colspan="2">feat(profile): Add Profile resources and a missing command.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profile</td>
+        <td colspan="2">a3fc3080c530731d776928d3b66948adbf55b31a</td>
+        <td colspan="2">feat(profile): Add Profile transformers.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profile</td>
+        <td colspan="2">4fd4f43f6eab3052135fb83fe772dd41f43a73ee</td>
+        <td colspan="2">feat(profile): Add Profile controller.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">f9b6a0e35d0623668a5d8c9eca2dd873dd6b2921</td>
+        <td colspan="2">feat(inventories): added inventory aggregate.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">c830d20cfe2a303886b75284ba0bd680e2f88ed1</td>
+        <td colspan="2">feat(inventories): added inventory queries.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">fd59866402b42a32f767773a95f85ee061be4d38</td>
+        <td colspan="2">feat(inventories): added inventory repositories.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">31db992d154f98fc54f853e4bb65ba924e4e5323</td>
+        <td colspan="2">feat(inventories): added inventory services.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">1958d74ec916e846f00e2d2b74e1d79de6a97678</td>
+        <td colspan="2">feat(inventories): added inventory resources.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">5a2fc380af46c16ba40ad450ce52908d7d630016</td>
+        <td colspan="2">feat(inventories): added inventory transform.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">0ce2950ad279e03612d048909d89d2f91328526a</td>
+        <td colspan="2">feat(inventories): added inventory command services.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">0a2a73fed237f371902dd33d67f5327475d9dde2</td>
+        <td colspan="2">feat(inventories): added inventory commands.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">cb37dd8a63980293d0b7f1db14f48e391004e142</td>
+        <td colspan="2">feat(inventories): added inventory rest.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">13a0155c148dd0303f74426d3fb540acf57620a6</td>
+        <td colspan="2">feat(inventories): added inventory services.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">78b3853a08f4575813da1160bfd2c64ba202c027</td>
+        <td colspan="2">feat(inventories): added command in pom.xml.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/items</td>
+        <td colspan="2">d1790dd8c53f2ab3ea3e0533a5ad2f1942f23032</td>
+        <td colspan="2">feat(items): added aggregates</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/items</td>
+        <td colspan="2">92ccd299f764cd57459dbe8fdd27c47d38828a10</td>
+        <td colspan="2">feat(items): added commands</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/items</td>
+        <td colspan="2">3a2160dcb4480742e629430a88e8e62d86d08c06</td>
+        <td colspan="2">feat(items): added queries</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/items</td>
+        <td colspan="2">d402fc3172ddd3547bd26d97eee573f0975f74ee</td>
+        <td colspan="2">feat(items): added valuobjects</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/items</td>
+        <td colspan="2">70a5bea33b8a4c047283941def591db5b9a9c38b</td>
+        <td colspan="2">feat(items): added services</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/items</td>
+        <td colspan="2">571766a0eecdc91e88d1d1c16384746d95418811</td>
+        <td colspan="2">feat(items): added OrderRepository</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/items</td>
+        <td colspan="2">62595af4c114e173d9ae6b27afc3102e76843c85</td>
+        <td colspan="2">feat(items): added interfaces</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profiles</td>
+        <td colspan="2">a691ae5ed1a1af2947aeb41340a3eba68360d419</td>
+        <td colspan="2">feat(profile): Added Get By Status action.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profiles</td>
+        <td colspan="2">2f6d3e208e0b182bf331a6116b5e9434e6a7b4d1</td>
+        <td colspan="2">feat(profile): Added Update By Id action.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+</table>
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">90b93974b990a6787a7f7c67e2aec5b6a6e506bb</td>
+        <td colspan="2">chore: Setup project.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">12/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">2df0e3045273d23503738515ac0988b65f282da9</td>
+        <td colspan="2">Update pom.xml</td>
+        <td colspan="2">-</td>
+        <td colspan="2">12/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">a88c2cbdf4edd171a95875dbe472c4daeb1ffefc</td>
+        <td colspan="2">feat(shared): added OpenApi configurations.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">276fe98b6315f73279ec5674e88159fd1a279a8c</td>
+        <td colspan="2">feat(shared): added OpenApi dependencies.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">2f40de87f8e593e83491e8bfd8b17e7e5fae6ecb</td>
+        <td colspan="2">feat(shared): added naming strategy.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">09f60e759bdd5471b98d98171cf603f6193f6506</td>
+        <td colspan="2">feat(shared): added Auditable model.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">442d6f909c71852c1da910a9d1f91f90fc982684</td>
+        <td colspan="2">chore: updated application properties</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory</td>
+        <td colspan="2">eb622edc4282167346030d62f8dffc4a1bfbb04e</td>
+        <td colspan="2">feat(inventories): added domain command and queries.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory</td>
+        <td colspan="2">3c0175fd4773edecffe7bba3ea41ff964698b73a</td>
+        <td colspan="2">feat(inventories): added domain commands and MaterialCommandService.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">17/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory</td>
+        <td colspan="2">d24eb6fc70a71e78fcc6d52f35137bcee328c92d</td>
+        <td colspan="2">feat(inventories): added material context.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory</td>
+        <td colspan="2">86b6974d9baad0017ae0f1928c9553a78a6bf019</td>
+        <td colspan="2">feat(inventories): added material query service.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory</td>
+        <td colspan="2">a25fbe858c5ccedb91a66c30418d30315d4ee1c7</td>
+        <td colspan="2">feat(inventories): added material repository.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory</td>
+        <td colspan="2">930b7c504cdf9929cc97ac82272d66c836b5b7cc</td>
+        <td colspan="2">feat(inventories): added material command and query services implementation.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory</td>
+        <td colspan="2">5e9632162ac6fe5b79d3906297f58ab380543459</td>
+        <td colspan="2">feat(inventories): added material resources.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory</td>
+        <td colspan="2">c4fafa80fda163020e01dae36b2a34c8ca46131c</td>
+        <td colspan="2">feat(inventories): added material controller.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">20/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">8b4cf0f6d83d43e74711244fa3ebbb35ff0eecfa</td>
+        <td colspan="2">feat(forum): add post aggregate.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">26/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">425338c670d189f498853da0477e1566b8546e61</td>
+        <td colspan="2">feat(forum): add commands and queries.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">26/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">299878128baf0124ec7ed1488b01fe2eb9f2b576</td>
+        <td colspan="2">feat(forum): add post service.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">26/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">456297f4ccde9a61369877ec1b3ab339c74fb86b</td>
+        <td colspan="2">feat(forum): add post command and query service implementations.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">26/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">c61cacbff1c1d73b07e492675fb95a07981f6c3f</td>
+        <td colspan="2">feat(forum): add interface layer resource and transform types.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">26/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">0ead539294506be5f05dbc5c35a022e0853d428f</td>
+        <td colspan="2">feat(forum): add post repository.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">26/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">49c5729487f86ec7007c01d3149237259dd9ad5d</td>
+        <td colspan="2">feat: add comment aggregate.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">eeedbba883617e2e5424b8e4ce6a3949b8b55a1d</td>
+        <td colspan="2">feat: add command and query services.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">1f68525e8261ad7793d57249d09fbc5ce6cfeaab</td>
+        <td colspan="2">feat: add command and query implementation.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">ba8a54368529905e837a3cb91bb898b5d096e0ee</td>
+        <td colspan="2">feat: add commment repository.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">e5f7446eac726ef534b1f07c50be548c1ef2b333</td>
+        <td colspan="2">feat: add resource and transform query and command.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/forum</td>
+        <td colspan="2">e735bbdce0273e30612a03ffe2fbd97aee2b9d02</td>
+        <td colspan="2">feat: add comment controller.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">28/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profile</td>
+        <td colspan="2">769fb898597bc0f6cab334a0ae7b99070cd758b8</td>
+        <td colspan="2">feat(profile): Add Profile aggregate.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profile</td>
+        <td colspan="2">2a8eaa1fed6025fafd0ab02b1cd58e6d63d7fcf5</td>
+        <td colspan="2">feat(profile): Add Profile commands and queries.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profile</td>
+        <td colspan="2">7c2566945a6dae1ad2e55b304fb3d64b488b61f9</td>
+        <td colspan="2">feat(profile): Add Profile services.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profile</td>
+        <td colspan="2">3ee4dd91e5864876dc534b8cb61b55788289bdba</td>
+        <td colspan="2">feat(profile): Add Profile repository.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profile</td>
+        <td colspan="2">699ca164d87bcb1cc2bb95eb2a98b5b57a7dd29f</td>
+        <td colspan="2">feat(profile): Add Profile service implementations.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profile</td>
+        <td colspan="2">d75c71a87b59e62cb27e84ac8c512ec6c4a9c4c9</td>
+        <td colspan="2">feat(profile): Add Profile resources and a missing command.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profile</td>
+        <td colspan="2">a3fc3080c530731d776928d3b66948adbf55b31a</td>
+        <td colspan="2">feat(profile): Add Profile transformers.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profile</td>
+        <td colspan="2">4fd4f43f6eab3052135fb83fe772dd41f43a73ee</td>
+        <td colspan="2">feat(profile): Add Profile controller.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">f9b6a0e35d0623668a5d8c9eca2dd873dd6b2921</td>
+        <td colspan="2">feat(inventories): added inventory aggregate.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">c830d20cfe2a303886b75284ba0bd680e2f88ed1</td>
+        <td colspan="2">feat(inventories): added inventory queries.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">fd59866402b42a32f767773a95f85ee061be4d38</td>
+        <td colspan="2">feat(inventories): added inventory repositories.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">31db992d154f98fc54f853e4bb65ba924e4e5323</td>
+        <td colspan="2">feat(inventories): added inventory services.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">1958d74ec916e846f00e2d2b74e1d79de6a97678</td>
+        <td colspan="2">feat(inventories): added inventory resources.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">5a2fc380af46c16ba40ad450ce52908d7d630016</td>
+        <td colspan="2">feat(inventories): added inventory transform.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">0ce2950ad279e03612d048909d89d2f91328526a</td>
+        <td colspan="2">feat(inventories): added inventory command services.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">0a2a73fed237f371902dd33d67f5327475d9dde2</td>
+        <td colspan="2">feat(inventories): added inventory commands.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">cb37dd8a63980293d0b7f1db14f48e391004e142</td>
+        <td colspan="2">feat(inventories): added inventory rest.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">13a0155c148dd0303f74426d3fb540acf57620a6</td>
+        <td colspan="2">feat(inventories): added inventory services.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/inventory-material</td>
+        <td colspan="2">78b3853a08f4575813da1160bfd2c64ba202c027</td>
+        <td colspan="2">feat(inventories): added command in pom.xml.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/items</td>
+        <td colspan="2">d1790dd8c53f2ab3ea3e0533a5ad2f1942f23032</td>
+        <td colspan="2">feat(items): added aggregates</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/items</td>
+        <td colspan="2">92ccd299f764cd57459dbe8fdd27c47d38828a10</td>
+        <td colspan="2">feat(items): added commands</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/items</td>
+        <td colspan="2">3a2160dcb4480742e629430a88e8e62d86d08c06</td>
+        <td colspan="2">feat(items): added queries</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/items</td>
+        <td colspan="2">d402fc3172ddd3547bd26d97eee573f0975f74ee</td>
+        <td colspan="2">feat(items): added valuobjects</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/items</td>
+        <td colspan="2">70a5bea33b8a4c047283941def591db5b9a9c38b</td>
+        <td colspan="2">feat(items): added services</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/items</td>
+        <td colspan="2">571766a0eecdc91e88d1d1c16384746d95418811</td>
+        <td colspan="2">feat(items): added OrderRepository</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/items</td>
+        <td colspan="2">62595af4c114e173d9ae6b27afc3102e76843c85</td>
+        <td colspan="2">feat(items): added interfaces</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profiles</td>
+        <td colspan="2">a691ae5ed1a1af2947aeb41340a3eba68360d419</td>
+        <td colspan="2">feat(profile): Added Get By Status action.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-bakck-end</td>
+        <td colspan="2">feature/profiles</td>
+        <td colspan="2">2f6d3e208e0b182bf331a6116b5e9434e6a7b4d1</td>
+        <td colspan="2">feat(profile): Added Update By Id action.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+</table>
+
+### 5.2.3.5. Execution Evidence for Sprint Review
+
+Para esta primera entrega, nuestro equipo elaboró la primera versión del Backend Web App del proyecto "CraftSync". De tal modo, se podrá visualizar una versión simple de las funcionalidades del proyecto.
+
+**Endpoint Perfiles**: Se implementó el endpoint de Perfiles de usuario.
+![alt text](../assets/img/evidence3-1.png)
+**Endpoint Inventario**: Se implementó el endpoint de Inventarios y Materiales.
+![alt text](../assets/img/evidence3-2.png)
+**Endpoint Publicaciones**: Se implementó el endpoint de Publicaciones.
+![alt text](../assets/img/evidence3-3.png)
+**Endpoint Pedidos**: Se implementó el endpoint de Pedidos.
+![alt text](../assets/img/evidence3-4.png)
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+<table>
+  <tr>
+    <th>Endpoint</th>
+    <th>Acción</th>
+    <th>Verbo HTTP</th>
+    <th>Sintaxis de Llamada</th>
+    <th>Parámetros</th>
+    <th>Ejemplo de Llamada</th>
+    <th>Explicación del Response</th>
+  </tr>
+  <tr>
+    <td>/profiles</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/profiles</td>
+    <td>-</td>
+    <td>GET /api/v1/profiles</td>
+    <td>200 OK: Devuelve una lista de todos los perfiles</td>
+  </tr>
+  <tr>
+    <td>/profiles</td>
+    <td>Obtener	por Id</td>
+    <td>GET</td>
+    <td>/api/v1/profiles/{profileid}</td>
+    <td>ID del Perfil</td>
+    <td>GET /api/v1/profiles/1</td>
+    <td>200 OK: Devuelve los detalles del perfil con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/profiles</td>
+    <td>Obtener por Estado</td>
+    <td>GET</td>
+    <td>/api/v1/profiles/status/{status}</td>
+    <td>Estado del perfil</td>
+    <td>GET /api/v1/profiles/status/Craftsman</td>
+    <td>200 OK: Devuelve los detalles del perfil con el estado especificado.</td>
+  </tr>
+  <tr>
+    <td>/profiles</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/profiles</td>
+    <td>-</td>
+    <td>GET /api/v1/profiles</td>
+    <td>200 OK: Devuelve el perfil creado.</td>
+  </tr>
+    <tr>
+    <td>/profiles</td>
+    <td>Borrar</td>
+    <td>DELETE</td>
+    <td>/api/v1/profiles/{profileId}</td>
+    <td>Id del Perfil</td>
+    <td>DELETE /api/v1/profiles/{profileId}</td>
+    <td>200 OK: Confirma que se borró el perfil.</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>/profiles</td>
+    <td>Actualizar</td>
+    <td>PUT</td>
+    <td>/api/v1/profiles/{profileId}</td>
+    <td>Id del Perfil</td>
+    <td>PUT /api/v1/profiles/{profileId}</td>
+    <td>200 OK: Devuelve el perfil actualizado.</td>
+  </tr>
+</table>
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para el despliegue del Backend Web app, hemos utilizado Microsoft Azure, vinculándolo con nuestro repositorio de GitHub para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestro Backend.
+
+![alt text](../assets/img/deploy3-1.png)
+
+Una vez creado el repositorio, entraremos a Azure, vinculamos el repositorio y lo configuramos. Se coloca la información necesaria, como la fuente del branch a utilizar para realizar el deployment. Luego de eso, Netlify nos confirmará el despliegue, al que podremos ingresar.
+
+![alt text](../assets/img/deploy3-2.png)
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+Commits:
+![alt text](../assets/img/insight3-1.png)
+Analiticas de Colaboración:
+![alt text](../assets/img/insight3-2.png)
 
 # Conclusiones
 - La aplicación permitirá a los artesanos gestionar eficientemente sus pedidos, materiales y procesos de producción, optimizando su flujo de trabajo. Podrán organizar sus inventarios de manera efectiva mediante un sistema de estanterías y actualizar el progreso de sus pedidos, lo que fomenta la transparencia y la mejora de la planificación.
