@@ -304,8 +304,8 @@ Estas son las partes del Mock-Up dedicadas al inventario y su manipulación, aba
 Estas son las partes del Mock-Up dedicadas a la distribución de pedidos ya listos, abarcando la lista de compradores y pedidos, sus detalles, los filtros y la interacción con estos.
 ![alt text](../assets/img/Distribución.png)
 ![alt text](../assets/img/Distribución-F.png)
-![alt text](../assets/img/VerPedido.png)
-![alt text](../assets/img/MoverD.png)
+![alt text](../assets/img/RevisarPedido.png)
+![alt text](../assets/img/MoverTodoD.png)
 ![alt text](../assets/img/EliminarD.png)
 
 **Foro Artesano:**
