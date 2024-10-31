@@ -276,6 +276,7 @@ Estas son las partes del Mock-Up dedicadas a la lista y visualización de pedido
 ![alt text](../assets/img/Pedidos.png)
 ![alt text](../assets/img/Filtro-1.png)
 ![alt text](../assets/img/Filtro-2.png)
+![alt text](../assets/img/Crear-Pedido.png)
 ![alt text](../assets/img/Pedido.png)
 ![alt text](../assets/img/Pedido-E.png)
 ![alt text](../assets/img/Pedido-Estado.png)
@@ -326,6 +327,9 @@ Estas son las partes del Mock-Up dedicadas al perfil propio y de otros desde el 
 ![alt text](../assets/img/Perfil.png)
 ![alt text](../assets/img/Editar-Perfil.png)
 ![alt text](../assets/img/Perfil-2.png)
+![alt text](../assets/img/PerfilesD.png)
+![alt text](../assets/img/PerfilesD-F1.png)
+![alt text](../assets/img/PerfilesD-F2.png)
 ![alt text](../assets/img/Distruibuidor.png)
 ![alt text](../assets/img/Distruibuidor-2.png)
 
@@ -334,6 +338,9 @@ Estas son las partes del Mock-Up dedicadas al perfil propio y de otros desde el 
 ![alt text](../assets/img/Perfil-D.png)
 ![alt text](../assets/img/Editar-Perfil-D.png)
 ![alt text](../assets/img/Perfil-2-D.png)
+![alt text](../assets/img/PerfilesA.png)
+![alt text](../assets/img/PerfilesA-F1.png)
+![alt text](../assets/img/PerfilesA-F2.png)
 ![alt text](../assets/img/Artesano.png)
 ![alt text](../assets/img/NuevoPedido.png)
 
