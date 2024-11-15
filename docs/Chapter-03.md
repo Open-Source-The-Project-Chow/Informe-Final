@@ -1,14 +1,19 @@
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+En esta sección, se describirán los escenarios "To-Be" correspondientes a los dos segmentos de usuarios objetivo: artesanos y distribuidores. Estos escenarios representan la situación futura en la que se encontrarán los usuarios después de utilizar la aplicacións. A través de estos escenarios, se analizarán las mejoras y beneficios que experimentarán los usuarios en sus respectivas situaciones y se destacarán las áreas en las que podemos proporcionar un valor adicional significativo y mejorar su experiencia. 
 
 Segmento objetivo artesanos:
 
 ![artesanos-to-be](/assets/img/artesano-to-be.png)
 
+Se puede notar como el artesano tiene una mejor experiencia debido a la agilización y facilidad que trae CraftSync a sus procesos usuales de manejo de pedidos e inventario.
+
 Segmento objetivo distribuidores:
 
 ![distribuidores-to-be](/assets/img/distribuidor-to-be.png)
+
+Se puede notar como el artesano tiene una mejor experiencia debido a la comodidad que trae CraftSync al permitirle manejar sus pedidos de forma sencilla.
 
 ## 3.2. User Stories
 
@@ -73,41 +78,41 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     </tr>
     <tr>
         <td>US01</td>
-        <td>Sección About Us</td>
+        <td>Ver Sección About Us</td>
         <td>Yo, como distribuidor visitante del Landing Page, quiero una sección About Us para informarme sobre la empresa y sus detalles.</td>
         <td>
             Scenario: Visualización de una sección About Us<br><br>
             GIVEN un distribuidor visita la Landing Page,<br>
-            WHEN baje hasta la sección de "About Us",<br>
+            WHEN llegue a la sección de "About Us",<br>
             THEN se le brinda información acerca de la empresa cuyos servicios le interesan.
         </td>
         <td>EP01</td>
     </tr>
     <tr>
         <td>US02</td>
-        <td>Selector de Idioma</td>
+        <td>Selcionar Idioma</td>
         <td>Yo, como distribuidor visitante del Landing Page, quiero un selector de idioma para leer el contenido en mi idioma de preferencia.</td>
         <td>
             Scenario: Cambio de inglés a español<br><br>
             GIVEN un distribuidor visita la Landing Page,<br>
-            WHEN presione el selector de idioma<br>
-            THEN el contenido de la página se muestra en español<br><br>
+            WHEN active el selector de idioma<br>
+            THEN el contenido se muestra en español<br><br>
             Scenario 2: Cambio de español a inglés<br><br>
             GIVEN un distribuidor visita la Landing Page,<br>
             AND el contenido esté en español<br>
-            WHEN presione el selector de idioma<br>
-            THEN el contenido de la página se muestra en inglés
+            WHEN active el selector de idioma<br>
+            THEN el contenido se muestra en inglés
         </td>
         <td>EP01</td>
     </tr>
     <tr>
         <td>US03</td>
-        <td>Solicitud de Trabajo</td>
+        <td>Solicitar Trabajo</td>
         <td>Yo, como artesano usuario de la plataforma, quiero mandar solicitudes a los distribuidores, para obtener pedidos de su parte.</td>
         <td>
             Scenario 1: Artesano manda una solicitud<br><br>
             GIVEN el artesano está en el perfil de un distribuidor<br>
-            WHEN el artesano seleccione la opción de Solicitar Trabajo<br>
+            WHEN el artesano seleccione Solicitar Trabajo<br>
             THEN se notifica al distribuidor de la solicitud
         </td>
         <td>EP03</td>
@@ -120,8 +125,8 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
             Scenario 1: Distribuidor asigna un pedido<br><br>
             GIVEN el distribuidor está en el perfil de un artesano<br>
             AND el artesano le ha mandado una solicitud de trabajo<br>
-            WHEN el distribuidor seleccione la opción de Asignar Pedidos<br>
-            AND rellene los datos necesarios<br>
+            WHEN el distribuidor seleccione Asignar Pedidos<br>
+            AND indique los datos necesarios<br>
             THEN el pedido aparece en la lista del artesano
         </td>
         <td>EP03</td>
@@ -132,7 +137,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>Yo, como usuario artesano de la plataforma, quiero actualizar los detalles del pedido, para mantener informado al distribuidor.</td>
         <td>
             Scenario 1: Cambiar la cantidad de pedidos hechos<br><br>
-            GIVEN el artesano está en viendo un pedido<br>
+            GIVEN el artesano está viendo un pedido<br>
             AND haya avanzado con el progreso<br>
             WHEN edite la cantidad de pedidos hechos<br>
             AND guarde los cambios<br>
@@ -142,11 +147,11 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     </tr>
     <tr>
         <td>US06</td>
-        <td>Visualización de perfil de usuario propio.</td>
+        <td>Visualizar perfil de usuario propio.</td>
         <td>Como Artesano/Distribuidor usuario de la plataforma, quiero visualizar mi perfil para verificar que mi información es correcta.</td>
         <td>
             Scenario 1: Artesano/Distribuidor visualiza su perfil de usuario<br><br>
-            GIVEN el Artesano/Distribuidor está en la barra de navegación<br>
+            GIVEN el Artesano/Distribuidor está en la plataforma<br>
             WHEN el Artesano/Distribuidor ingrese a la sección "Perfil",<br>
             THEN obtiene acceso a toda la información de su perfil de usuario.
         </td>
@@ -154,35 +159,36 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     </tr>
     <tr>
         <td>US07</td>
-        <td>Visualización de otros perfiles de usuario</td>
+        <td>Visualizar otros perfiles de usuario</td>
         <td>Como Artesano/Distribuidor usuario de la plataforma, quiero visualizar otros perfiles de usuario para ver su información e interactuar.</td>
         <td>
             Scenario 1: Artesano/Distribuidor visualiza el perfil de otros usuarios desde la barra de búsqueda<br><br>
             GIVEN el Artesano/Distribuidor está en la barra de búsqueda,<br>
-            WHEN el Artesano/Distribuidor seleccione a un usuario<br>
+            WHEN el Artesano/Distribuidor elija a un usuario<br>
             THEN obtiene la información del perfil de usuario seleccionado.<br><br>
             Scenario 2: Artesano/Distribuidor visualiza el perfil de otros usuarios desde una publicación<br><br>
             GIVEN el Artesano/Distribuidor  está en el foro,<br>
-            WHEN el Artesano/Distribuidor  seleccione a un usuario<br>
+            WHEN el Artesano/Distribuidor  elija a un usuario<br>
             THEN obtiene la información del perfil de usuario seleccionado.
         </td>
         <td>EP05</td>
     </tr>
     <tr>
         <td>US08</td>
-        <td>Actualización de  información de perfil.</td>
-        <td>Como Artesano/Distribuidor usuario de la plataforma,  quiero poder actualizar mi información personal y de contacto para mantener mis datos actualizados.</td>
+        <td>Actualizar información de perfil.</td>
+        <td>Como Artesano/Distribuidor usuario de la plataforma,  quiero actualizar mi información personal y de contacto para mantener mis datos actualizados.</td>
         <td>
             Scenario 1: Actualización exitosa de información<br><br>
             GIVEN el Artesano/Distribuidor está en la vista de su perfil,<br>
-           WHEN el Artesano/Distribuidor selecciona el botón de editar perfil, actualiza el formulario correctamente y selecciona el botón guardar cambios,<br>
+           WHEN el Artesano/Distribuidor activa la edición de perfil, actualiza el formulario correctamente<br>
+            And elige guardar cambios,<br>
             THEN se ve reflejado el perfil actualizado.<br><br>
             Scenario 2: Error en la actualización por campos obligatorios faltantes<br><br>
             GIVEN el Artesano/Distribuidor está en la vista de su perfil,<br>
-            WHEN el Artesano/Distribuidor selecciona el botón de editar perfil<br>
-            AND deja algún espacio en blanco en el formulario<br>
+            WHEN el Artesano/Distribuidor activa la edición perfil<br>
+            AND no ingresa todos los datos<br>
             AND selecciona el botón guardar cambios,<br>
-            THEN el sistema mostrará un mensaje de error indicando los campos faltantes y no se actualizan los datos del perfil.
+            THEN el sistema muestra un mensaje de error indicando los campos faltantes y no se actualizan los datos del perfil.
         </td>
         <td>EP06</td>
     </tr>
@@ -205,18 +211,19 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>
             Scenario 1: Artesano/Distribuidor cierra sesión satisfactoriamente<br><br>
             GIVEN el artesano está en la vista de su perfil,<br>
-          WHEN el artesano selecciona el botón de editar perfil, actualiza el formulario y luego selecciona el botón aceptar<br>
+          WHEN el artesano activa la edición de perfil, actualiza los datos<br>
+            AND elige aceptar<br>
             THEN se ve reflejado el perfil actualizado. 
         </td>
         <td>EP06</td>
     </tr>
     <tr>
         <td>US11</td>
-        <td>Visualización de la sección de inventarios</td>
+        <td>Visualizar sección de inventarios</td>
         <td>Como artesano usuario de la plataforma, quiero ver mis inventarios de trabajo para estar al tanto de lo que se tiene disponible.</td>
         <td>
             Scenario 1: Acceder a la sección de Inventarios.<br><br>
-            GIVEN el artesano está en la barra de navegación,<br>
+            GIVEN el artesano está en la plataforma,<br>
           WHEN el artesano ingrese a la sección "Inventarios",<br>
             THEN obtiene información de todos los inventarios disponibles. 
         </td>
@@ -229,7 +236,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>
             Scenario 1: Agregar inventario.<br><br>
             GIVEN el artesano está en la sección de inventarios,<br>
-            WHEN el artesano selecciona el botón de agregar inventario,<br>
+            WHEN el artesano activa agregar inventario,<br>
             THEN se agrega un nuevo inventario.
         </td>
         <td>EP02</td>
@@ -240,7 +247,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>Como artesano usuario de la plataforma, quiero eliminar inventarios para no tener información innecesaria</td>
         <td>Scenario 1: Eliminar inventario.<br><br>
             GIVEN el artesano está en la sección de inventarios,<br>
-            WHEN el artesano selecciona el botón de eliminar inventario,<br>
+            WHEN el artesano activa eliminar inventario,<br>
             THEN se elimina el inventario seleccionado.</td>
         <td>EP02</td>
     </tr>
@@ -249,8 +256,8 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>Agregar materiales en inventario</td>
         <td>Como artesano usuario de la plataforma, quiero agregar materiales en mis inventarios para llevar un control detallado de los materiales disponibles.</td>
         <td>Scenario 1: Agregar materiales<br><br>
-            GIVEN el artesano está en la vista de algún inventario,<br>
-            WHEN el artesano selecciona el botón agregar material<br>
+            GIVEN el artesano está viendo algún inventario,<br>
+            WHEN el artesano activa agregar material<br>
             THEN se agrega el material dentro del inventario.</td>
         <td>EP02</td>
     </tr>
@@ -259,23 +266,23 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>Visualizar detalles de un material</td>
         <td>Como artesano usuario de la plataforma, quiero visualizar toda la información de un material para llevar un control detallado de tal material.</td>
         <td>Scenario 1: visualización de materiales<br><br>
-            GIVEN el artesano está en la vista de algún inventario,<br>
-            WHEN el artesano selecciona el botón revisar dentro de un inventario,<br>
+            GIVEN el artesano está viendo algún inventario,<br>
+            WHEN el artesano elige revisar dentro de un inventario,<br>
             THEN se muestra toda la información de tal material</td>
         <td>EP05</td>
     </tr>
     <tr>
         <td>US16</td>
-        <td>Búsqueda de Materiales en Inventario</td>
+        <td>Buscar Materiales en Inventario</td>
         <td>Como artesano usuario de la plataforma, quiero buscar materiales específicos dentro de mi inventario para localizarlos rápidamente y utilizarlos en mi proceso de producción.</td>
         <td>Scenario 1: Búsqueda por nombre<br><br>
             GIVEN el usuario se encuentra en la sección de Inventarios,<br>
            WHEN ingrese el nombre del material en la barra de búsqueda,<br>
-            THEN el sistema mostrará los resultados correspondientes que coincidan con el nombre ingresado.<br><br>
+            THEN el sistema muestra los resultados correspondientes que coincidan con el nombre ingresado.<br><br>
             Scenario 2: Búsqueda por filtros<br><br>
             GIVEN el usuario se encuentra en la sección de Inventarios,<br>
-            WHEN seleccione una categoría de materiales en el filtro de búsqueda,<br>
-            THEN el sistema filtra los resultados y mostrará solo los materiales pertenecientes a esa categoría.</td>
+            WHEN elige una categoría de materiales en el filtro de búsqueda,<br>
+            THEN el sistema filtra los resultados y muestra solo los materiales pertenecientes a esa categoría.</td>
         <td>EP02</td>
     </tr>
     <tr>
@@ -294,7 +301,8 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>Como artesano usuario de la plataforma, quiero crear publicaciones en el foro para compartir con otros usuarios.</td>
         <td>Scenario 1: Artesano crea una publicación satisfactoriamente.<br><br>
             GIVEN el artesano está en la sección de foro,<br>
-            WHEN el artesano selecciona el botón de crear publicación, llena el formulario y presiona el botón publicar.<br>
+            WHEN el artesano elija crear publicación, llena el formulario<br>
+            AND elija publicar.<br>
             THEN se crea la publicación en el foro.</td>
         <td>EP03</td>
     </tr>
@@ -304,7 +312,8 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>Como artesano usuario de la plataforma, quiero editar mis publicaciones en el foro para tener control total en estas.</td>
         <td>Scenario 1: Artesano edita una publicación satisfactoriamente.<br><br>
             GIVEN el artesano está en su publicación,<br>
-            WHEN el artesano selecciona el botón de editar publicación, actualiza el formulario y presiona el botón editar<br>
+            WHEN el artesano elige editar publicación, actualiza el formulario<br>
+            AND confirma los cambios<br>
             THEN se edita la publicación.</td>
         <td>EP03</td>
     </tr>
@@ -314,11 +323,13 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>Como artesano usuario de la plataforma, quiero eliminar mis publicaciones en el foro para mantener un orden en mi perfil.</td>
         <td>Scenario 1: Artesano elimina una publicación satisfactoriamente.<br><br>
             GIVEN el artesano está en su publicación,<br>
-            WHEN el artesano selecciona el botón de eliminar publicación, se le aparecen dos botones y selecciona el botón aceptar.<br>
+            WHEN el artesano activa eliminar publicación, se le aparecen dos botones<br>
+            AND elige aceptar.<br>
             THEN se elimina la publicación.<br><br>
             Scenario 2: Artesano cancela eliminar publicación.<br><br>
             GIVEN el artesano está en su publicación,<br>
-            WHEN el artesano selecciona el botón de eliminar publicación, se le aparecen dos botones y selecciona el botón cancelar.<br>
+            WHEN el artesano elige eliminar publicación<br>
+            AND elige cancelar.<br>
             THEN la publicación no se elimina y el usuario regresa a la sección foro.</td>
         <td>EP06</td>
     </tr>
@@ -328,58 +339,55 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
         <td>Como artesano usuario de la plataforma, quiero comentar en las publicaciones del foro para contactarme con personas del mismo interés.</td>
         <td>Scenario 1: Artesano comenta satisfactoriamente una publicación<br><br>
            GIVEN el artesano está en la sección de foro,<br>
-            WHEN el artesano selecciona el botón de agregar comentario en alguna publicación, llena el formulario y selecciona el botón comentar.<br>
+            WHEN el artesano activa agregar comentario en alguna publicación, llena el formulario<br>
+            AND elija comentar.<br>
             THEN se agrega el comentario en la publicación.</td>
         <td>EP03</td>
     </tr>
     <tr>
         <td>US22</td>
-        <td>Visualización de los desarrolladores</td>
+        <td>Visualizar desarrolladores</td>
         <td>Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero una sección “Creadores” para informarme sobre los desarrolladores de la plataforma.</td>
         <td>Scenario: Visualización de una sección Creadores<br><br>
             GIVEN un Artesano/Distribuidor  visita la Landing Page,<br>
            WHEN baje hasta la sección de "Creadores"<br>
-            OR presione el botón en la barra de navegación<br>
             THEN se le muestra información acerca de los desarrolladores de la plataforma.
         </td>
         <td>EP01</td>
     </tr>
     <tr>
         <td>US23</td>
-        <td>Visualización de la sección Contact Us</td>
+        <td>Visualizar sección Contact Us</td>
         <td>Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero una sección “Contact us” para solicitar información acerca de la plataforma</td>
         <td>Scenario: Visualización de una sección Contact us<br><br>
             GIVEN un Artesano/Distribuidor  visita la Landing Page,<br>
            WHEN baje hasta la sección "Contact us".<br>
-            OR presione el botón en la barra de navegación<br>
             THEN se le muestra la opción de solicitar información.</td>
         <td>EP01</td>
     </tr>
     <tr>
         <td>US24</td>
-        <td>Visualización de lista de tipos de suscripción</td>
+        <td>Visualizar lista de tipos de suscripción</td>
         <td>Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
         <td>Scenario: Visualización de una sección Contact us<br><br>
             GIVEN un Artesano/Distribuidor  visita la Landing Page,<br>
            WHEN baje hasta la sección de Suscripciones<br>
-            OR presione el botón en la barra de navegación<br>
             THEN se le muestran las promociones que tiene el sitio web.</td>
         <td>EP01</td>
     </tr>
     <tr>
         <td>US25</td>
-        <td>Visualización de los servicios disponibles</td>
+        <td>Visualizare los servicios disponibles</td>
         <td>Como Artesano/Distribuidor visitante del Landing page de CraftSync, quiero una sección “Services” para informarme sobre los servicios que ofrece la plataforma.</td>
         <td>Scenario: Visualización de una sección Contact us<br><br>
             GIVEN un Artesano/Distribuidor  visita la Landing Page,<br>
            WHEN baje hasta la sección de “Services”.<br>
-            OR presione el botón en la barra de navegación<br>
             THEN se le muestra información detallada acerca de los servicios que ofrece la plataforma.</td>
         <td>EP01</td>
     </tr>
     <tr>
         <td>US26</td>
-        <td>Manejo de Distribución de Pedidos</td>
+        <td>Manejar Distribución de Pedidos</td>
         <td>Como Distribuidor, quiero un sistema de Distribución para manejar los pedidos disponibles.</td>
         <td>Scenario: Visualización de Pedidos a Distribuir<br><br>
             GIVEN un Distribuidor acepte un pedido,<br>
@@ -390,7 +398,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     </tr>
     <tr>
         <td>US27</td>
-        <td>Visualización de Pedidos</td>
+        <td>Visualizar Pedidos</td>
         <td>Como Distribuidor, quiero un sistema de listado de Pedidos para organizar los Pedidos que tengo asignados con Artesano.</td>
         <td>Scenario: Visualización de Pedidos<br><br>
             GIVEN un Artesano solicite trabajo,<br>
@@ -401,11 +409,11 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     </tr>
     <tr>
         <td>US28</td>
-        <td>Generación de Pedidos</td>
+        <td>Generar Pedidos</td>
         <td>Como Artesano, quiero generar un Pedido desde la plataforma para organizar pedidos no relacionados a Distribuidores.</td>
         <td>Scenario: Generación de Pedidos<br><br>
             GIVEN un Artesano está en la sección Pedidos,<br>
-           WHEN presione el botón de Generar Pedido.<br>
+           WHEN active Generar Pedido.<br>
             AND llene los datos,<br>
             THEN se le muestra el Pedido con opciones básicas de gestión.</td>
         <td>EP04</td>
@@ -413,7 +421,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <tr>
         <td>US29</td>
         <td>Añadir artesanos mediante RESTful API</td>
-        <td>Como Desarrollador, quiero añadir artesanos a la API, para conectarlos a las funciones de mi aplicación Web.</td>
+        <td>Como Desarrollador, quiero añadir artesanos a través de la API, para conectarlos a las funciones de mi aplicación Web.</td>
         <td>Scenario 1: Añadir artesano con datos correctos<br><br>
             GIVEN el endpoint "api/v1/craftsmen" existe,<br>
            WHEN se envíe un request POST con los datos pertinentes.<br>
@@ -431,7 +439,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <tr>
         <td>US30</td>
         <td>Añadir distribuidores mediante RESTful API</td>
-        <td>Como Desarrollador, quiero añadir distribuidores a la API, para conectarlos a las funciones de mi aplicación Web.</td>
+        <td>Como Desarrollador, quiero añadir distribuidores a través de la API, para conectarlos a las funciones de mi aplicación Web.</td>
         <td>Scenario 1: Añadir distribuidor con datos correctos<br><br>
             GIVEN el endpoint "api/v1/distributors" existe,<br>
            WHEN se envíe un request POST con los datos pertinentes.<br>
@@ -449,7 +457,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <tr>
        <td>US31</td>
         <td>Añadir pedidos mediante RESTful API</td>
-        <td>Como Desarrollador, quiero añadir pedidos a la API, para conectarlos a las funciones de mi aplicación Web.</td>
+        <td>Como Desarrollador, quiero añadir pedidos a través de la API, para conectarlos a las funciones de mi aplicación Web.</td>
         <td>Scenario 1: Añadir pedido<br><br>
             GIVEN el endpoint "api/v1/items" existe,<br>
            WHEN se envíe un request POST con los datos pertinentes.<br>
@@ -460,7 +468,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <tr>
         <td>US32</td>
         <td>Añadir inventarios mediante RESTful API</td>
-        <td>Como Desarrollador, quiero añadir inventarios a la API, para conectarlos a las funciones de mi aplicación Web.</td>
+        <td>Como Desarrollador, quiero añadir inventarios a través de la API, para conectarlos a las funciones de mi aplicación Web.</td>
         <td>Scenario 1: Añadir inventario con datos correctos<br><br>
             GIVEN el endpoint "api/v1/inventories" existe,<br>
            WHEN se envíe un request POST con los datos pertinentes.<br>
@@ -478,7 +486,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <tr>
         <td>US33</td>
         <td>Añadir materiales mediante RESTful API</td>
-        <td>Como Desarrollador, quiero añadir materiales a la API, para conectarlos a las funciones de inventarios de mi aplicación Web.</td>
+        <td>Como Desarrollador, quiero añadir materiales a través de la API, para conectarlos a las funciones de inventarios de mi aplicación Web.</td>
         <td>Scenario 1: Añadir material con datos correctos<br><br>
             GIVEN los endpoint "api/v1/inventories" y "api/v1/materials" existen,<br>
            WHEN se envíe un request POST con los datos pertinentes.<br>
@@ -496,7 +504,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <tr>
         <td>US34</td>
         <td>Añadir publicaciones mediante RESTful API</td>
-        <td>Como Desarrollador, quiero añadir inventarios a la API, para conectarlos a las funciones de foro de mi aplicación Web.</td>
+        <td>Como Desarrollador, quiero añadir inventarios a través de la API, para conectarlos a las funciones de foro de mi aplicación Web.</td>
         <td>Scenario 1: Añadir publicación<br><br>
             GIVEN el endpoint "api/v1/posts" existe,<br>
            WHEN se envíe un request POST con los datos pertinentes.<br>
@@ -507,7 +515,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <tr>
         <td>US35</td>
         <td>Añadir comentarios mediante RESTful API</td>
-        <td>Como Desarrollador, quiero añadir comentarios a la API, para conectarlos a las funciones de publicaciones de mi aplicación Web.</td>
+        <td>Como Desarrollador, quiero añadir comentarios a través de la API, para conectarlos a las funciones de publicaciones de mi aplicación Web.</td>
         <td>Scenario 1: Añadir comentario con datos correctos<br><br>
             GIVEN los endpoint "api/v1/posts" y "api/v1/comments" existen,<br>
            WHEN se envíe un request POST con los datos pertinentes.<br>
@@ -522,6 +530,24 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
             AND se muestra un mensaje de error indicando que no existe la publicación al que se referencia.</td>
         <td>EP07</td>
     </tr>
+    <td>US36</td>
+        <td>Integrar Frontend con Backend</td>
+        <td>Como Desarrollador, quiero integrar las funciones de mi aplicación Web con mi API para que la funcionalidad esté completa.</td>
+        <td>Scenario 1: Guardar contenido en la base de datos<br><br>
+            GIVEN el backend está desplegado,<br>
+            AND el frontend está integrado a sus servicios<br>
+           WHEN se envíe un request POST con los datos pertinentes.<br>
+            AND los datos sean válidos,<br>
+            THEN el backend envía un response exitoso.<br>
+            AND se muestra una confirmación.<br><br>
+            Scenario 2: Obtener contenido de la base de datos<br><br>
+            GIVEN el backend está desplegado,<br>
+            AND el frontend está integrado a sus servicios<br>
+           WHEN se envíe un request GET a un endpoint específico.<br>
+            AND los parámetros sean válidos,<br>
+            THEN el backend envía un response con el objeto JSON.<br>
+            AND se usa el objeto para una función.</td>
+        <td>EP07</td>
 </table>
 
 ## 3.3. Impact Mapping
@@ -532,9 +558,13 @@ Segmento 1:
 
 ![Segmento1](/assets/img/Segemento1.png)
 
+Se puede ver que las funciones relacionadas al inventario pueden ser clave en lograr que tengamos más de 500 artesanos en la plataform0a en 6 meses.
+
 Segmento 2:
 
 ![Segmento2](/assets/img/Segemento2.png)
+
+Se puede ver que las funciones relacionadas al monitoreo de pedidos serían clave en lograr que la comunicación entre distribuidores y artesanos mejore en un 40%.
 
 ## 3.4. Product Backlog
 
@@ -779,13 +809,20 @@ Segmento 2:
     </tr>
     <tr>
         <td>34</td>
+        <td>US36</td>
+        <td>Integrar Frontend con Backend</td>
+        <td>Como Desarrollador, quiero integrar las funciones de mi aplicación Web con mi API para que la funcionalidad esté completa.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>35</td>
         <td>US10</td>
         <td>Cerrar sesión</td>
         <td>Como Artesano/Distribuidor usuario de la plataforma, quiero cerrar sesión para proteger la integridad de mi cuenta.</td>
         <td>1</td>
     </tr>
     <tr>
-        <td>35</td>
+        <td>36</td>
         <td>US09</td>
         <td>Borrar cuenta</td>
         <td>Como Artesano/Distribuidor usuario de la plataforma, quiero borrar mi cuenta para proteger la integridad de mi persona.</td>
