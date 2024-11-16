@@ -19,7 +19,7 @@ competidores directos.
      <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td> <td>Etsy<br><img src="../assets/img/etsy.png" alt="Etsy"></td> 
      <td>Craftybase<br><img src="../assets/img/craftybase.png" alt="Craftybase"></td> 
      <td>Katana MRP<br><img src="../assets/img/katana.png" alt="Katana MRP"></td>
-     <td>CraftSync<br><img src="" alt="CraftSync"></td>
+     <td>CraftSync<br><img src="../assets/img/Logo.png" alt="CraftSync"></td>
      </tr> 
      <tr> 
         <td rowspan="2">Perfil</td> 
@@ -103,6 +103,8 @@ competidores directos.
     
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+Nuestras estrategias y tácticas para hacer frente a nuestros competidores serían las siguientes:
+
 **Diferenciación en la Preservación Cultural:**
 
 **Táctica:** Posiciona la plataforma como defensora de las técnicas tradicionales de artesanía, ofreciendo talleres en línea y contenido educativo que enseñe y preserve estas prácticas. Esto atraerá a artesanos interesados en mantener su patrimonio cultural.
@@ -122,6 +124,8 @@ Innovación Continua en la Plataforma:
 ## 2.2. Entrevistas
 
 ### 2.2.1 Diseño de entrevistas
+
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de obtener información cualitativa como opiniones o descripciones. Esta información nos será de gran ayuda en el desarrollo de nuestra solución. 
 
 **Preguntas Generales**
 
@@ -454,9 +458,13 @@ _**Segmento Objetivo 1: Artesanos**_
 
 ![alt text](../assets/img/UserPersona1.png)
 
+Usando el análisis de las entrevistas de los artesanos, hemos construído este arquetipo, usando las preguntas generales para sus características superficiales. Para su trasfondo, metas y frustraciones, se combinaron los puntos más frecuentes del análisis de entrevistas, como el deseo de herramientas más simples y eficientes para acelerar el tiempo de los procesos de producciómn.
+
 _**Segmento Objetivo 2: Distribuidores**_
 
 ![alt text](../assets/img/UserPersona2.png)
+
+Usando el análisis de las entrevistas de los distribuidores, hemos construído este arquetipo, usando las preguntas generales para sus características generales. Para su trasfondo, metas y frustraciones, se combinaron los puntos más compartidos en el análisis de entrevistas, como el deseo de mejorar la comunicación con los artesanos, para evitar incumplimientos de plazos.
 
 ### 2.3.2. User Task Matrix
 
@@ -478,11 +486,17 @@ A continuación se presentan los User Task Matrix para los dos segmentos clave: 
 
 ### 2.3.3. User Journey Mapping
 
+En el User Journey Mapping, exploramos el viaje del usuario a través de nuestro producto o servicio, desde el punto inicial de interacción hasta la finalización de sus objetivos. Este mapa detalla cada paso del proceso, incluyendo las emociones, los puntos de dolor y las oportunidades de mejora que experimenta el usuario en cada etapa.
+
 _**Segmento Objetivo 1: Artesanos**_
 ![JourneyMap1](../assets/img/journeyMap1.png)
 
+Se puede notar como las metas de la eficiencia y la calidad son constantes en el viaje de este Persona, y el como sus pensamientos se ponen más positivos a medida que da cada paso.
+
 _**Segmento Objetivo 2: Distribuidores**_
 ![JourneyMap2](../assets/img/journeyMap2.png)
+
+Se puede notar como las metas de la puntualidad y la transparencia son constantes en el viaje de este Persona, y como duda menos del pedido a medida que da cada paso.
 
 ### 2.3.4. Empathy Mapping
 
@@ -491,19 +505,31 @@ Para el desarrollo de los Empathy Map hemos utilizado la información recopilada
 _**Rudeus Greyrat Artesano**_
 ![EmpathyMap1](../assets/img/EmpathySeg1.png)
 
+Se puede notar como la mayoría de sus acciones se basan en cumplir con los plazos establecidos con el distribuidor, y la necesidad de mejores herramientas de gestión, para mantener la eficiencia de su trabajo.
+
 _**Izuku Midoriya Distribuidor**_
 ![EmpathyMap2](../assets/img/EmpathySeg2.png)
 
+Se puede notar como la mayoría de sus acciones se basan en mantener comunicación y monitoreo constante del artesano y su trabajo, para asegurar la transparencia durante la colaboración de los 2.
+
 ### 2.3.5. As-is Scenario Mapping
 
-Segmento objetivo 1: Artesanos
+Realizamos una lluvia de ideas e identificamos las fases de acorde a lo propuesto en los User Persona. De tal modo, hemos conseguido realizar los As-Is mapping para los segmentos dados.
+
+**Segmento objetivo 1: Artesanos**
 ![ARTESANOS](/assets/img/As-isArtesanos.png)
 
-Segemento objetivo 2: Distribuidor
+Se puede notar como sus herramientas actuales de gestión no le dan la seguridad que necesita, respecto a temas importantes como el manejo de sus recursos, o la satisfacción del cliente frente a su eficiencia en manejar el tiempo de trabajo.
+
+**Segemento objetivo 2: Distribuidor**
 
 ![DISTRIBUIDOR](../assets/img/As-isDistribuidor.png)
 
+Se puede notar como sus formas actuales de comunicación no son suficientes para sentirse tranquilo con el estado de los pedidos, pues no puede verificar el cumplimiento de los plazos de tiempo de forma segura.
+
 ## 2.4. Ubiquitous Language
+
+En esta sección, detallamos un glosario de términos y conceptos con definiciones utilizadas en el business domain, sin ambigüedad, relacionados al área de especialidad o sector en el que se establecen el problema y la solución.
 
 - **Workshop (Taller)**
   Espacio donde el artesano realiza sus actividades.
