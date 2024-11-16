@@ -775,19 +775,39 @@ Expone la gestión de pedidos, enfocándose en cómo se procesan, actualizan y r
 
 ### 4.7.1. Class Diagrams
 
+![FullDiagram](../assets/img/shelfmaterial.png)
+
+Aquí se visualiza el diagrama de clases completo.
+
 **Access Bounded Context**
 
 ![AccessDiagram](../assets/img/auth.png)
 
-![Craftsman](../assets/img/craftsman.png)
+Se visualizan las clases Perfil y Usuario, y como se asocian con Artesano y Comprador.
 
-![Materials](../assets/img/materials_inventory.png)
+**Order Bounded Context**
 
-![ShelfMaterial](../assets/img/shelfmaterial.png)
+![OrderDiagram](../assets/img/craftsman.png)
 
-![DistributorsOrder](../assets/img/DistributorOrder.png)
+Se visualizan las clases Orden y EstadoOrden, el primero relacionándose con Artesano y Comprador.
 
-![Forum](../assets/img/Forumclass.png)
+**Inventory Bounded Context**
+
+![InventoryDiagram](../assets/img/materials_inventory.png)
+
+Se visualizan las clases Material, CampoMaterial e Inventario, el último relacionándose con Artesano.
+
+**Distribution Bounded Context**
+
+![DistributionDiagram](../assets/img/DistributorOrder.png)
+
+Se visualiza la clase EstanteComprador, que se relaciona con Orden, EstadoOrden y Comprador.
+
+**Forum Bounded Context**
+
+![ForumDiagram](../assets/img/Forumclass.png)
+
+Se visualiza las clases Publicación y Comentario, que se relacionan con Perfil.
 
 ### 4.7.2. Class Dictionary
 
@@ -800,134 +820,322 @@ Expone la gestión de pedidos, enfocándose en cómo se procesan, actualizan y r
     <th colspan="2">Tipo de dato</th>
   </tr>
   <tr>
-    <td rowspan="3" colspan="1">1</td>
-    <td rowspan="3" colspan="2">User</td>
-    <td colspan="2">username</td>
-    <td colspan="4">es el nombre de usuario</td>
-    <td colspan="2">string</td>
+    <td rowspan="8" colspan="1">1</td>
+    <td rowspan="8" colspan="2">User</td>
+    <td colspan="2">id</td>
+    <td colspan="4">El identificador del Usuario</td>
+    <td colspan="2">Long</td>
+    <tr>
+      <td colspan="2">username</td>
+      <td colspan="4">es el nombre de usuario</td>
+      <td colspan="2">String</td>
+    </tr>
     <tr>
       <td colspan="2">password</td>
       <td colspan="4">es la contraseña del usuario</td>
-      <td colspan="2">string</td>
+      <td colspan="2">String</td>
+    </tr>
+  <tr>
+      <td colspan="2">name</td>
+      <td colspan="4">es el nombre personal de usuario</td>
+      <td colspan="2">String</td>
     </tr>
     <tr>
-      <td colspan="2">role</td>
-      <td colspan="4">es el rol del usuario</td>
-      <td colspan="2">string</td>
+      <td colspan="2">surname</td>
+      <td colspan="4">es el apellido del usuario</td>
+      <td colspan="2">String</td>
+    </tr>
+  <tr>
+      <td colspan="2">email</td>
+      <td colspan="4">es el correo de usuario</td>
+      <td colspan="2">String</td>
+    </tr>
+    <tr>
+      <td colspan="2">dni</td>
+      <td colspan="4">es el DNI del usuario</td>
+      <td colspan="2">String</td>
+    </tr>
+  <tr>
+      <td colspan="2">image</td>
+      <td colspan="4">es la dirección a la imagen del usuario</td>
+      <td colspan="2">String</td>
     </tr>
   </tr>
   <tr>
     <td rowspan="5" colspan="1">2</td>
-    <td rowspan="5" colspan="2">Craftsman</td>
-    <td colspan="2">name</td>
-    <td colspan="4">nombre del artesano</td>
-    <td colspan="2">string</td>
+    <td rowspan="5" colspan="2">Profile</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del Perfil</td>
+    <td colspan="2">Long</td>
+    <tr>
+      <td colspan="2">user</td>
+      <td colspan="4">objeto Usuario incluído en el Perfil</td>
+      <td colspan="2">User</td>
+    </tr>
+    <tr>
+      <td colspan="2">status</td>
+      <td colspan="4">Nombre del Estado del Perfil</td>
+      <td colspan="2">String</td>
+    </tr>
+    <tr>
+      <td colspan="2">status_date</td>
+      <td colspan="4">Fecha donde inició el Estado</td>
+      <td colspan="2">Date</td>
+    </tr>
+    <tr>
+      <td colspan="2">registration_date</td>
+      <td colspan="4">Fecha donde se registró el usuario</td>
+      <td colspan="2">Date</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="7" colspan="1">3</td>
+    <td rowspan="7" colspan="2">Craftsman</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del Artesano</td>
+    <td colspan="2">Long</td>
+    <tr>
+      <td colspan="2">name</td>
+      <td colspan="4">Nombre del Artesano</td>
+      <td colspan="2">String</td>
+    </tr>
     <tr>
       <td colspan="2">email</td>
-      <td colspan="4">email del artesano</td>
-      <td colspan="2">string</td>
+      <td colspan="4">Correo del Artesano</td>
+      <td colspan="2">String</td>
     </tr>
     <tr>
       <td colspan="2">phone</td>
-      <td colspan="4">numero telefónico del artesano</td>
-      <td colspan="2">string</td>
+      <td colspan="4">Teléfono del Artesano</td>
+      <td colspan="2">String</td>
+    </tr>
+  <tr>
+      <td colspan="2">nationality</td>
+      <td colspan="4">Nacionalidad del Artesano</td>
+      <td colspan="2">String</td>
     </tr>
     <tr>
-      <td colspan="2">address</td>
-      <td colspan="4">direccion del taller del artesano</td>
-      <td colspan="2">string</td>
+      <td colspan="2">profileId</td>
+      <td colspan="4">Identificador del Perfil asociado al Artesano</td>
+      <td colspan="2">Long</td>
     </tr>
     <tr>
-      <td colspan="2">workshop</td>
-      <td colspan="4">nombre del taller del artesano</td>
-      <td colspan="2">string</td>
+      <td colspan="2">userId</td>
+      <td colspan="4">Identificador del Usuario asociado al Artesano</td>
+      <td colspan="2">Long</td>
     </tr>
   </tr>
   <tr>
-    <td rowspan="4" colspan="1">3</td>
-    <td rowspan="4" colspan="2">Material</td>
-    <td colspan="2">name</td>
-    <td colspan="4">nombre del material</td>
-    <td colspan="2">string</td>
+    <td rowspan="6" colspan="1">4</td>
+    <td rowspan="6" colspan="2">Buyer</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del Comprador</td>
+    <td colspan="2">Long</td>
     <tr>
-      <td colspan="2">description</td>
-      <td colspan="4">descripción del material</td>
-      <td colspan="2">string</td>
+      <td colspan="2">name</td>
+      <td colspan="4">Nombre del Comprador</td>
+      <td colspan="2">String</td>
     </tr>
-    <tr>
-      <td colspan="2">stock</td>
-      <td colspan="4">cantidad disponible del material</td>
-      <td colspan="2">int</td>
-    </tr>
-    <tr>
-      <td colspan="2">type</td>
-      <td colspan="4">tipo material</td>
-      <td colspan="2">enum</td>
-    </tr>
-  </tr>
   <tr>
-    <td rowspan="1" colspan="1">4</td>
-    <td rowspan="1" colspan="2">ShelfMaterial</td>
-    <td colspan="2">quantity</td>
-    <td colspan="4">cantidad de material del estante</td>
-    <td colspan="2">number</td>
-  </tr>
-  <tr>
-    <td rowspan="1" colspan="1">5</td>
-    <td rowspan="1" colspan="2">InventoryShelve</td>
-    <td colspan="2">Name</td>
-    <td colspan="4">Nombre del estante del inventario</td>
-    <td colspan="2">string</td>
-  </tr>
-  <tr>
-    <td rowspan="2" colspan="1">6</td>
-    <td rowspan="2" colspan="2">Order</td>
-    <td colspan="2">status</td>
-    <td colspan="4">estado de la orden</td>
-    <td colspan="2">string</td>
-    <tr>
-      <td colspan="2">description</td>
-      <td colspan="4">descripción de la orden</td>
-      <td colspan="2">string</td>
-    </tr>
-  </tr>
-  <tr>
-    <td rowspan="2" colspan="1">7</td>
-    <td rowspan="2" colspan="2">OrderDetail</td>
-    <td colspan="2">quantity</td>
-    <td colspan="4">cantidad del detalle de la orden</td>
-    <td colspan="2">number</td>
-    <tr>
-      <td colspan="2">unitPrice</td>
-      <td colspan="4">precio unitario del detalle de la orden</td>
-      <td colspan="2">number</td>
-    </tr>
-  </tr>
-  <tr>
-    <td rowspan="5" colspan="1">8</td>
-    <td rowspan="5" colspan="2">Distributor</td>
-    <td colspan="2">name</td>
-    <td colspan="4">nombre del distribuidor</td>
-    <td colspan="2">string</td>
-    <tr>
       <td colspan="2">email</td>
-      <td colspan="4">email de distribuidor</td>
-      <td colspan="2">string</td>
+      <td colspan="4">Correo del Comprador</td>
+      <td colspan="2">String</td>
     </tr>
-    <tr>
-      <td colspan="2">businessName</td>
-      <td colspan="4">nombre del negocio</td>
-      <td colspan="2">string</td>
-    </tr>
-    <tr>
-      <td colspan="2">businessAddress</td>
-      <td colspan="4">direccion del negocio</td>
-      <td colspan="2">string</td>
-    </tr>
-    <tr>
+  <tr>
       <td colspan="2">phone</td>
-      <td colspan="4">numero de telefono</td>
-      <td colspan="2">string</td>
+      <td colspan="4">Teléfono del Comprador</td>
+      <td colspan="2">String</td>
+    </tr>
+  <tr>
+      <td colspan="2">profileId</td>
+      <td colspan="4">Identificador del Perfil asociado al Comprador</td>
+      <td colspan="2">Long</td>
+    </tr>
+  <tr>
+      <td colspan="2">userId</td>
+      <td colspan="4">Identificador del Usuario asociado al Comprador</td>
+      <td colspan="2">Long</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="1 colspan="1">5</td>
+    <td rowspan="1" colspan="2">OrderStatus</td>
+    <td colspan="2">-</td>
+    <td colspan="4">-</td>
+    <td colspan="2">-</td>
+  </tr>
+  <tr>
+    <td rowspan="5" colspan="1">6</td>
+    <td rowspan="5" colspan="2">Order</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador de la Orden</td>
+    <td colspan="2">Long</td>
+    <tr>
+      <td colspan="2">craftsman</td>
+      <td colspan="4">Objeto Artesano incluído en la Orden</td>
+      <td colspan="2">Craftsman</td>
+    </tr>
+    <tr>
+      <td colspan="2">buyer</td>
+      <td colspan="4">Objeto Comprador incluído en la Orden</td>
+      <td colspan="2">Buyer</td>
+    </tr>
+    <tr>
+      <td colspan="2">status</td>
+      <td colspan="4">Valor OrderStatus incluído en la Orden</td>
+      <td colspan="2">OrderStatus</td>
+    </tr>
+    <tr>
+      <td colspan="2">description</td>
+      <td colspan="4">El comentario asociado a la Orden</td>
+      <td colspan="2">String</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="5" colspan="1">7</td>
+    <td rowspan="5" colspan="2">MaterialField</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del Campo</td>
+    <td colspan="2">Long</td>
+    <tr>
+      <td colspan="2">name</td>
+      <td colspan="4">Nombre del Campo</td>
+      <td colspan="2">String</td>
+    </tr>
+  <tr>
+      <td colspan="2">textValue</td>
+      <td colspan="4">Valor Textual del Campo</td>
+      <td colspan="2">String</td>
+    </tr>
+  <tr>
+      <td colspan="2">numberValue</td>
+      <td colspan="4">Valor Numérico del Campo</td>
+      <td colspan="2">Float</td>
+    </tr>
+  <tr>
+      <td colspan="2">dateValue</td>
+      <td colspan="4">Valor de Fecha del Campo</td>
+      <td colspan="2">Date</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="4" colspan="1">8</td>
+    <td rowspan="4" colspan="2">Inventario</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del Inventario/td>
+    <td colspan="2">Long</td>
+    <tr>
+      <td colspan="2">standName</td>
+      <td colspan="4">Nombre del Inventario</td>
+      <td colspan="2">String</td>
+    </tr>
+  <tr>
+      <td colspan="2">materials</td>
+      <td colspan="4">Lista de Materiales del Inventario</td>
+      <td colspan="2">List<Material></td>
+    </tr>
+        <tr>
+      <td colspan="2">craftsmanId</td>
+      <td colspan="4">Identificador del Artesano asociado al Inventario</td>
+      <td colspan="2">Long</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="5" colspan="1">9</td>
+    <td rowspan="5" colspan="2">Material</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del Material</td>
+    <td colspan="2">Long</td>
+    <tr>
+      <td colspan="2">name</td>
+      <td colspan="4">Nombre del Material</td>
+      <td colspan="2">String</td>
+    </tr>
+    <tr>
+      <td colspan="2">fields</td>
+      <td colspan="4">Lista de Campos del Material</td>
+      <td colspan="2">List<MaterialField></td>
+    </tr>
+    <tr>
+      <td colspan="2">standName</td>
+      <td colspan="4">Nombre del Inventario al que pertenece</td>
+      <td colspan="2">String</td>
+    </tr>
+    <tr>
+      <td colspan="2">inventory</td>
+      <td colspan="4">Objeto de Inventario incluído en el Material</td>
+      <td colspan="2">Inventory</td>
+    </tr>
+  </tr>
+        <tr>
+    <td rowspan="4" colspan="1">10</td>
+    <td rowspan="4" colspan="2">BuyerStand</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del Estante de Comprador</td>
+    <td colspan="2">Long</td>
+    <tr>
+      <td colspan="2">standName</td>
+      <td colspan="4">Nombre del Estante de Comprador</td>
+      <td colspan="2">String</td>
+    </tr>
+    <tr>
+      <td colspan="2">orders</td>
+      <td colspan="4">Lista de Pedidos del Material</td>
+      <td colspan="2">List<Order></td>
+    </tr>
+      <tr>
+      <td colspan="2">buyerId</td>
+      <td colspan="4">Identificador del Comprador asociado al Material</td>
+      <td colspan="2">Long</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="5" colspan="1">11</td>
+    <td rowspan="5" colspan="2">Post</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador de la Publicación</td>
+    <td colspan="2">Long</td>
+    <tr>
+      <td colspan="2">content</td>
+      <td colspan="4">Contenido de la Publicación</td>
+      <td colspan="2">String</td>
+    </tr>
+    <tr>
+      <td colspan="2">image</td>
+      <td colspan="4">La dirección de la imagen de la Publicación</td>
+      <td colspan="2">String</td>
+    </tr>
+        tr>
+      <td colspan="2">comments</td>
+      <td colspan="4">Lista de Comentarios de la Publicación</td>
+      <td colspan="2">List<Comment></td>
+    </tr>
+    <tr>
+      <td colspan="2">authorId</td>
+      <td colspan="4">El identificador del autor asociado a la Publicación</td>
+      <td colspan="2">Long</td>
+    </tr>
+  </tr>
+        <tr>
+    <td rowspan="4" colspan="1">12</td>
+    <td rowspan="4" colspan="2">Comment</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del Comentario</td>
+    <td colspan="2">Long</td>
+    <tr>
+      <td colspan="2">authorId</td>
+      <td colspan="4">Identificador del Autor asociado al Comentario</td>
+      <td colspan="2">Long</td>
+    </tr>
+    <tr>
+      <td colspan="2">content</td>
+      <td colspan="4">El contenido del Comentario</td>
+      <td colspan="2">String</td>
+    </tr>
+        <tr>
+      <td colspan="2">post</td>
+      <td colspan="4">El objeto de Publicación incluído dentro del Comentario</td>
+      <td colspan="2">Post</td>
     </tr>
   </tr>
 </table>
