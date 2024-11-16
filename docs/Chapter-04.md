@@ -148,12 +148,14 @@ Para facilitar la búsqueda de información dentro de nuestra plataforma, se imp
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+En este apartado, se incluirá un esquema visual preliminar (wireframe) de la landing page de la aplicación. El wireframe mostrará la distribución básica de los elementos clave, como el título principal, los botones de acción, el menú de navegación y cualquier contenido destacado.
 
-![Landing Page Mock-up](../assets/img/Landing-Page-Wireframe.png)
+![Landing Page Wireframe](../assets/img/Landing-Page-Wireframe.png)
 
 ### 4.3.2. Landing Page Mock-up
+En este apartado, se presentará un mock-up de la landing page, que incluirá un diseño más detallado y cercano a la versión final de la aplicación. A diferencia del wireframe, el mock-up incorporará colores, tipografías, imágenes, y elementos visuales reales.
 
-![Landing Page Wireframe](../assets/img/Landing-Page-EN.png)
+![Landing Page Mock-Up](../assets/img/Landing-Page-EN.png)
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -163,59 +165,173 @@ En este apartado se muestran los Wireframes de la Aplicación Web. Cada pantalla
 
 **Ingreso a la Plataforma:**
 Estos son las partes del Wireframe dedicadas al ingreso a la plataforma, abarcando el Inicio de Sesión, el registro, la recuperación de contraseña, y la adquisición de suscripción:
+
 ![alt text](../assets/img/W-Inicio-Sesión.png)
+
+La pantalla inicial, donde el usuario ingresa los datos de su cuenta para acceder.
+
 ![alt text](../assets/img/W-Inicio-Sesión-C.png)
+
+Una variación del inicio de sesión donde se usa el correo en vez del nombre de usuario.
+
 ![alt text](../assets/img/W-Recuperar-1.png)
+
+La primera pantalla de recuperación de contraseña, pidiendo correo.
+
 ![alt text](../assets/img/W-Recuperar-2.png)
+
+La segunda pantalla de recuperación de contraseña, pidiendo el código de recuperación.
+
 ![alt text](../assets/img/W-Recuperar-3.png)
+
+La tercera pantalla de recuperación de contraseña, pidiendo la nueva contraseña.
+
 ![alt text](../assets/img/W-Registro-1.png)
+
+La primera pantalla de registro de cuenta, pidiendo los datos personales.
+
 ![alt text](../assets/img/W-Registro-2.png)
+
+La segunda pantalla de registro de cuenta, pidiendo los datos de usuario.
+
 ![alt text](../assets/img/W-Adquirir.png)
+
+La pantalla de suscripciones, mostrando las opciones para elegir el tipo de usuario a ser.
+
 ![alt text](../assets/img/W-Pago-S.png)
+
+La pantalla de pago, donde se paga la suscripción.
 
 **Pedidos:**
 Estas son las partes del Wireframe dedicadas a la lista y visualización de pedidos, abarcando la lista de pedidos, sus filtros, los pedidos en sí, y la interacción con estos.
+
 ![alt text](../assets/img/W-Pedidos.png)
+
+La pantalla principal de la plataforma, listando los pedidos.
+
 ![alt text](../assets/img/W-Filtro-1.png)
+
+La pantalla de listado de pedidos, pero con las opciones de filtros.
+
 ![alt text](../assets/img/W-Filtro-2.png)
+
+La pantalla de listado de pedidos y sus filtros, pero en otro orden.
+
 ![alt text](../assets/img/W-Pedido.png)
+
+Los detalles de un pedido en particular.
+
 ![alt text](../assets/img/W-Pedido-E.png)
+
+La pantalla de edición de un pedido en particular.
+
 ![alt text](../assets/img/W-Pedido-Estado.png)
+
+Los detalles de un pedido, pero con las opciones de estado.
+
 ![alt text](../assets/img/W-Pedido-Aceptado.png)
+
+Un pedido con el estado de aceptado.
+
 ![alt text](../assets/img/W-Pedido-Distribuidor.png)
+
+Un pedido desde la vista de un Distribuidor.
+
 ![alt text](../assets/img/W-ComentarPedido.png)
+
+La pantalla para comentar un pedido.
 
 **Inventario:**
 Estas son las partes del Wireframe dedicadas al inventario y su manipulación, abarcando la lista de estantes e inventarios, sus detalles, los filtros, y la interacción con estos.
+
 ![alt text](../assets/img/W-Inventario.png)
+
+La pantalla que lista los inventarios y sus materiales.
+
 ![alt text](../assets/img/W-Inventario-F.png)
+
+La pantalla de listado de inventarios, pero con opciones de filtros.
+
 ![alt text](../assets/img/W-NuevaCategoria.png)
+
+La pantalla para crear una Nueva Categoría en los Materiales.
+
 ![alt text](../assets/img/W-NuevoMaterial.png)
+
+La pantalla para crear un Nuevo Material.
+
 ![alt text](../assets/img/W-MoverTodo.png)
+
+La pantalla para mover todos los Materiales de un Inventario a otro.
+
 ![alt text](../assets/img/W-RevisarMaterial.png)
+
+Los detalles de un Material en específico.
 
 **Distribución:**
 Estas son las partes del Wireframe dedicadas a la distribución de pedidos ya listos, abarcando la lista de compradores y pedidos, sus detalles, los filtros y la interacción con estos.
+
 ![alt text](../assets/img/W-Distribución.png)
+
+La pantalla que lista los Compradores y sus pedidos.
+
 ![alt text](../assets/img/W-Distribución-F.png)
+
+La pantalla de listado de Compradores, pero con opciones de filtros.
+
 ![alt text](../assets/img/W-VerPedido.png)
+
+Los detalles de un Pedido en específico.
+
 ![alt text](../assets/img/W-MoverD.png)
+
+La pantalla para mover todos los Pedidos de un Comprador a otro.
 
 **Foro:**
 Estas son las partes del Wireframe dedicadas al foro y sus publicaciones, abarcando la lista de publicaciones, sus comentarios, y la creación de estos 2.
+
 ![alt text](../assets/img/W-Foro.png)
+
+Pantalla que lista las publicaciones, y las opciones de filtrar y crear.
+
 ![alt text](../assets/img/W-NuevoPost.png)
+
+La pantalla para crear una nueva Publicación.
+
 ![alt text](../assets/img/W-Post-1.png)
+
+Los detalles de una Publicación específica.
+
 ![alt text](../assets/img/W-Post-2.png)
+
+Pantalla para crear un nuevo Comentario en una Publicación.
 
 **Perfil:**
 Estas son las partes del Wireframe dedicadas al perfil propio y de otros, abarcando el perfil propio de un artesano, el de otro artesano, el del distribuidor y las funciones relacionadas.
+
 ![alt text](../assets/img/W-Perfil.png)
+
+Pantalla que muestra el perfil propio.
+
 ![alt text](../assets/img/W-Editar-Perfil.png)
+
+Pantalla de edición de un perfil propio.
+
 ![alt text](../assets/img/W-Perfil-2.png)
+
+Pantalla que muestra su perfil, pero si tiene la Suscripción en Renovación Automática.
+
 ![alt text](../assets/img/W-Distruibuidor.png)
+
+Pantalla que muestra el perfil de un Distribuidor, desde la vista de un Artesano.
+
 ![alt text](../assets/img/W-Artesano.png)
+
+Pantalla que muestra el perfil de un Artesano, desde la vista de un Distribuidor.
+
 ![alt text](../assets/img/W-NuevoPedido.png)
+
+Pantalla de Asignación de Pedido a un Artesano.
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -261,88 +377,262 @@ En este apartado se muestra el Mock-Up de la Aplicación Web. Cada pantalla tien
 
 **Ingreso a la Plataforma:**
 Estos son las partes del Wireframe dedicadas al ingreso a la plataforma, abarcando el Inicio de Sesión, el registro, la recuperación de contraseña, y la adquisición de suscripción:
+
 ![alt text](../assets/img/Inicio-Sesión.png)
+
+La pantalla inicial, donde el usuario ingresa los datos de su cuenta para acceder.
+
 ![alt text](../assets/img/Inicio-Sesión-C.png)
+
+Una variación del inicio de sesión donde se usa el correo en vez del nombre de usuario.
+
 ![alt text](../assets/img/Recuperar-1.png)
+
+La primera pantalla de recuperación de contraseña, pidiendo correo.
+
 ![alt text](../assets/img/Recuperar-2.png)
+
+La segunda pantalla de recuperación de contraseña, pidiendo el código de recuperación.
+
 ![alt text](../assets/img/Recuperar-3.png)
+
+La tercera pantalla de recuperación de contraseña, pidiendo la nueva contraseña.
+
 ![alt text](../assets/img/Registro-1.png)
+
+La primera pantalla de registro de cuenta, pidiendo los datos personales.
+
 ![alt text](../assets/img/Registro-2.png)
+
+La segunda pantalla de registro de cuenta, pidiendo los datos de usuario.
+
 ![alt text](../assets/img/Adquirir.png)
+
+La pantalla de suscripciones, mostrando las opciones para elegir el tipo de usuario a ser.
+
 ![alt text](../assets/img/Pago-S.png)
+
+La pantalla de pago, donde se paga la suscripción.
 
 **Pedidos Artesano:**
 Estas son las partes del Mock-Up dedicadas a la lista y visualización de pedidos desde el punto de vista del Artesano, abarcando la lista de pedidos, sus filtros, los pedidos en sí, y la interacción con estos.
+
 ![alt text](../assets/img/Pedidos.png)
+
+La pantalla principal de la plataforma, listando los pedidos.
+
 ![alt text](../assets/img/Filtro-1.png)
+
+La pantalla de listado de pedidos, pero con las opciones de filtros.
+
 ![alt text](../assets/img/Filtro-2.png)
+
+La pantalla de listado de pedidos y sus filtros, pero en otro orden.
+
 ![alt text](../assets/img/Crear-Pedido.png)
+
+La pantalla de Generación de Pedidos.
+
 ![alt text](../assets/img/Pedido.png)
+
+Los detalles de un pedido en particular.
+
 ![alt text](../assets/img/Pedido-E.png)
+
+La pantalla de edición de un pedido en particular.
+
 ![alt text](../assets/img/Pedido-Estado.png)
+
+Los detalles de un pedido, pero con las opciones de estado.
 
 **Pedidos Distribuidor:**
 Estas son las partes del Mock-Up dedicadas a la lista y visualización de pedidos desde el punto de vista del Distribuidor, abarcando la lista de pedidos, sus filtros, los pedidos en sí, y la interacción con estos.
+
 ![alt text](../assets/img/Pedidos-D.png)
+
+La pantalla de listado de pedidos, desde la vista de un Distribuidor.
+
 ![alt text](../assets/img/Filtro-1-D.png)
+
+La pantalla de listado de pedidos, pero con las opciones de filtros.
+
 ![alt text](../assets/img/Filtro-2-D.png)
+
+La pantalla de listado de pedidos y sus filtros, pero en otro orden.
+
 ![alt text](../assets/img/Pedido-Distribuidor.png)
+
+Un pedido desde la vista de un Distribuidor.
+
 ![alt text](../assets/img/ComentarPedido.png)
+
+La pantalla para comentar un pedido.
+
 ![alt text](../assets/img/Pedido-Aceptado.png)
+
+La pantalla para comentar un pedido.
 
 **Inventario:**
 Estas son las partes del Mock-Up dedicadas al inventario y su manipulación, abarcando la lista de estantes e inventarios, sus detalles, los filtros, y la interacción con estos.
+
 ![alt text](../assets/img/Inventario.png)
+
+La pantalla que lista los inventarios y sus materiales.
+
 ![alt text](../assets/img/Inventario-F.png)
+
+La pantalla de listado de inventarios, pero con opciones de filtros.
+
 ![alt text](../assets/img/NuevaCategoria.png)
+
+La pantalla para crear una Nueva Categoría en los Materiales.
+
 ![alt text](../assets/img/NuevoMaterial.png)
+
+La pantalla para crear un Nuevo Material.
+
 ![alt text](../assets/img/MoverTodo.png)
+
+La pantalla para mover todos los Materiales de un Inventario a otro.
+
 ![alt text](../assets/img/RevisarMaterial.png)
+
+Los detalles de un Material en específico.
+
 ![alt text](../assets/img/EliminarTodo.png)
+
+La pantalla para eliminar todos los Materiales de un Inventario.
 
 **Distribución:**
 Estas son las partes del Mock-Up dedicadas a la distribución de pedidos ya listos, abarcando la lista de compradores y pedidos, sus detalles, los filtros y la interacción con estos.
+
 ![alt text](../assets/img/Distribución.png)
+
+La pantalla que lista los Compradores y sus pedidos.
+
 ![alt text](../assets/img/Distribución-F.png)
+
+La pantalla de listado de Compradores, pero con opciones de filtros.
+
 ![alt text](../assets/img/RevisarPedido.png)
+
+Los detalles de un Pedido en específico.
+
 ![alt text](../assets/img/MoverTodoD.png)
+
+La pantalla para mover todos los Pedidos de un Comprador a otro.
+
 ![alt text](../assets/img/EliminarD.png)
+
+La pantalla para eliminar todos los Pedidos de un Comprador.
 
 **Foro Artesano:**
 Estas son las partes del Mock-Up dedicadas al foro y sus publicaciones desde el punto de vista del Artesano, abarcando la lista de publicaciones, sus comentarios, y la creación de estos 2.
+
 ![alt text](../assets/img/Foro.png)
+
+Pantalla que lista las publicaciones, y las opciones de filtrar y crear.
+
 ![alt text](../assets/img/NuevoPost.png)
+
+La pantalla para crear una nueva Publicación.
+
 ![alt text](../assets/img/Post-1.png)
+
+Los detalles de una Publicación específica.
+
 ![alt text](../assets/img/Post-2.png)
+
+Pantalla para crear un nuevo Comentario en una Publicación.
 
 **Foro Distribuidor:**
 Estas son las partes del Mock-Up dedicadas al foro y sus publicaciones desde el punto de vista del Distribuidor, abarcando la lista de publicaciones, sus comentarios, y la creación de estos 2.
+
 ![alt text](../assets/img/Foro-D.png)
+
+Pantalla que lista las publicaciones, y las opciones de filtrar y crear.
+
 ![alt text](../assets/img/NuevoPost-D.png)
+
+La pantalla para crear una nueva Publicación.
+
 ![alt text](../assets/img/Post-D.png)
+
+Los detalles de una Publicación específica.
+
 ![alt text](../assets/img/Post-2-D.png)
+
+Pantalla para crear un nuevo Comentario en una Publicación.
 
 **Perfil Artesano:**
 Estas son las partes del Mock-Up dedicadas al perfil propio y de otros desde el punto de vista del Artesano, abarcando el perfil propio de un artesano, el de otro distribuidor y las funciones relacionadas.
+
 ![alt text](../assets/img/Perfil.png)
+
+Pantalla que muestra el perfil propio.
+
 ![alt text](../assets/img/Editar-Perfil.png)
+
+Pantalla de edición de un perfil propio.
+
 ![alt text](../assets/img/Perfil-2.png)
+
+Pantalla que muestra su perfil, pero si tiene la Suscripción en Renovación Automática.
+
 ![alt text](../assets/img/PerfilesD.png)
+
+La pantalla de listado de perfiles de Distribuidor.
+
 ![alt text](../assets/img/PerfilesD-F1.png)
+
+La pantalla de listado de distribuidores, pero con las opciones de filtros.
+
 ![alt text](../assets/img/PerfilesD-F2.png)
+
+La pantalla de listado de distribuidores y sus filtros, pero en otro orden.
+
 ![alt text](../assets/img/Distruibuidor.png)
+
+Pantalla que muestra el perfil de un Distribuidor, desde la vista de un Artesano.
+
 ![alt text](../assets/img/Distruibuidor-2.png)
+
+Pantalla que muestra el perfil de un Distribuidor, tras haberle solicitado trabajo.
 
 **Perfil Distribuidor:**
 Estas son las partes del Mock-Up dedicadas al perfil propio y de otros desde el punto de vista del Distribuidor, abarcando el perfil propio de un distribuidor, el de otro artesano y las funciones relacionadas.
+
 ![alt text](../assets/img/Perfil-D.png)
+
+Pantalla que muestra el perfil propio.
+
 ![alt text](../assets/img/Editar-Perfil-D.png)
+
+Pantalla de edición de un perfil propio.
+
 ![alt text](../assets/img/Perfil-2-D.png)
+
+Pantalla que muestra su perfil, pero si tiene la Suscripción en Renovación Automática.
+
 ![alt text](../assets/img/PerfilesA.png)
+
+La pantalla de listado de perfiles de Artesano.
+
 ![alt text](../assets/img/PerfilesA-F1.png)
+
+La pantalla de listado de artesanos, pero con las opciones de filtros.
+
 ![alt text](../assets/img/PerfilesA-F2.png)
+
+La pantalla de listado de artesanos y sus filtros, pero en otro orden.
+
 ![alt text](../assets/img/Artesano.png)
+
+Pantalla que muestra el perfil de un Artesano, desde la vista de un Distribuidor.
+
 ![alt text](../assets/img/NuevoPedido.png)
+
+Pantalla de Asignación de Pedido a un Artesano.
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
@@ -440,7 +730,11 @@ https://www.figma.com/proto/va6WlnDEYIuYOGxzimk1bm/Project-Chow?node-id=152-214&
 
 ![ContainerDiagram](../assets/img/ContainerDiagra,.png)
 
+El diagrama de contexto representa la interacción del sistema de CraftSync con sus principales entidades externas y servicios. En el centro del diagrama se encuentra el sistema principal, que es el enfoque principal de nuestra atención.
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+El diagrama de contexto del sistema de contenedores muestra la interacción entre el sistema y sus componentes externos, la web application, que permite interactuar con el sistema, y el acceso a la base de datos, utilizada para almacenar y recuperar datos esenciales del sistema. Este esquema visual proporciona una visión clara de cómo el sistema se conecta con su entorno y los servicios clave que utiliza para su funcionamiento. 
 
 ### 1. Bounded Context Access Diagram
 
@@ -643,3 +937,5 @@ Expone la gestión de pedidos, enfocándose en cómo se procesan, actualizan y r
 ### 4.8.1. Database Diagram
 
 ![Database](../assets/img/CraftSyncDB.png)
+
+La base de datos de CraftSync es un componente fundamental de la plataforma que almacena y gestiona una variedad de datos relacionados con usuarios, pedidos, inventarios, materiales, publicaciones y más. Está diseñada para soportar las funcionalidades principales de la aplicación, incluyendo la gestión de usuarios, el monitoreo de pedidos, la gestión de ivnentarios y la administración de publicaciones. 
