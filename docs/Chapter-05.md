@@ -3420,7 +3420,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
     <td colspan="1">3</td>
     <td colspan="2">Bryan</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1">US05</td>
@@ -3430,7 +3430,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
     <td colspan="1">3</td>
     <td colspan="2">Diego</td>
-    <td colspan="1">In-Process</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1"></td>
@@ -3439,8 +3439,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar Enrutamiento</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Pedido, para hacerla accesible.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
   </tr>
   <tr>
     <td colspan="1">US12</td>
@@ -3449,8 +3449,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear entidad de Inventario</td>
     <td colspan="3">Yo, como desarrollador, quiero una entidad de Inventario para relacionarla con las funciones del Frontend.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">In-Process</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3459,8 +3459,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear servicio de Inventario</td>
     <td colspan="3">Yo, como desarrollador, quiero un servicio de Iventario para conectar con el Fake-API.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">In-Process</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3469,8 +3469,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear componente de Inventario</td>
     <td colspan="3">Yo, como desarrollador, quiero un componente de Inventario para implementar su comportamiento.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
   </tr>
   <tr>
     <td colspan="1">US18</td>
@@ -3480,7 +3480,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="3">Yo, como desarrollador, quiero un componente de Crear Publicación para implementar su comportamiento.</td>
     <td colspan="1">1</td>
     <td colspan="2">Marcelo</td>
-    <td colspan="1">In-Process</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1">US06</td>
@@ -3489,7 +3489,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear componente de Perfil</td>
     <td colspan="3">Yo, como desarrollador, quiero un componente de Inventario para implementar su comportamiento.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Marcelo</td>
+    <td colspan="2">Diego</td>
     <td colspan="1">Done</td>
   </tr>
     <tr>
@@ -3499,7 +3499,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar Fake API</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
   </tr>
     <tr>
@@ -3509,7 +3509,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear entidad de Perfil</td>
     <td colspan="3">Yo, como desarrollador, quiero una entidad de Perfil para relacionarla con las funciones del Frontend.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Salvador</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -3519,8 +3519,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear servicio de Perfil</td>
     <td colspan="3">Yo, como desarrollador, quiero un servicio de Perfil para conectar con el Fake-API.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3529,7 +3529,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear componente de Perfil</td>
     <td colspan="3">Yo, como desarrollador, quiero un componente de Perfil para implementar su comportamiento.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Marcelo</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -3549,7 +3549,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar Fake API</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
   </tr>
     <tr>
@@ -3559,7 +3559,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar enrutamiento</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Perfil, para hacerla accesible.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Salvador</td>
     <td colspan="1">Done</td>
   </tr>
     <tr>
@@ -3569,7 +3569,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear entidad de Perfil</td>
     <td colspan="3">Yo, como desarrollador, quiero una entidad de Perfil para relacionarla con las funciones del Frontend.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Bryan</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -3579,8 +3579,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear servicio de Perfil</td>
     <td colspan="3">Yo, como desarrollador, quiero un servicio de Perfil para conectar con el Fake-API.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3590,7 +3590,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="3">Yo, como desarrollador, quiero un componente de Asignar Pedido para implementar su comportamiento.</td>
     <td colspan="1">3</td>
     <td colspan="2">Diego</td>
-    <td colspan="1">To-do</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3599,8 +3599,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Diseñar página de Asignar Pedido</td>
     <td colspan="3">Yo, como artesano, quiero una página de Asignar Pedido para ver los Inventarios</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3609,8 +3609,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar Fake API</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1"></td>
@@ -3619,8 +3619,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar enrutamiento</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Asignar Pedido, para hacerla accesible.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1">US08</td>
@@ -3629,7 +3629,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear entidad de Perfil</td>
     <td colspan="3">Yo, como desarrollador, quiero una entidad de Perfil para relacionarla con las funciones del Frontend.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Marcelo</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -3640,7 +3640,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="3">Yo, como desarrollador, quiero un servicio de Perfil para conectar con el Fake-API.</td>
     <td colspan="1">1</td>
     <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3649,8 +3649,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear componente de Editar Perfil</td>
     <td colspan="3">Yo, como desarrollador, quiero un componente de Editar Perfil para implementar su comportamiento.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">In-Process</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3659,8 +3659,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Diseñar página de Editar Perfil</td>
     <td colspan="3">Yo, como artesano, quiero una página de Editar Perfil para ver los Inventarios</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">In-Process</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3669,7 +3669,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar Fake API</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Bryan</td>
     <td colspan="1">Done</td>
   </tr>
     <tr>
@@ -3679,8 +3679,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar enrutamiento</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Editar Perfil, para hacerla accesible.</td>
     <td colspan="1">1</td>
-    <td colspan="2">To-Do</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1">US09</td>
@@ -3699,8 +3699,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear servicio de Perfil</td>
     <td colspan="3">Yo, como desarrollador, quiero un servicio de Perfil para conectar con el Fake-API.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3709,7 +3709,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear componente de Perfil</td>
     <td colspan="3">Yo, como desarrollador, quiero un componente de Perfil para implementar su comportamiento.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Salvador</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -3719,7 +3719,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Diseñar página de Perfil</td>
     <td colspan="3">Yo, como artesano, quiero una página de Perfil para ver los Inventarios</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Bryan</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -3729,7 +3729,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar Fake API</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Marcelo</td>
     <td colspan="1">Done</td>
   </tr>
     <tr>
@@ -3749,7 +3749,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear entidad de Perfil</td>
     <td colspan="3">Yo, como desarrollador, quiero una entidad de Perfil para relacionarla con las funciones del Frontend.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -3759,8 +3759,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear servicio de Perfil</td>
     <td colspan="3">Yo, como desarrollador, quiero un servicio de Perfil para conectar con el Fake-API.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3769,7 +3769,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear componente de Perfil</td>
     <td colspan="3">Yo, como desarrollador, quiero un componente de Perfil para implementar su comportamiento.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Bryan</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -3779,7 +3779,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Diseñar página de Perfil</td>
     <td colspan="3">Yo, como artesano, quiero una página de Perfil para ver los Inventarios</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Marcelo</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -3799,7 +3799,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar enrutamiento</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Perfil, para hacerla accesible.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
   </tr>
     <tr>
@@ -3809,7 +3809,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear entidad de Inventario</td>
     <td colspan="3">Yo, como desarrollador, quiero una entidad de Inventario para relacionarla con las funciones del Frontend.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Salvador</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -3819,8 +3819,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear servicio de Inventario</td>
     <td colspan="3">Yo, como desarrollador, quiero un servicio de Perfil para conectar con el Fake-API.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">In-Process</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3829,8 +3829,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear componente de Inventario</td>
     <td colspan="3">Yo, como desarrollador, quiero un componente de Inventario para implementar su comportamiento.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3840,7 +3840,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="3">Yo, como artesano, quiero una página de Inventario para ver los Inventarios</td>
     <td colspan="1">3</td>
     <td colspan="2">Diego</td>
-    <td colspan="1">In-Process</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3849,7 +3849,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar Fake API</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
   </tr>
     <tr>
@@ -3859,7 +3859,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar enrutamiento</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Inventario, para hacerla accesible.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Salvador</td>
     <td colspan="1">Done</td>
   </tr>
     <tr>
@@ -3869,7 +3869,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear entidad de Inventario</td>
     <td colspan="3">Yo, como desarrollador, quiero una entidad de Inventario para relacionarla con las funciones del Frontend.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Bryan</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -3879,8 +3879,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear servicio de Inventario</td>
     <td colspan="3">Yo, como desarrollador, quiero un servicio de Perfil para conectar con el Fake-API.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3890,7 +3890,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="3">Yo, como desarrollador, quiero un componente de Agregar Material para implementar su comportamiento.</td>
     <td colspan="1">3</td>
     <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3899,8 +3899,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Diseñar página de Agregar Material</td>
     <td colspan="3">Yo, como artesano, quiero una página de Inventario para añadir un Material.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3909,8 +3909,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar Fake API</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1"></td>
@@ -3919,8 +3919,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar enrutamiento</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Agregar Material, para hacerla accesible.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1">US15</td>
@@ -3929,8 +3929,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear entidad de Material</td>
     <td colspan="3">Yo, como desarrollador, quiero una entidad de Material para relacionarla con las funciones del Frontend.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3940,7 +3940,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="3">Yo, como desarrollador, quiero un servicio de Material para conectar con el Fake-API.</td>
     <td colspan="1">1</td>
     <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3949,8 +3949,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear componente de Material</td>
     <td colspan="3">Yo, como desarrollador, quiero un componente de Material para implementar su comportamiento.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3959,8 +3959,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Diseñar página de Material</td>
     <td colspan="3">Yo, como artesano, quiero una página de Material para ver sus detalles y opciones</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3969,8 +3969,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar Fake API</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1"></td>
@@ -3979,8 +3979,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar enrutamiento</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Material, para hacerla accesible.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1">US16</td>
@@ -3990,7 +3990,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="3">Yo, como desarrollador, quiero una entidad de Material para relacionarla con las funciones del Frontend.</td>
     <td colspan="1">1</td>
     <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -3999,8 +3999,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear servicio de Material</td>
     <td colspan="3">Yo, como desarrollador, quiero un servicio de Material para conectar con el Fake-API.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -4009,8 +4009,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear componente de Material</td>
     <td colspan="3">Yo, como desarrollador, quiero un componente de Material para implementar su comportamiento.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -4019,8 +4019,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Diseñar página de Material</td>
     <td colspan="3">Yo, como artesano, quiero una página de Material para ver sus detalles y opciones</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -4029,8 +4029,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar Fake API</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1"></td>
@@ -4040,7 +4040,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Material, para hacerla accesible.</td>
     <td colspan="1">1</td>
     <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1">US19</td>
@@ -4049,7 +4049,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear entidad de Publicación</td>
     <td colspan="3">Yo, como desarrollador, quiero una entidad de Publicación para relacionarla con las funciones del Frontend.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -4059,7 +4059,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear servicio de Publicación</td>
     <td colspan="3">Yo, como desarrollador, quiero un servicio de Publicación para conectar con el Fake-API.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Salvador</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -4069,8 +4069,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear componente de Editar Publicación</td>
     <td colspan="3">Yo, como desarrollador, quiero un componente de Editar Publicación para implementar su comportamiento.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -4079,7 +4079,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Diseñar página de Editar Publicación</td>
     <td colspan="3">Yo, como artesano, quiero una página de Editar Publicación para cambiar los detalles de la Publicación.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Marcelo</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -4090,7 +4090,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
     <td colspan="1">3</td>
     <td colspan="2">Diego</td>
-    <td colspan="1">In-Process</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1"></td>
@@ -4099,7 +4099,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar enrutamiento</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Editar Publicación, para hacerla accesible.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
   </tr>
     <tr>
@@ -4109,7 +4109,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear entidad de Publicación</td>
     <td colspan="3">Yo, como desarrollador, quiero una entidad de Publicación para relacionarla con las funciones del Frontend.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Salvador</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -4119,7 +4119,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear servicio de Publicación</td>
     <td colspan="3">Yo, como desarrollador, quiero un servicio de Publicación para conectar con el Fake-API.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Bryan</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -4129,7 +4129,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear componente de Publicación</td>
     <td colspan="3">Yo, como desarrollador, quiero un componente de Publicación para implementar su comportamiento.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Marcelo</td>
     <td colspan="1">Done</td>
   </tr>
 <tr>
@@ -4140,7 +4140,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="3">Yo, como artesano, quiero una página de Publicación para ver sus detalles.</td>
     <td colspan="1">3</td>
     <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -4149,7 +4149,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar Fake API</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
   </tr>
     <tr>
@@ -4159,7 +4159,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar enrutamiento</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Publicación, para hacerla accesible.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Salvador</td>
     <td colspan="1">Done</td>
   </tr>
     <tr>
@@ -4169,8 +4169,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear entidad de Publicación</td>
     <td colspan="3">Yo, como desarrollador, quiero una entidad de Publicación para relacionarla con las funciones del Frontend.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -4179,8 +4179,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear servicio de Publicación</td>
     <td colspan="3">Yo, como desarrollador, quiero un servicio de Publicación para conectar con el Fake-API.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -4189,8 +4189,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Crear componente de Comentar Publicación</td>
     <td colspan="3">Yo, como desarrollador, quiero un componente de Comentar Publicación para implementar su comportamiento.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -4199,8 +4199,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Diseñar página de Comentar Publicación</td>
     <td colspan="3">Yo, como artesano, quiero una página de Comentar Publicación para añadir Comentarios a la Publicación.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -4210,7 +4210,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
     <td colspan="1">3</td>
     <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1"></td>
@@ -4219,18 +4219,18 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Conectar enrutamiento</td>
     <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Comentar Publicación, para hacerla accesible.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">Done</td>
   </tr>
     <tr>
     <td colspan="1">US36</td>
-    <td colspan="2">Editar Publicación.</td>
+    <td colspan="2">Integrar Frontend con Backend.</td>
     <td colspan="1">T01</td>
     <td colspan="2">Desplegar Backend</td>
     <td colspan="3">Yo, como desarrollador, quiero desplegar el Backend, para que las operaciones con la base de Datos estén funcionando.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -4240,7 +4240,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="3">Yo, como desarrollador, quiero actualizar las entidades, para que reflejen los datos que el API envía.</td>
     <td colspan="1">1</td>
     <td colspan="2">Diego</td>
-    <td colspan="1">In-Process</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -4249,8 +4249,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Actualizar Servicios</td>
     <td colspan="3">Yo, como desarrollador, quiero actualizar los servicios, para que interactúen con la API correctamente.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -4259,8 +4259,8 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Actualizar Componentes</td>
     <td colspan="3">Yo, como desarrollador, quiero actualizar los componentes, para reflejar las funciones del Backend.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Salvador</td>
+    <td colspan="1">Done</td>
   </tr>
 <tr>
     <td colspan="1"></td>
@@ -4269,7 +4269,7 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
     <td colspan="2">Desplegar Frontend</td>
     <td colspan="3">Yo, como desarrollador, quiero desplegar el Frontend tras los cambios, para mostrar la plataforma a los clientes.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
   </tr>
 </table>
@@ -4807,7 +4807,141 @@ Analiticas de Colaboración:
 ![alt text](../assets/img/insight4-3.png)
 ![alt text](../assets/img/insight4-4.png)
 
+## 5.3 Entrevistas de Validación
+
+### 5.3.1 Diseño de Entrevistas
+
+Para el diseño de entrevistas hemos optado por mostrar nuestra Landing Page y nuestro proceso del Frontend a nuestros segmentos objetivos, con tal de tener una retroalimentación por parte de ellos y ver los puntos positivos y negativos. Para verificar los flujos de uso de cada funcionalidad, se han grabado estas entrevistas, mostrando cada acción de los entrevistados en la plataforma.
+
+### 5.3.2 Registro de Entrevistas
+
+Para verificar la calidad de nuestro proyecto, se llevaron a cabo entrevistas donde miembros del público objetivo interactúan con la plataforma. Cada entrevista se documentó en video y se registraron los siguientes detalles:
+
+**Link de las Entrevistas Juntadas:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EQjONKpEdmVKhW3M84JcJoUBSkuGH972BaZ9KI9-AguVtA?e=O8WmH4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Entrevista 1: Andrés Román**
+
+**Nombre y Apellido:** Oscar Andrés Román Alvarado
+
+**Edad:** 22
+
+**Distrito:** Rímac, Lima
+
+**Screenshot de la Entrevista:** ![alt text](../assets/img/interview1.png)
+
+**Timelapse:** [00:00-03:25]
+
+**Resumen de la Entrevista:**
+
+Andrés Román inició probando la función de Generar Pedidos, rellenando los campos, pero notando que no es muy claro para qué es cada campo, al menos no en inglés. Presionó el botón de Confirmar, pero no pasó nada. Fue a Foro, donde probó la función de Crear Publicación, llenando los campos de Título y Contenido. Probó la función de Subir Fotos, y sí le dejó seleccionar una. Otra vez, al presionar el botón de Confirmar, no pasó nada. Vio la apariencia de Perfil, y no comentó nada negativo al respecto, aunque no aparecían datos y sus botones no funcionaban.
+
+### 5.3.3 Evaluación según Heurísticas
+
+**UX Heuristics & Principles Evaluation**
+
+**SITE o APP A EVALUAR:** CraftSync
+
+**TAREAS A EVALUAR:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Ver la lista de abogados con información relevante (precios, años de experiencia, especialización).
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1.
+
+**ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+<table>
+    <tr>
+        <td>Nivel</td>
+        <td>Descripción</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+    </tr>
+</table>
+
+#### Entrevista 1: Oscar Román
+
+**Tabla Resumen:**
+
+<table>
+    <tr>
+        <td>#</td>
+        <td>Problema</td>
+        <td>Escala de Severidad</td>
+        <td>Heurística/Principio Violado </td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>No es suficientemente claro para qué es cada campo en la generación de pedidos.</td>
+        <td>2</td>
+        <td>Information Architecture: Is it clear?</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Los botones para crear pedidos o publicaciones, no funcionan.</td>
+        <td>4</td>
+        <td>Information Architecture: Is it usable?</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Varios botones en las secciones de Foro y Perfil no hacen nada.</td>
+        <td>3</td>
+        <td>Information Architecture: Is it controllable?</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Todas las secciones no presentan información por defecto, lo que desorienta al usuario.</td>
+        <td>3</td>
+        <td>Information Architecture: Is it communicative?</td>
+    </tr>
+</table>
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** Falta información sobre leyes médicas o material educativo medico
+
+Severidad: 2
+Heurística violada: Information Architecture: Is it clear?
+Problema: No es suficientemente claro para qué es cada campo en la generación de pedidos.
+Recomendación: En el texto plantilla del formulario, aparte del nombre, incluír una corta descripción del campo.
+![alt text](../assets/img/esh1.png)
+
+Severidad: 4
+Heurística violada: Information Architecture: Is it usable?
+Problema: Los botones para crear pedidos o publicaciones, no funcionan.
+Recomendación: Vincularlo al API, para tener la operación POST
+![alt text](../assets/img/esh2.png)
+
+Severidad: 3
+Heurística violada: Information Architecture: Is it controllable?
+Problema: Varios botones en las secciones de Foro y Perfil no hacen nada.
+Recomendación: Quitar los botones, implementar el comportamiento, o hacer que lleven a una página plantilla.
+![alt text](../assets/img/esh3.png)
+
+Severidad: 3
+Heurística violada: Information Architecture: Is it communicative?
+Problema: Todas las secciones no presentan información por defecto, lo que desorienta al usuario.
+Recomendación: Vincularlo a un Fake API, o a un Backend real, para mostrar información. O, poner información pre-establecida, para que no se vea tan vacío.
+![alt text](../assets/img/esh4.png)
+
 ## 5.4 Video About-The-Product
+
 ![alt text](../assets/img/about_product.png)
 - Duración: 4:25
 - Link YT: https://youtu.be/Uje7RcCjFtM
@@ -4829,7 +4963,14 @@ Analiticas de Colaboración:
 - Kane, J. (2013). Manual de tipografía: Nueva edición. Editorial GG.
 
 # Anexos
-Vídeo TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914367_upc_edu_pe/EWuqLFS88whMoMunE2gQ810B0-5uV8xr3xaeM1rgjdQpvg 
-Vídeo TP: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EUuPTRMQ7cNPrw6odyrcgI0BTeMHg6H9V03t68XRzCt1NQ?e=SH5mna
-Vídeo TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EV3dIfari9BFlILbPig6VsoB1GOQQBlGPZseBB99Dg_TWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rhTX8A
-Vídeo About The Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/ETc4UeHDV7pCjetbB7WiHoEBuJByFKv5CKBtR28Zx9O5Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RWijEU
+[Vídeo Entrevistas:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213278_upc_edu_pe/EXiSUSiYDW5GqGS4PDdn_uEBukdsoybed9deXxLdZ6Mkdg?e=FUVypK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213278_upc_edu_pe/EXiSUSiYDW5GqGS4PDdn_uEBukdsoybed9deXxLdZ6Mkdg?e=FUVypK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+[Vídeo TB1:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914367_upc_edu_pe/EWuqLFS88whMoMunE2gQ810B0-5uV8xr3xaeM1rgjdQpvg) https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914367_upc_edu_pe/EWuqLFS88whMoMunE2gQ810B0-5uV8xr3xaeM1rgjdQpvg 
+
+[Vídeo TP:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EUuPTRMQ7cNPrw6odyrcgI0BTeMHg6H9V03t68XRzCt1NQ?e=SH5mna) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EUuPTRMQ7cNPrw6odyrcgI0BTeMHg6H9V03t68XRzCt1NQ?e=SH5mna
+
+[Vídeo TB2:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EV3dIfari9BFlILbPig6VsoB1GOQQBlGPZseBB99Dg_TWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rhTX8A) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EV3dIfari9BFlILbPig6VsoB1GOQQBlGPZseBB99Dg_TWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rhTX8A
+
+[Vídeo About The Product:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/ETc4UeHDV7pCjetbB7WiHoEBuJByFKv5CKBtR28Zx9O5Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RWijEU) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/ETc4UeHDV7pCjetbB7WiHoEBuJByFKv5CKBtR28Zx9O5Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RWijEU
+
+[Vídeo Validation Interviews:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EQjONKpEdmVKhW3M84JcJoUBSkuGH972BaZ9KI9-AguVtA?e=O8WmH4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EQjONKpEdmVKhW3M84JcJoUBSkuGH972BaZ9KI9-AguVtA?e=O8WmH4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
