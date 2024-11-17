@@ -3082,7 +3082,7 @@ Para esta primera entrega, nuestro equipo elaboró la primera versión del Backe
 **Endpoint Pedidos**: Se implementó el endpoint de Pedidos.
 ![alt text](../assets/img/evidence3-4.png)
 
-### 5.2.2.6. Services Documentation Evidence for Sprint Review
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 <table>
   <tr>
@@ -3315,13 +3315,13 @@ Para esta primera entrega, nuestro equipo elaboró la primera versión del Backe
   </tr>
 </table>
 
-### 5.2.2.7. Software Deployment Evidence for Sprint Review
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 No se logró desplegar el Backend Web app en el internet, así que hemos utilizado localhost para las pruebas, uniéndolo desde nuestro repositorio de GitHub para mostrar un backend completo. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestro Backend.
 
 ![alt text](../assets/img/deploy3-1.png)
 
-### 5.2.2.8. Team Collaboration Insights during Sprint
+### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
@@ -3329,6 +3329,1483 @@ Commits:
 ![alt text](../assets/img/insight3-1.png)
 Analiticas de Colaboración:
 ![alt text](../assets/img/insight3-2.png)
+
+### 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+Para este cuarto sprint nos enfocaremos en los tasks para la tercera versión del Frontend Web Application, y la segunda versión del Backend Web Application. Nos dividiremos entre nosotros cada
+una de las tareas identificadas para el sprint.
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-11-04</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">20:00 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Aula B-606, UPC San Isidro</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Marcelo Rentería</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Gabriel Garcia, Diego Flores, Salvador Chamorro, Marcelo Rentería, Bryan Espejo</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 4 Review Summary</td>
+    <td colspan="8">En esta sección se planteó la integración del Backend Web App, con el Frontend Web App, y la mejora de ambos para nuestro proyecto llamado CraftSync</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 4 Retrospective Summary</td>
+    <td colspan="8"></td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Nuestro enfoque está en mejorar el Landing Page, que conecta con el Frontend que vamos a completar e integrar con los endpoints del Backend. Creemos que brinda una mejor experiencia de usuario a los visitantes del Landing Page, que se volverán artesanos y compradores que aprovecharán la funcionalidad completa del Frontend, y que hacen que los desarrolladores se beneficien de la plataforma de Servicios Web integrada. Esto se confirmará cuando la Landing Page muestre el Call-to-Action para la conexión con el Frontend, el cual esté desarrollado al 100% y este haga Requests y reciba Responses del Backend implementado al 100%.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">15 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">36 Story Points</td>
+</tr>
+</table>
+
+### 5.2.4.2. Sprint Backlog 4
+
+El enlace a la herramienta de gestión es este:
+https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1">US27</td>
+    <td colspan="2">Visualizar Pedidos</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Bryan</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1">US05</td>
+    <td colspan="2">Actualizar Progreso</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Conectar Enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Pedido, para hacerla accesible.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+  <tr>
+    <td colspan="1">US12</td>
+    <td colspan="2">Crear inventario</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Inventario para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Iventario para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Inventario para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+  <tr>
+    <td colspan="1">US18</td>
+    <td colspan="2">Crear publicación</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear componente de Crear Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Crear Publicación para implementar su comportamiento.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+    <tr>
+    <td colspan="1">US06</td>
+    <td colspan="2">Visualizar perfil de usuario propio.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear componente de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Inventario para implementar su comportamiento.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US03</td>
+    <td colspan="2">Solicitar Trabajo.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Perfil para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Perfil para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Perfil para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Perfil</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Perfil para ver los Inventarios</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Perfil, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US04</td>
+    <td colspan="2">Asignar Pedido.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Perfil para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Perfil para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Asignar Pedido</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Asignar Pedido para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Asignar Pedido</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Asignar Pedido para ver los Inventarios</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Asignar Pedido, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+    <tr>
+    <td colspan="1">US08</td>
+    <td colspan="2">Actualizar Información de Perfil.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Perfil para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Perfil para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Editar Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Editar Perfil para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Editar Perfil</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Editar Perfil para ver los Inventarios</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Editar Perfil, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">To-Do</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+    <tr>
+    <td colspan="1">US09</td>
+    <td colspan="2">Borrar Cuenta.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Perfil para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Perfil para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Perfil para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Perfil</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Perfil para ver los Inventarios</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Perfil, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US10</td>
+    <td colspan="2">Cerrar Sesión.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Perfil para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Perfil para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Perfil</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Perfil para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Perfil</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Perfil para ver los Inventarios</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Perfil, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US13</td>
+    <td colspan="2">Eliminar Inventario.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Inventario para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Perfil para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Inventario para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Inventario</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Inventario para ver los Inventarios</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Inventario, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US14</td>
+    <td colspan="2">Agregar Materiales en Inventario.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Inventario para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Inventario</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Perfil para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Agregar Material</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Agregar Material para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Agregar Material</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Inventario para añadir un Material.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Agregar Material, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+    <tr>
+    <td colspan="1">US15</td>
+    <td colspan="2">Visualizar Detalles de un Material.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Material</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Material para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Material</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Material para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Material</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Material para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Material</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Material para ver sus detalles y opciones</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Material, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+    <tr>
+    <td colspan="1">US16</td>
+    <td colspan="2">Buscar Materiales dentro de un Inventario.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Material</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Material para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Material</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Material para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Material</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Material para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Material</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Material para ver sus detalles y opciones</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Material, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+    <tr>
+    <td colspan="1">US19</td>
+    <td colspan="2">Editar Publicación.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Publicación para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Publicación para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Editar Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Editar Publicación para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Editar Publicación</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Editar Publicación para cambiar los detalles de la Publicación.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Editar Publicación, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US20</td>
+    <td colspan="2">Eliminar Publicación.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Publicación para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Publicación para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Publicación para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Publicación</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Publicación para ver sus detalles.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Publicación, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1">US21</td>
+    <td colspan="2">Comentar Publicación.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Crear entidad de Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero una entidad de Publicación para relacionarla con las funciones del Frontend.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Crear servicio de Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero un servicio de Publicación para conectar con el Fake-API.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Crear componente de Comentar Publicación</td>
+    <td colspan="3">Yo, como desarrollador, quiero un componente de Comentar Publicación para implementar su comportamiento.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Diseñar página de Comentar Publicación</td>
+    <td colspan="3">Yo, como artesano, quiero una página de Comentar Publicación para añadir Comentarios a la Publicación.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Conectar Fake API</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el Frontend con el Fake API, para comprobar las acciones CRUD.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+    <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T06</td>
+    <td colspan="2">Conectar enrutamiento</td>
+    <td colspan="3">Yo, como desarrollador, quiero conectar el routerlink con la página de Comentar Publicación, para hacerla accesible.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+    <tr>
+    <td colspan="1">US36</td>
+    <td colspan="2">Editar Publicación.</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Desplegar Backend</td>
+    <td colspan="3">Yo, como desarrollador, quiero desplegar el Backend, para que las operaciones con la base de Datos estén funcionando.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Actualizar Entidades</td>
+    <td colspan="3">Yo, como desarrollador, quiero actualizar las entidades, para que reflejen los datos que el API envía.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Actualizar Servicios</td>
+    <td colspan="3">Yo, como desarrollador, quiero actualizar los servicios, para que interactúen con la API correctamente.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Actualizar Componentes</td>
+    <td colspan="3">Yo, como desarrollador, quiero actualizar los componentes, para reflejar las funciones del Backend.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">To-Do</td>
+  </tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Desplegar Frontend</td>
+    <td colspan="3">Yo, como desarrollador, quiero desplegar el Frontend tras los cambios, para mostrar la plataforma a los clientes.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+</table>
+
+### 5.2.4.3. Development Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">3b408f8ca494017d4053c58fc33974e99ae11b13</td>
+        <td colspan="2">feat(profile): Fixed subscriptions component and routes.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">11/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">b82811290a04932911066c1aa88de36c312011c1</td>
+        <td colspan="2">feat(profile): Fixed the issue with profile fake-api.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">11/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-back-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">6f52cbfa3100f8194b02adc95472e7eed21d824a</td>
+        <td colspan="2">feat(inventories): added connection for creating material and inventories.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">13/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">0b8b2e946ea7dc0596774e915ddbeac25bb0dd64</td>
+        <td colspan="2">fix: update post-item component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">76494e17fe7b420f8f76ba87b2ab942224dbee46</td>
+        <td colspan="2">feat: added comment service.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">222f4c71a606e4527bcf2bbc4aa997c179cd000c</td>
+        <td colspan="2">feat: added comment entity.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">a8e740989a2351793041c984891ed0e731d5a207</td>
+        <td colspan="2">feat: update post-view component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">667bf7fb32dc2c099e2377da5d24b8991d56f128</td>
+        <td colspan="2">fix: update basePath to backend url.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d4c71bb831bbc246e9952c09aacc6c8599dd035d</td>
+        <td colspan="2">feat(forum): fix comment route.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">07c506b8030dad4ccc69b98c0434110998783de9</td>
+        <td colspan="2">fix: update basePath to backend url.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d6eb9fafe58102ddf303db90c66ead533c79a8d2</td>
+        <td colspan="2">feat: added new comment.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-back-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">b1cfe44c2ff870f36ebb0a0264a43a5860cd9acc</td>
+        <td colspan="2">fix: update post endpoint.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-back-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">34332664d73ba3ce5de26c369af2c4b2aecbe110</td>
+        <td colspan="2">feat: added config to connect with frontend.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-back-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">f56e50222844dc71c9aac30297f8c9145587390e</td>
+        <td colspan="2">feat: Added Salvador's progress.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">15/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-back-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">a6f98999b2b2d3eca1839dd5e25966e1781ddcd5</td>
+        <td colspan="2">fix: removed node modules.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-back-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">f92862a1a4b70dafbd0ac921ee6ba88592eb5856</td>
+        <td colspan="2">fix: removed node modules.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-back-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">90ff7125f79a41e67f2684d06292d28444922265</td>
+        <td colspan="2">feat(iam): added iam context.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-back-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">84cb869dde475a16c4b73fa45de3093d8d2ee3ad</td>
+        <td colspan="2">feat(profile): update profile context using roles.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+</table>
+
+### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+
+Para esta cuarta entrega, nuestro equipo elaboró la cuarta versión del Landing Page del proyecto "CraftSync". De tal modo, se los visitantes podrán informarse sobre nosotros y la plataforma.
+
+**Sección de Inicio**: Se implementó el Header y Language Switching de nuestra Landing Page.
+![alt text](../assets/img/evidence4-1-1.png)
+**Sección de About The Team**: Se implementó la sección que habla del Equipo.
+![alt text](../assets/img/evidence4-1-1.png)
+**Sección de About The Product**: Se implementó la sección que habla del Producto.
+![alt text](../assets/img/evidence4-1-1.png)
+**Sección de Servicios**: Se implementó la sección de los servicios ofrecidos.
+![alt text](../assets/img/evidence4-1-4.png)
+**Sección de Planes**: Se implementó la sección de ver los tipos de suscripción.
+![alt text](../assets/img/evidence4-1-5.png)
+**Sección de Contacto**:  la sección de contacto para facilitar la comunicación con los usuarios.
+![alt text](../assets/img/evidence4-1-6.png)
+**Sección de Creadores**: Se agregaron secciones de información sobre los creadores del proyecto
+![alt text](../assets/img/evidence4-1-7.png)
+**Sección de Footer**: Se añadió un footer para la navegación y contacto.
+![alt text](../assets/img/evidence4-1-8.png)
+
+Para esta cuarta entrega, nuestro equipo elaboró la tercera versión del Backend Web App del proyecto "CraftSync". De tal modo, se podrán visualizar las funcionalidades de la plataforma.
+
+**Sección de Lista de Pedidos**: Se implementó la lista de Pedidos del Artesano.
+![alt text](../assets/img/evidence4-2-1.png)
+**Sección de Inventario**: Se implementó la lista de Materiales.
+![alt text](../assets/img/evidence4-2-2.png)
+**Sección de Foro**: Se implementó la lista de Publicaciones.
+![alt text](../assets/img/evidence4-2-3.png)
+**Sección de Pedido**: Se implementó la vista de Pedido.
+![alt text](../assets/img/evidence4-2-4.png)
+**Sección de Publicación**: Se implementó la vista de Publicación.
+![alt text](../assets/img/evidence4-2-5.png)
+**Sección de Perfil**: Se implementó parcialmente la vista del Perfil de Artesano.
+![alt text](../assets/img/evidence4-2-6.png)
+
+Para esta cuarta entrega, nuestro equipo elaboró la segunda versión del Backend Web App del proyecto "CraftSync". De tal modo, se podrá visualizar el funcionamiento de los endpoints del proyecto.
+
+**Endpoint Materials**: Se implementó el endpoint de Materiales.
+![alt text](../assets/img/evidence4-3-1.png)
+**Endpoint Authentication**: Se implementó el endpoint de Registro e Inicio de Sesión.
+![alt text](../assets/img/evidence4-3-2.png)
+**Endpoint Inventories**: Se implementó el endpoint de Inventarios.
+![alt text](../assets/img/evidence4-3-3.png)
+**Endpoint Profiles**: Se implementó el endpoint de Perfiles de usuario.
+![alt text](../assets/img/evidence4-3-4.png)
+**Endpoint Comments**: Se implementó el endpoint de Comentarios.
+![alt text](../assets/img/evidence4-3-5.png)
+**Endpoint Roles**: Se implementó el endpoint de Roles.
+![alt text](../assets/img/evidence4-3-6.png)
+**Endpoint Posts**: Se implementó el endpoint de Publicaciones.
+![alt text](../assets/img/evidence4-3-7.png)
+**Endpoint Orders**: Se implementó el endpoint de Pedidos.
+![alt text](../assets/img/evidence4-3-8.png)
+**Endpoint Users**: Se implementó el endpoint de Usuarios.
+![alt text](../assets/img/evidence4-3-9.png)
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+<table>
+  <tr>
+    <th>Endpoint</th>
+    <th>Acción</th>
+    <th>Verbo HTTP</th>
+    <th>Sintaxis de Llamada</th>
+    <th>Parámetros</th>
+    <th>Ejemplo de Llamada</th>
+    <th>Explicación del Response</th>
+  </tr>
+    <tr>
+    <td>/materials/</td>
+    <td>Obtener por Id</td>
+    <td>GET</td>
+    <td>/api/v1/materials/{materialId}</td>
+    <td>ID del material</td>
+    <td>GET /api/v1/materials/1</td>
+    <td>200 OK: Devuelve los detalles del material con el ID especificado</td>
+  </tr>
+    <tr>
+    <td>/materials/</td>
+    <td>Actualizar</td>
+    <td>PUT</td>
+    <td>/api/v1/materials/{materialId}</td>
+    <td>ID del material</td>
+    <td>PUT /api/v1/materials/1</td>
+    <td>200 OK: Devuelve el material actualizado.</td>
+  </tr>
+  <tr>
+    <td>/materials/</td>
+    <td>Borrar</td>
+    <td>DELETE</td>
+    <td>/api/v1/materials/{materialId}</td>
+    <td>ID del material</td>
+    <td>DELETE /api/v1/materials/1</td>
+    <td>200 OK: Confirma que se borró el material.</td>
+  </tr>
+    <tr>
+    <td>/materials</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/materials</td>
+    <td>-</td>
+    <td>GET /api/v1/materials</td>
+    <td>200 OK: Devuelve una lista de todos los materiales</td>
+  </tr>
+    <tr>
+    <td>/materials</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/materials</td>
+    <td>-</td>
+    <td>POST /api/v1/materials</td>
+    <td>200 OK: Devuelve el material creado.</td>
+  </tr>
+    <tr>
+    <td>/authentication</td>
+    <td>Registrarse</td>
+    <td>POST</td>
+    <td>/api/v1/authentication/sign-up</td>
+    <td>-</td>
+    <td>POST /api/v1/authentication/sign-up</td>
+    <td>200 OK: Devuelve el usuario creado.</td>
+  </tr>
+    <tr>
+    <td>/authentication</td>
+    <td>Iniciar Sesión</td>
+    <td>POST</td>
+    <td>/api/v1/authentication/sign-in</td>
+    <td>-</td>
+    <td>POST /api/v1/authentication/sign-in</td>
+    <td>200 OK: Devuelve el token del usuario.</td>
+  </tr>
+    <tr>
+    <td>/inventories</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/inventories</td>
+    <td>-</td>
+    <td>GET /api/v1/inventories</td>
+    <td>200 OK: Devuelve una lista de todos los inventarios</td>
+  </tr>
+    <tr>
+    <td>/inventories</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/inventories</td>
+    <td>-</td>
+    <td>POST /api/v1/inventories</td>
+    <td>200 OK: Devuelve el inventario creado.</td>
+  </tr>
+    <tr>
+    <td>/inventories</td>
+    <td>Borrar</td>
+    <td>DELETE</td>
+    <td>/api/v1/inventories/{inventoryID}</td>
+    <td>ID del Inventario</td>
+    <td>DELETE /api/v1/inventories/1</td>
+    <td>200 OK: Confirma que se borró el inventario.</td>
+  </tr>
+  <tr>
+    <td>/profiles</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/profiles</td>
+    <td>-</td>
+    <td>GET /api/v1/profiles</td>
+    <td>200 OK: Devuelve una lista de todos los perfiles</td>
+  </tr>
+  <tr>
+    <td>/profiles</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/profiles</td>
+    <td>-</td>
+    <td>POST /api/v1/profiles</td>
+    <td>200 OK: Devuelve el perfil creado.</td>
+  </tr>
+    <tr>
+    <td>/comments/</td>
+    <td>Obtener por Id</td>
+    <td>GET</td>
+    <td>/api/v1/comments/{commentId}</td>
+    <td>ID del comentario</td>
+    <td>GET /api/v1/comments/1</td>
+    <td>200 OK: Devuelve los detalles del comentario con el ID especificado</td>
+  </tr>
+    <tr>
+    <td>/comments/</td>
+    <td>Actualizar</td>
+    <td>PUT</td>
+    <td>/api/v1/comments/{commentId}</td>
+    <td>ID del comentario</td>
+    <td>PUT /api/v1/comments/1</td>
+    <td>200 OK: Devuelve el comentario actualizado.</td>
+  </tr>
+  <tr>
+    <td>/comments/</td>
+    <td>Borrar</td>
+    <td>DELETE</td>
+    <td>/api/v1/comments/{commentId}</td>
+    <td>ID del comentario</td>
+    <td>DELETE /api/v1/comments/1</td>
+    <td>200 OK: Confirma que se borró el comentario</td>
+  </tr>
+    <tr>
+    <td>/comments</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/comments</td>
+    <td>-</td>
+    <td>GET /api/v1/comments</td>
+    <td>200 OK: Devuelve una lista de todos los comentarios</td>
+  </tr>
+    <tr>
+    <td>/comments</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/comments</td>
+    <td>-</td>
+    <td>POST /api/v1/comments</td>
+    <td>200 OK: Devuelve el comentario creado.</td>
+  </tr>
+     <tr>
+    <td>/comments/</td>
+    <td>Listar por Id de Post</td>
+    <td>GET</td>
+    <td>/api/v1/comments/post/{postId}</td>
+    <td>ID de Post</td>
+    <td>GET /api/v1/comments/post/1</td>
+    <td>200 OK: Devuelve los comentarios con el ID de Post especificado</td>
+     </tr>
+    <tr>
+    <td>/roles</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/roles</td>
+    <td>-</td>
+    <td>GET /api/v1/roles</td>
+    <td>200 OK: Devuelve una lista de todos los roles</td>
+  </tr>
+    <tr>
+    <td>/posts</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/posts</td>
+    <td>-</td>
+    <td>GET /api/v1/posts</td>
+    <td>200 OK: Devuelve una lista de todos los posts</td>
+  </tr>
+    <tr>
+    <td>/posts</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/posts</td>
+    <td>-</td>
+    <td>POST /api/v1/posts</td>
+    <td>200 OK: Devuelve el post creado.</td>
+  </tr>
+    <tr>
+    <td>/posts/</td>
+    <td>Obtener por Id</td>
+    <td>GET</td>
+    <td>/api/v1/posts/{postId}</td>
+    <td>ID del post</td>
+    <td>GET /api/v1/posts/1</td>
+    <td>200 OK: Devuelve los detalles del post con el ID especificado</td>
+  </tr>
+    <tr>
+    <td>/posts/</td>
+    <td>Borrar</td>
+    <td>DELETE</td>
+    <td>/api/v1/posts/{postId}</td>
+    <td>ID del post</td>
+    <td>DELETE /api/v1/posts/1</td>
+    <td>200 OK: Confirma que se borró el post</td>
+  </tr>
+    <tr>
+    <td>/orders/</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/orders/</td>
+    <td>-</td>
+    <td>GET /api/v1/orders/</td>
+    <td>200 OK: Devuelve una lista de todos los pedidos.</td>
+  </tr>
+    <tr>
+    <td>/orders/</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/orders/</td>
+    <td>-</td>
+    <td>POST /api/v1/orders/</td>
+    <td>200 OK: Devuelve el pedido creado.</td>
+  </tr>
+    <tr>
+    <td>/orders/</td>
+    <td>Crear rechazo</td>
+    <td>POST</td>
+    <td>/api/v1/orders/{orderId}/rejections</td>
+    <td>Id de la Orden</td>
+    <td>POST /api/v1/orders/1/rejections</td>
+    <td>200 OK: Devuelve el pedido con el rechazo creado</td>
+  </tr>
+    <tr>
+    <td>/orders/</td>
+    <td>Crear confirmación</td>
+    <td>POST</td>
+    <td>/api/v1/orders/{orderId}/confirmations</td>
+    <td>Id de la Orden</td>
+    <td>POST /api/v1/orders/1/confirmations</td>
+    <td>200 OK: Devuelve el pedido con la confirmación creada</td>
+  </tr>
+    <tr>
+    <td>/orders/</td>
+    <td>Obtener por Id</td>
+    <td>GET</td>
+    <td>/api/v1/orders/{orderId}</td>
+    <td>Id de la Orden</td>
+    <td>GET /api/v1/orders/1</td>
+    <td>200 OK: Devuelve el pedido con el Id indicado.</td>
+  </tr>
+    <tr>
+    <td>/users/</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/users/</td>
+    <td>-</td>
+    <td>GET /api/v1/users/</td>
+    <td>200 OK: Devuelve una lista de todos los usuarios</td>
+  </tr>
+    <tr>
+    <td>/users/</td>
+    <td>Obtener por Id</td>
+    <td>GET</td>
+    <td>/api/v1/users/{userId}</td>
+    <td>Id de Usuario</td>
+    <td>GET /api/v1/users/1</td>
+    <td>200 OK: Devuelve el usuario con el Id indicado.</td>
+  </tr>
+</table>
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
+
+![alt text](../assets/img/deploy1.png)
+
+Una vez creado el repositorio, entraremos a configuración del repositorio y escogemos el apartado de Pages. Se coloca la información necesaria, como la fuente del branch a utilizar para realizar el deployment. Luego de eso, Github Pages nos brindará el link y desplegará nuestra landing page en la Web.
+
+![alt text](../assets/img/deploy2.png)
+
+Para el despliegue del Frontend Web app, hemos utilizado la herramienta de Netlify, vincúlandola con nuestro repositorio de GitHub para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
+
+![alt text](../assets/img/deploy2-1.png)
+
+Una vez creado el repositorio, entraremos a Netlify, vinculamos el repositorio y lo configuramos. Se coloca la información necesaria, como la fuente del branch a utilizar para realizar el deployment. Luego de eso, Netlify nos confirmará el despliegue, al que podremos ingresar.
+
+![alt text](../assets/img/deploy2-2.png)
+
+Para el despliegue del Frontend Web app, hemos utilizado la herramienta de Azure, vincúlandola con nuestro repositorio de GitHub para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
+
+![alt text](../assets/img/deploy3-1.png)
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de este cuarto sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+Commits:
+![alt text](../assets/img/insight4-1.png)
+![alt text](../assets/img/insight4-2.png)
+Analiticas de Colaboración:
+![alt text](../assets/img/insight4-3.png)
+![alt text](../assets/img/insight4-4.png)
 
 ## 5.4 Video About-The-Product
 ![alt text](../assets/img/about_product.png)
@@ -3355,3 +4832,4 @@ Analiticas de Colaboración:
 Vídeo TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914367_upc_edu_pe/EWuqLFS88whMoMunE2gQ810B0-5uV8xr3xaeM1rgjdQpvg 
 Vídeo TP: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EUuPTRMQ7cNPrw6odyrcgI0BTeMHg6H9V03t68XRzCt1NQ?e=SH5mna
 Vídeo TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EV3dIfari9BFlILbPig6VsoB1GOQQBlGPZseBB99Dg_TWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rhTX8A
+Vídeo About The Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/ETc4UeHDV7pCjetbB7WiHoEBuJByFKv5CKBtR28Zx9O5Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RWijEU
