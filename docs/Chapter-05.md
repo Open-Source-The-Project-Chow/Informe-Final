@@ -35,6 +35,7 @@ Para gestionar las modificaciones en nuestro proyecto, emplearemos GitHub como p
 - Enlace del Frontend: https://develop--tpc-front-end-app.netlify.app/
 - Enlace del Fake API: https://github.com/Open-Source-The-Project-Chow/fake-api
 - Repositorio del Backend: https://github.com/Open-Source-The-Project-Chow/tpc-back-end
+- Enlace del Backend desplegado: https://tpc-back-end-production.up.railway.app/swagger-ui/index.html
 
 Para estructurar nuestro control de versiones, implementaremos el modelo GitFlow como nuestro flujo de trabajo estándar. Este modelo se basa en dos ramas principales: main (rama principal) y develop (rama de desarrollo), y varias ramas auxiliares, incluyendo feature, release, y hotfix, cada una con un propósito específico:
 
@@ -4433,6 +4434,161 @@ https://trello.com/b/qqWeZmJt/the-project-chow-202402-wx64-sprint-backlog-4
 
 ### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">3b408f8ca494017d4053c58fc33974e99ae11b13</td>
+        <td colspan="2">feat(profile): Fixed subscriptions component and routes.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">11/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">b82811290a04932911066c1aa88de36c312011c1</td>
+        <td colspan="2">feat(profile): Fixed the issue with profile fake-api.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">11/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-back-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">6f52cbfa3100f8194b02adc95472e7eed21d824a</td>
+        <td colspan="2">feat(inventories): added connection for creating material and inventories.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">13/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">0b8b2e946ea7dc0596774e915ddbeac25bb0dd64</td>
+        <td colspan="2">fix: update post-item component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">76494e17fe7b420f8f76ba87b2ab942224dbee46</td>
+        <td colspan="2">feat: added comment service.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">222f4c71a606e4527bcf2bbc4aa997c179cd000c</td>
+        <td colspan="2">feat: added comment entity.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">a8e740989a2351793041c984891ed0e731d5a207</td>
+        <td colspan="2">feat: update post-view component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">667bf7fb32dc2c099e2377da5d24b8991d56f128</td>
+        <td colspan="2">fix: update basePath to backend url.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d4c71bb831bbc246e9952c09aacc6c8599dd035d</td>
+        <td colspan="2">feat(forum): fix comment route.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">07c506b8030dad4ccc69b98c0434110998783de9</td>
+        <td colspan="2">fix: update basePath to backend url.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-front-end</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d6eb9fafe58102ddf303db90c66ead533c79a8d2</td>
+        <td colspan="2">feat: added new comment.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-back-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">b1cfe44c2ff870f36ebb0a0264a43a5860cd9acc</td>
+        <td colspan="2">fix: update post endpoint.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-back-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">34332664d73ba3ce5de26c369af2c4b2aecbe110</td>
+        <td colspan="2">feat: added config to connect with frontend.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">14/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-back-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">f56e50222844dc71c9aac30297f8c9145587390e</td>
+        <td colspan="2">feat: Added Salvador's progress.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">15/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-back-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">a6f98999b2b2d3eca1839dd5e25966e1781ddcd5</td>
+        <td colspan="2">fix: removed node modules.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-back-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">f92862a1a4b70dafbd0ac921ee6ba88592eb5856</td>
+        <td colspan="2">fix: removed node modules.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-back-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">90ff7125f79a41e67f2684d06292d28444922265</td>
+        <td colspan="2">feat(iam): added iam context.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-The-Project-Chow/tpc-back-end</td>
+        <td colspan="2">Master</td>
+        <td colspan="2">84cb869dde475a16c4b73fa45de3093d8d2ee3ad</td>
+        <td colspan="2">feat(profile): update profile context using roles.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">16/10/2024</td>
+    </tr>
+</table>
+
 ### 5.2.4.5. Execution Evidence for Sprint Review
 
 Para esta cuarta entrega, nuestro equipo elaboró la cuarta versión del Landing Page del proyecto "CraftSync". De tal modo, se los visitantes podrán informarse sobre nosotros y la plataforma.
@@ -4457,15 +4613,15 @@ Para esta cuarta entrega, nuestro equipo elaboró la cuarta versión del Landing
 Para esta cuarta entrega, nuestro equipo elaboró la tercera versión del Backend Web App del proyecto "CraftSync". De tal modo, se podrán visualizar las funcionalidades de la plataforma.
 
 **Sección de Lista de Pedidos**: Se implementó la lista de Pedidos del Artesano.
-![alt text](../assets/img/evidence4-2-1.png)
+![alt text](../assets/img/evidence2-1.png)
 **Sección de Inventario**: Se implementó la lista de Materiales.
-![alt text](../assets/img/evidence4-2-2.png)
+![alt text](../assets/img/evidence2-2.png)
 **Sección de Foro**: Se implementó la lista de Publicaciones.
-![alt text](../assets/img/evidence4-2-3.png)
+![alt text](../assets/img/evidence2-3.png)
 **Sección de Pedido**: Se implementó la vista de Pedido.
 ![alt text](../assets/img/evidence4-2-4.png)
 **Sección de Publicación**: Se implementó la vista de Publicación.
-![alt text](../assets/img/evidence4-2-5.png)
+![alt text](../assets/img/evidence2-5.png)
 **Sección de Perfil**: Se implementó parcialmente la vista del Perfil de Artesano.
 ![alt text](../assets/img/evidence4-2-6.png)
 
@@ -4792,9 +4948,13 @@ Una vez creado el repositorio, entraremos a Netlify, vinculamos el repositorio y
 
 ![alt text](../assets/img/deploy2-2.png)
 
-Para el despliegue del Frontend Web app, hemos utilizado la herramienta de Azure, vincúlandola con nuestro repositorio de GitHub para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
+Para el despliegue del Backend Web app, hemos utilizado la herramienta de Azure, vincúlandola con nuestro repositorio de GitHub para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
 
 ![alt text](../assets/img/deploy3-1.png)
+
+Una vez creado el repositorio, entraremos a Azure, vinculamos el repositorio y lo configuramos. Se coloca la información necesaria,  para realizar el deployment. Luego de eso, Azure nos confirmará el despliegue, al que podremos ingresar.
+
+[alt text](../assets/img/deploy4.png)
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 
@@ -4817,7 +4977,7 @@ Para el diseño de entrevistas hemos optado por mostrar nuestra Landing Page y n
 
 Para verificar la calidad de nuestro proyecto, se llevaron a cabo entrevistas donde miembros del público objetivo interactúan con la plataforma. Cada entrevista se documentó en video y se registraron los siguientes detalles:
 
-**Link de las Entrevistas Juntadas:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EQjONKpEdmVKhW3M84JcJoUBSkuGH972BaZ9KI9-AguVtA?e=O8WmH4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[**Link de las Entrevistas Juntadas:**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EQjONKpEdmVKhW3M84JcJoUBSkuGH972BaZ9KI9-AguVtA?e=O8WmH4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
 
 **Entrevista 1: Andrés Román**
 
@@ -4944,14 +5104,21 @@ Recomendación: Vincularlo a un Fake API, o a un Backend real, para mostrar info
 
 ![alt text](../assets/img/about_product.png)
 - Duración: 4:25
-- Link YT: https://youtu.be/Uje7RcCjFtM
-- Link Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/ETc4UeHDV7pCjetbB7WiHoEBuJByFKv5CKBtR28Zx9O5Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RWijEU
+- [Link YT:](https://youtu.be/Uje7RcCjFtM) 
+- [Link Microsoft Stream:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/ETc4UeHDV7pCjetbB7WiHoEBuJByFKv5CKBtR28Zx9O5Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RWijEU) 
 
 # Conclusiones
 - La aplicación permitirá a los artesanos gestionar eficientemente sus pedidos, materiales y procesos de producción, optimizando su flujo de trabajo. Podrán organizar sus inventarios de manera efectiva mediante un sistema de estanterías y actualizar el progreso de sus pedidos, lo que fomenta la transparencia y la mejora de la planificación.
 - Los distribuidores tendrán visibilidad en tiempo real del estado de los pedidos que realizan a los artesanos, lo que facilita el control del progreso y los plazos de entrega, promoviendo una mayor confianza y satisfacción en la relación comercial.
 - La herramienta de gestión de inventarios facilita la administración de los materiales y recursos que los artesanos utilizan en sus talleres. Esto permitirá un mejor control del stock, la reducción de desperdicios, y la planificación anticipada de compras de insumos necesarios para futuros pedidos.
 - Dado que este proyecto es una iniciativa completamente nueva, hay muchas oportunidades para refinar el producto a través de la retroalimentación de usuarios y la experimentación con nuevas características. El uso de métricas clave y el análisis del comportamiento del usuario permitirá ajustar y mejorar la solución de manera continua.
+
+# Vídeo About-The-Team
+
+![alt text](../assets/img/team.png)
+- Duración: 13:17
+- [Link YT:](https://youtu.be/yPui45nGae0)
+- [Link Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EXRiRBRkFTRMhu_jYmhqeqABXJXjjgIBRBXut57t2tocMw?e=8q8TaM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # Bibliografía
 - Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
@@ -4974,3 +5141,5 @@ Recomendación: Vincularlo a un Fake API, o a un Backend real, para mostrar info
 [Vídeo About The Product:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/ETc4UeHDV7pCjetbB7WiHoEBuJByFKv5CKBtR28Zx9O5Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RWijEU) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/ETc4UeHDV7pCjetbB7WiHoEBuJByFKv5CKBtR28Zx9O5Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RWijEU
 
 [Vídeo Validation Interviews:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EQjONKpEdmVKhW3M84JcJoUBSkuGH972BaZ9KI9-AguVtA?e=O8WmH4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EQjONKpEdmVKhW3M84JcJoUBSkuGH972BaZ9KI9-AguVtA?e=O8WmH4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+[Vídeo TF:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/EVhj9EVDSqhJkRB20ajmqIoBb2YJZRKaws7C2FiUuUK_PQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=pLzCib)
